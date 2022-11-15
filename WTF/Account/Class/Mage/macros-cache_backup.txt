@@ -1,0 +1,97 @@
+VER 3 01000000000006A0 "1" "135810"
+#showtooltip
+/startattack
+/use Frostbolt
+/use Fireball
+END
+VER 3 01000000000006A8 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use Scorch
+END
+VER 3 0100000000000023 "Burst" "INV_Misc_QuestionMark"
+#showtooltip Time Warp
+/use [nomod] 14
+/use [nomod] Icy Veins;
+/use [nomod] Time Warp;
+/use [nomod] Mirror Image;
+/use [nomod] Combustion;
+/use [nomod] Arcane Power
+/use [nomod] Presence of Mind
+END
+VER 3 0100000000000007 "Counter Spell" "INV_Misc_QuestionMark"
+#showtooltip Counterspell
+/stopcasting
+/use [mod:ctrl,target=focus] Counterspell;Counterspell
+END
+VER 3 010000000000001B "F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Ice Block;
+/cancelaura Invisibility;
+/stopcasting [nomod]
+/startattack
+/use [nomod] Fire Blast
+/use [mod:shift] Blink;
+/use [nomod, target=mouseover, exists]Ice Lance;Ice Lance;
+/use [nomod] Arcane Barrage
+END
+VER 3 010000000000001E "Freeze" "Ability_DeathKnight_AoeDeathGrip"
+#showtooltip Freeze
+/use [nopet] Summon Water Elemental;
+/use [pet:Water Elemental] Freeze;
+END
+VER 3 01000000000006A4 "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Ice Block
+/startattack
+/use [nomod] Pyroblast
+/use [mod:shift] Greater Pyroblast
+END
+VER 3 010000000000001C "Ice Block" "INV_Misc_QuestionMark"
+#showtooltip
+/use !Ice Block
+END
+VER 3 0100000000000027 "Invisibility" "INV_MISC_QUESTIONMARK"
+#showtooltip Invisibility
+/cancelaura Ice Block;
+/petfollow;
+/use Invisibility
+END
+VER 3 0100000000000014 "Polymorph" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:ctrl,target=focus] Polymorph;
+/use [mod:shift] Ring of Frost;
+/use [nomod] Polymorph;
+/use [mod:ctrl,target=focus] Polymorph;
+END
+VER 3 010000000000000E "Q" "INV_Misc_QuestionMark"
+#showtooltip Frost Nova
+/cancelaura [nomod] Ice Block;
+/use [mod:shift] Ring of Frost;Frost Nova;
+END
+VER 3 0100000000000005 "Remove Curse" "INV_Misc_QuestionMark"
+#showtooltip Remove Curse
+/use [@mouseover,help][@target,help] [@player]Remove Curse
+END
+VER 3 01000000000006A3 "RIng of Poly" "INV_Misc_QuestionMark"
+#showtooltip
+/cancelaura Ice Block;
+/use [nomod] Polymorph;
+/use [mod:shift] Ring of Frost;
+END
+VER 3 01000000000006A5 "Slow Fall" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] Slow Fall
+/cancelaura [mod:shift] Slow Fall
+END
+VER 3 01000000000006A6 "T" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] Dragon's Breath
+/use [mod:shift] Flamestrike
+END
+VER 3 01000000000006A7 "X" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Ice Block
+/use [nomod] Combustion
+/use [mod:shift] Time Warp
+END

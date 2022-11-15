@@ -1,0 +1,139 @@
+VER 3 0100000000000240 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/petattack [nomod]
+/startattack [nomod]
+/use [nomod] Harpoon
+/use [nomod] Arcane Shot
+/use [mod:shift] Barrage
+/use Claw
+/use Bite
+/use Smack
+END
+VER 3 0100000000000239 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/petattack [nomod]
+/startattack [nomod]
+/stopattack [nomod]
+/use [nomod] Steady Shot
+/use [nomod] Barbed Shot;
+/use [mod:shift,@cursor] Ripple In Space
+/use [nomod] Claw
+/use [nomod] Bite
+/use Smack
+END
+VER 3 010000000000023F "3" "INV_MISC_QUESTIONMARK"
+#showtooltip Aimed Shot
+/click [btn:1]MTSB121 LeftButton;[btn:2]MTSB121 RightButton;[btn:3]MTSB121 MiddleButton;[btn:4]MTSB121 Button4;[btn:5]MTSB121 Button5
+END
+VER 3 0100000000000233 "4" "134325"
+#showtooltip
+/stopcasting
+/stopcasting
+/startattack
+/petattack
+/use Concussive Shot
+/use Wing Clip
+/use [mod:shift] 15
+/use [mod:shift] Horde Glider Kit
+END
+VER 3 010000000000024B "BM Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/usesequence [nomod,spec:1]reset=combat/10 Bestial Wrath, A Murder of Crows,Barbed Shot;
+/use [nomod] 13
+/use [mod:shift] 14
+END
+VER 3 0100000000000247 "C" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] Hunter's Mark
+/use [mod:shift] !Camouflage
+END
+VER 3 0100000000000232 "E" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/cancelaura Aspect of the Turtle
+/use [nomod] Counter Shot;
+/use [nomod] Muzzle;
+/use [mod:shift, @target] Spirit Shock;
+/use [mod:shift, @target] Scatter Shot
+END
+VER 3 010000000000023D "F" "132176"
+#showtooltip
+/petattack [nomod]
+/startattack [nomod]
+/use [nomod] Kill Command
+/use [nomod] Rapid Fire
+/petfollow [mod:shift]
+/dismount [mod:shift]
+/use [@player,mod:shift][@target,mod:ctrl][@pet,mod:alt] Spirit Mend
+/use [mod:shift] Bursting Shot
+END
+VER 3 010000000000023A "Feign Death" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/petfollow
+/use Feign Death
+END
+VER 3 010000000000008F "Freezing Trap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/use [@cursor] !Freezing trap
+/use [mod:shift] Mending Bandage
+END
+VER 3 0100000000000248 "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/startattack [nomod]
+/use [nomod] Kill Shot
+/use [nomod] Wildfire Bomb
+/dismount [mod:shift]
+/use [mod:shift] Double Tap
+END
+VER 3 0100000000000242 "M1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] Double Tap
+/use [mod:shift,@player] Aspect of the Cheetah
+END
+VER 3 010000000000024A "M2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack [nomod]
+/startattack [nomod]
+/use [nomod] Multi-Shot;
+/use [mod:shift] Barrage
+END
+VER 3 0100000000000243 "Pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@pet,exists,nodead,nomod]Mend Pet
+/use [@pet,mod:shift] Revive Pet
+/use [@pet,dead,nomod] Revive Pet
+/use [nodead,nomod,nopet,spec:2/3] Call Pet 2
+/use [nodead,nomod,nopet,spec:1] Call Pet 1
+/use [mod:ctrl] Dismiss Pet
+END
+VER 3 0100000000000244 "R" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod,@cursor] !Tar Trap
+/use [mod:shift] Tranquilizing Shot
+END
+VER 3 0100000000000245 "T" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor,nomod] !Hi-Explosive Trap
+END
+VER 3 010000000000023B "X" "132166"
+#showtooltip
+/startattack
+/petattack
+/usesequence [nomod,spec:3]reset=combat/10 Coordinated Assault, A Murder of Crows;
+/usesequence [nomod,spec:1]reset=combat/10 Bestial Wrath, A Murder of Crows,Kill Command;
+/use [nomod,spec:2] Trueshot
+END
+VER 3 0100000000000246 "Z" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] !Flare
+END

@@ -1,0 +1,93 @@
+VER 3 0100000000000026 "1 Shot Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip Dark Soul
+/cast Dark Soul
+/use [nomod] 14
+END
+VER 3 010000000000001E "Aff Combo E" "INV_MISC_QUESTIONMARK"
+#showtooltip Command Demon
+/cast [mod:shift] Seed of Corruption;
+/cast [mod:ctrl] Soulburn; 
+/cast [mod:ctrl] Seed of Corruption;
+/petattack [nomod] ;
+/cast [nomod] Command Demon;
+END
+VER 3 0100000000000024 "Corruption" "INV_Misc_QuestionMark"
+#showtooltip Corruption
+/cast [target=mouseover,exists] Corruption;
+/cast Corruption;
+END
+VER 3 0100000000000028 "Demo Combo E" "INV_MISC_QUESTIONMARK"
+#showtooltip Command Demon
+/cast [mod:ctrl,target=focus,exists] Axe Tosst;[mod:shift] Command Demon;
+/petattack [nomod] ;
+/cast [nomod] Axe Toss
+END
+VER 3 010000000000002D "Demonic Circle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Demonic Circle: Summon;
+/cast [mod:shift] Demonic Circle: Teleport
+END
+VER 3 0100000000000007 "Destro Combo E" "INV_Misc_QuestionMark"
+#showtooltip Mesmerize
+/cast [mod:ctrl,target=focus,exists] Mesmerize;[mod:shift] Seed of Corruption;
+/petattack [nomod] ;
+/cast [nomod] Mesmerize;
+/cast Seduction
+/cast Disarm;
+END
+VER 3 010000000000000E "Drain" "INV_Misc_QuestionMark"
+#showtooltip Drain Life
+/stopcasting;
+/cast [mod:ctrl,exists] Banish;
+/cast [mod:ctrl] Banish;Drain Life;
+/cast [mod:shift] Drain Soul;
+END
+VER 3 0100000000000029 "Fel Ember" "INV_MISC_QUESTIONMARK"
+#showtooltip Ember Tap
+/cast [mod:shift] Ember Tap;
+/cast [target=mouseover,exists] Fel Flame;Fel Flame
+END
+VER 3 010000000000002C "Fel Ember Tap" "INV_MISC_QUESTIONMARK"
+#showtooltip Fel Flame
+/cast [mod:shift] Ember Tap;
+/cast [target=mouseover,exists] Fel Flame;Fel Flame
+/stopcasting
+END
+VER 3 0100000000000027 "Fel Tap" "INV_Misc_QuestionMark"
+#showtooltip Unstable Affliction
+/cast [mod:shift] Life Tap;
+/cast Unstable Affliction
+END
+VER 3 010000000000000B "Flame Totem" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Shadowburn
+/cast [mod:shift] Chaos Bolt
+END
+VER 3 010000000000002B "Hellfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Hellfire
+/cancelaura [channeling] Hellfire 
+/stopmacro [channeling] 
+/cast Hellfire 
+/script UIErrorsFrame:Clear() 
+END
+VER 3 010000000000002A "Mouse Havoc" "INV_MISC_QUESTIONMARK"
+#showtooltip Havoc
+/cast [target=mouseover,exists] Havoc;Havoc
+END
+VER 3 0100000000000014 "S-Fhunter" "INV_Misc_QuestionMark"
+#showtooltip Summon Felhunter
+/cast [mod:shift] Soulburn;
+/cast [mod:shift] Summon Felhunter
+/cast Summon Felhunter
+END
+VER 3 010000000000001C "SBSS" "INV_Misc_QuestionMark"
+#showtooltip Soulburn
+/cast [nomod] Soulburn;
+/cast [nomod, harm] Soul Swap;
+/cast [nomod, help] Unending Breath;
+END
+VER 3 0100000000000023 "Soul Swap" "INV_Misc_QuestionMark"
+#showtooltip Soul Swap
+/cast [target=mouseover,exists] Soul Swap;
+/cast Soul Swap;
+END

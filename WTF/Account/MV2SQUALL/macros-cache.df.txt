@@ -1,0 +1,114 @@
+VER 3 0000000000000013 "[Hunter] F5" "132180"
+#showtooltip Misdirection
+/click SmartMisdirect
+END
+VER 3 0000000000000011 "[Hunter] M1" "134400"
+#showtooltip Revive Pet
+/click btn_Hunter_Macro_M1
+END
+VER 3 0000000000000012 "[Hunter] M2" "134400"
+#showtooltip Multi-Shot
+/click btn_Hunter_Macro_M2
+END
+VER 3 0000000000000014 "[Hunter] MDown" "132142"
+#showtooltip
+/petpassive
+/stopattack
+/stopattack
+/petfollow
+/stopattack
+END
+VER 3 0000000000000015 "[Hunter] MUp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack [nomod]
+/click PetActionButton9
+/use [nomod,nogroup] Growl
+/use [nomod] Kill Command
+/petattack [nomod]
+/use [nomod] Claw
+/use [nomod] Bite
+/use [nomod] Smack
+/use [mod:shift] Growl
+END
+VER 3 0000000000000016 "[Hunter] Set PVE" "INV_MISC_QUESTIONMARK"
+/run SetBinding("TAB","TARGETNEARESTENEMY")
+/equipset [spec:1] BM PVE
+/equipset [spec:2] MM PVE
+/equipset [spec:3] SV PVE
+END
+VER 3 0000000000000001 "Bomb" "133709"
+#showtooltip 
+/use Seaforium Bombs
+/use Huge Seaforium Bombs
+END
+VER 3 0000000000000003 "Boss Button" "133015"
+#showtooltip 
+/click ExtraActionButton1
+END
+VER 3 0000000000000002 "Clear World Mark" "236188"
+/cwm 0
+END
+VER 3 0000000000000004 "Eject Passenger" "656552"
+/run EjectPassengerFromSeat(1)
+/run EjectPassengerFromSeat(2)
+END
+VER 3 0000000000000005 "Focus Mouseover" "132177"
+/focus [@mouseover]
+END
+VER 3 0000000000000006 "Focus Target" "132177"
+/focus [@target]
+END
+VER 3 0000000000000007 "KrrPrr" "656556"
+/tar Elder Gwenna
+/focus Elder Gwenna
+/tar Te'zan
+/focus Te'zan
+/tar Kivarr
+/focus Kivarr
+/tar Foreman Thorodir
+/focus Foreman Thorodir
+/tar Warden Casad
+/focus Warden Casad
+/tar Guardian Kota
+/focus Guardian Kota
+/run SetRaidTarget("target",8)
+END
+VER 3 0000000000000008 "Loot-a-rang" "986491"
+#showtooltip Loot-A-Rang
+/targetlasttarget [noexists,nocombat]
+/cast [@mouseover,harm,dead][harm,dead] Loot-A-Rang
+END
+VER 3 0000000000000009 "Net-o-Matic 5000" "134325"
+#showtooltip Net-o-Matic 5000
+/use Net-o-Matic 5000
+/s Netting %t
+END
+VER 3 000000000000000A "Party Sync End" "134400"
+/script QuestSessionManager:StopSession();
+/script QuestSessionManager.CheckStopDialog:Confirm()
+/script C_PartyInfo.LeaveParty()
+END
+VER 3 000000000000000B "Party Sync Start" "134400"
+/invite Tharrain-Frostmourne
+/in 1 /script QuestSessionManager.CheckStartDialog:Confirm()
+/skada reset
+END
+VER 3 0000000000000017 "Set Speed" "INV_MISC_QUESTIONMARK"
+/equipset Speed
+END
+VER 3 000000000000000C "Set World Marker" "236188"
+/cwm [mod] all
+/click ActionButton8 Button5
+END
+VER 3 000000000000000D "TM Moon" "135900"
+/tm [@mouseover,exists][@target,exists] 5
+END
+VER 3 000000000000000E "TM Star" "135731"
+/tm [@mouseover,exists][@target,exists] 1
+END
+VER 3 000000000000000F "Trinket 1" "134400"
+/use 13
+END
+VER 3 0000000000000010 "Trinket 2" "134400"
+/use 14
+END

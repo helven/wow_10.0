@@ -1,0 +1,15 @@
+
+WQPartyVars = {
+	["sendPartyMessage"] = false,
+	["leavePartyPrompt"] = true,
+	["channel"] = 1,
+	["FrameLoc"] = {
+		["y"] = -22.316068649292,
+		["x"] = 23.8028774261475,
+		["point"] = "TOPLEFT",
+		["relativePoint"] = "TOPLEFT",
+	},
+	["automaticLFM"] = false,
+	["customPartyMessage"] = "",
+	["LFMchannel"] = 1,
+}

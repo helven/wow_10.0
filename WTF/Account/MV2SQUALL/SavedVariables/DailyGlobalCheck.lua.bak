@@ -1,0 +1,288 @@
+
+DailyGlobalCheck_Options = {
+	["show_minimapicons"] = true,
+	["frame_position"] = {
+		"TOP", -- [1]
+		nil, -- [2]
+		"TOP", -- [3]
+		-220.156448364258, -- [4]
+		0, -- [5]
+	},
+	["show_questtype"] = false,
+	["show_coordinates"] = true,
+	["DGC_Version"] = 1004,
+	["show_worldmapicons"] = true,
+	["chars_blacklist"] = {
+	},
+	["show_questlogbtn"] = true,
+	["Colors"] = {
+		"|cffAAAAAA", -- [1]
+		"|cffffffcc", -- [2]
+		"|cffffffff", -- [3]
+		"|cffffffff", -- [4]
+		"|cffdddddd", -- [5]
+		"|cffffcc00", -- [6]
+		"|cff20FF20", -- [7]
+		"|cffFF2020", -- [8]
+		"|cff11DDFF", -- [9]
+	},
+	["show_suffix"] = false,
+	["minimap_icon"] = {
+		["minimapPos"] = 156.541019699614,
+		["hide"] = false,
+	},
+	["NyxGUI_Data"] = {
+		["default_theme"] = "main",
+		["main"] = {
+			["l3_texture"] = "Interface\\Buttons\\WHITE8X8",
+			["l2_texture"] = "Interface\\Buttons\\WHITE8X8",
+			["l0_color"] = "121212E6",
+			["l1_color"] = "0000007F",
+			["f_button_color"] = "FFFFFFFF",
+			["l2_color"] = "020702FF",
+			["f_label_name"] = "Fonts\\FRIZQT__.ttf",
+			["f_label_h"] = 11,
+			["l0_border"] = "191919E6",
+			["l1_border"] = "191919E6",
+			["l2_border"] = "001900FF",
+			["f_button_h"] = 12,
+			["l3_border"] = "00140033",
+			["l3_color"] = "05660D26",
+			["l0_texture"] = "Interface\\Buttons\\GreyscaleRamp64",
+			["l1_texture"] = "Interface\\Buttons\\WHITE8X8",
+			["f_button_flags"] = "",
+			["thumb"] = "19B219FF",
+			["f_button_name"] = "Fonts\\FRIZQT__.ttf",
+			["f_label_color"] = "FFFFFFFF",
+			["f_label_flags"] = "",
+			["highlight"] = "00FF0033",
+		},
+	},
+	["UI"] = {
+		["minimap_icon_interact"] = true,
+		["worldmap_icon_interact"] = true,
+		["worldmap_icon_size"] = 17,
+		["minimap_icon_size"] = 14,
+	},
+	["hide_completed"] = false,
+	["show_zone"] = false,
+	["show_prefix"] = false,
+}
+DailyGlobalCheck_CharData = {
+	["Senjutsu-Gundrak"] = {
+		["info"] = "BloodElf~0~WARRIOR~Horde~110",
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531321199,
+			["mReset"] = 1531310399,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1531247820,
+	},
+	["Leonaldon-Frostmourne"] = {
+		["info"] = "Gnome~0~MAGE~Alliance~100",
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531321199,
+			["mReset"] = 1531310399,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1531251768,
+	},
+	["Sensujin-Gundrak"] = {
+		["data"] = {
+		},
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531753199,
+			["mReset"] = 1531742399,
+		},
+		["info"] = "BloodElf~0~DEMONHUNTER~Horde~110",
+		["last_login"] = 1531682139,
+	},
+	["Senjitsu-Gundrak"] = {
+		["data"] = {
+		},
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531321199,
+			["mReset"] = 1531310399,
+		},
+		["info"] = "BloodElf~0~MONK~Horde~110",
+		["last_login"] = 1531249356,
+	},
+	["Senzuke-Gundrak"] = {
+		["info"] = "BloodElf~0~HUNTER~Horde~110",
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531321199,
+			["mReset"] = 1531310399,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1531245024,
+	},
+	["Vandrill-Gundrak"] = {
+		["info"] = "BloodElf~0~PALADIN~Horde~100",
+		["resets"] = {
+			["wReset"] = 1514246400,
+			["dReset"] = 1514213999,
+			["mReset"] = 1514203199,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1514145392,
+	},
+	["Senjitsu-Frostmourne"] = {
+		["info"] = "Human~1~MONK~Alliance~110",
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531753199,
+			["mReset"] = 1531742399,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1531680675,
+	},
+	["Senzx-Frostmourne"] = {
+		["info"] = "Human~0~WARLOCK~Alliance~100",
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531321199,
+			["mReset"] = 1531310399,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1531250727,
+	},
+	["Senorlax-Frostmourne"] = {
+		["data"] = {
+		},
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531321199,
+			["mReset"] = 1531310399,
+		},
+		["info"] = "Human~0~WARRIOR~Alliance~110",
+		["last_login"] = 1531251402,
+	},
+	["Frostsync-Frostmourne"] = {
+		["data"] = {
+		},
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531321199,
+			["mReset"] = 1531310399,
+		},
+		["info"] = "NightElf~1~DEATHKNIGHT~Alliance~100",
+		["last_login"] = 1531250396,
+	},
+	["Brewjitsu-Frostmourne"] = {
+		["info"] = "Pandaren~0~MONK~Alliance~64",
+		["resets"] = {
+			["wReset"] = 1531180800,
+			["dReset"] = 1531148399,
+			["mReset"] = 1531137599,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1531070459,
+	},
+	["Frostsync-Gundrak"] = {
+		["data"] = {
+		},
+		["resets"] = {
+			["wReset"] = 1514246400,
+			["dReset"] = 1514213999,
+			["mReset"] = 1514203199,
+		},
+		["info"] = "BloodElf~0~DEATHKNIGHT~Horde~100",
+		["last_login"] = 1514145962,
+	},
+	["Senjuken-Gundrak"] = {
+		["info"] = "Tauren~0~WARRIOR~Horde~84",
+		["resets"] = {
+			["wReset"] = 1517875200,
+			["dReset"] = 1517756399,
+			["mReset"] = 1517745599,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1517684463,
+	},
+	["Vaeliir-Frostmourne"] = {
+		["info"] = "Human~0~PALADIN~Alliance~100",
+		["resets"] = {
+			["wReset"] = 1531180800,
+			["dReset"] = 1531148399,
+			["mReset"] = 1531137599,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1531068451,
+	},
+	["Senruko-Frostmourne"] = {
+		["data"] = {
+		},
+		["resets"] = {
+			["wReset"] = 1531785600,
+			["dReset"] = 1531753199,
+			["mReset"] = 1531742399,
+		},
+		["info"] = "Human~1~HUNTER~Alliance~110",
+		["last_login"] = 1531680573,
+	},
+	["Zenguard-Gundrak"] = {
+		["info"] = "BloodElf~1~DEATHKNIGHT~Horde~55",
+		["resets"] = {
+			["wReset"] = 1514246400,
+			["dReset"] = 1513781999,
+			["mReset"] = 1513771199,
+		},
+		["data"] = {
+		},
+		["last_login"] = 1513695960,
+	},
+}
+DGC_CustomLists = {
+	["Lists"] = {
+	},
+	["QuestsData"] = {
+	},
+}
+DailyGlobalCheck_Localization = {
+	["Quests"] = {
+		[48192] = "Tar Spitter",
+		[47728] = "Talestra the Vile",
+		[48502] = "Naroua, King of the Forest",
+		[47542] = "Siegemaster Voraan",
+		[47507] = "Khazaduum",
+		[47561] = "Blistermaw",
+		[48509] = "Commander Sathrenael",
+		[48510] = "Commander Vecaya",
+		[48511] = "Commander Endaxis",
+		[48512] = "Sister Subversia",
+		[47552] = "Mistress Il'thendra",
+		[48091] = "Vagath the Betrayed",
+		[47566] = "Gar'zoth",
+		[48867] = "Chief Alchemist Munculus",
+		[48827] = "Varga",
+		[48828] = "Lieutenant Xakaar",
+		[48829] = "Wrath-Lord Yarez",
+		[48830] = "Inquisitor Vethroz",
+		[48831] = "Commander Texlaz",
+		[48832] = "Admiral Rel'var",
+		[48835] = "Houndmaster Kerrax",
+		[48834] = "Worldsplitter Skuul",
+		[48866] = "Void Warden Valsuran",
+		[48836] = "Watcher Aival",
+		[48837] = "All-Seer Xanarian",
+		[48466] = "Ven'orn",
+		[48467] = "Puscilla",
+		[48282] = "Imp Mother Laglath",
+		[48465] = "Vrax'thul",
+		[47953] = "Tereck the Selector",
+	},
+}

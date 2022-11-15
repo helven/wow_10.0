@@ -1,0 +1,10 @@
+
+BattlefieldMapOptions = {
+	["locked"] = true,
+	["opacity"] = 0,
+	["showPlayers"] = true,
+	["position"] = {
+		["y"] = 137,
+		["x"] = 1207.222290039063,
+	},
+}

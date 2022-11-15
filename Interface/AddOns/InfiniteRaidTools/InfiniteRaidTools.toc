@@ -1,0 +1,78 @@
+## Interface: 100000
+## Title: Infinite Raid Tools
+## Version: 9.65
+## Notes: Raid Tools
+## Author: Ant-Kazzak
+## SavedVariables: IRT_InterruptEnabled
+## SavedVariables: IRT_NextInterrupt
+## SavedVariables: IRT_InnervateEnabled
+## SavedVariables: IRT_PopupTextFontSize
+## SavedVariables: IRT_HungeringDestroyerEnabled
+## SavedVariables: IRT_LadyInervaDarkveinEnabled
+## SavedVariables: IRT_HuntsmanAltimorEnabled
+## SavedVariables: IRT_TheCouncilOfBloodEnabled
+## SavedVariables: IRT_SludgefistEnabled
+## SavedVariables: IRT_SenderReadyCheck
+## SavedVariables: IRT_HungeringDestroyerPercent
+## SavedVariables: IRT_TheNineEnabled
+## SavedVariables: IRT_ReleaseEnabled
+## SavedVariables: IRT_FatescribeRohKaloEnabled
+## SavedVariables: IRT_RemnantOfNerzhulEnabled
+## SavedVariables: IRT_LordsOfDreadEnabled
+## SavedVariables: IRT_LordsOfDreadDebugLog
+## SavedVariables: IRT_PrototypePantheonEnabled
+## SavedVariables: IRT_InterruptSound
+## SavedVariablesPerCharacter: IRT_PopupTextPosition
+## SavedVariablesPerCharacter: IRT_ConsumableCheckEnabled
+## SavedVariablesPerCharacter: IRT_CalendarNotificationEnabled
+## SavedVariablesPerCharacter: IRT_ReadyCheckEnabled
+## SavedVariablesPerCharacter: IRT_ReadyCheckFlashing
+## SavedVariablesPerCharacter: IRT_MinimapMode
+## SavedVariablesPerCharacter: IRT_MinimapDegree
+## SavedVariablesPerCharacter: IRT_InfoBoxPosition
+## SavedVariablesPerCharacter: IRT_ConsumableAutoButtonsEnabled
+## SavedVariablesPerCharacter: IRT_AutoKitPosition
+## SavedVariablesPerCharacter: IRT_AutoOilPosition
+## SavedVariablesPerCharacter: IRT_StoneLegionGeneralsEnabled
+## SavedVariablesPerCharacter: IRT_HuntsmanAltimorPlayersPerLine
+## SavedVariablesPerCharacter: IRT_LoDPosition
+Localization\Localization.enUS.lua
+
+Core.lua
+Options\Options.lua
+Options\GeneralOptions.lua
+Options\Minimap.lua
+Popup.lua
+InfoBox.lua
+Modules\Interrupts.lua
+Options\InterruptOptions.lua
+Modules\ConsumableCheck.lua
+Options\ConsumableCheckOptions.lua
+Modules\ReadyCheck.lua
+Options\ReadyCheckOptions.lua
+Modules\Innervate.lua
+Options\InnervateOptions.lua
+Modules\CalendarNotification.lua
+Options\CalendarNotificationOptions.lua
+Modules\Release.lua
+Options\ReleaseOptions.lua
+Modules\HuntsmanAltimor.lua
+Options\HuntsmanAltimorOptions.lua
+Modules\HungeringDestroyer.lua
+Options\HungeringDestroyerOptions.lua
+Modules\LadyInervaDarkvein.lua
+Options\LadyInervaDarkveinOptions.lua
+Modules\CouncilofBlood.lua
+Options\CouncilofBloodOptions.lua
+Modules\Sludgefist.lua
+Options\SludgefistOptions.lua
+Modules\StoneLegionGenerals.lua
+Options\StoneLegionGeneralsOptions.lua
+Modules\TheNine.lua
+Options\TheNineOptions.lua
+Modules\RemnantOfNerzhul.lua
+Options\RemnantOfNerzhulOptions.lua
+Modules\FatescribeRohKalo.lua
+Options\FatescribeRohKaloOptions.lua
+Modules\LordsOfDread.lua
+Options\LordsOfDreadOptions.lua

@@ -1,0 +1,59 @@
+
+TLDRMissionsProfiles = {
+	["profileKeys"] = {
+		["Senjitsu - Frostmourne"] = "Senjitsu - Frostmourne",
+		["Senvorath - Gundrak"] = "Senvorath - Gundrak",
+		["Feihai - Jubei'Thos"] = "Feihai - Jubei'Thos",
+		["Minyak - Jubei'Thos"] = "Minyak - Jubei'Thos",
+		["Senjíchan - Frostmourne"] = "Senjíchan - Frostmourne",
+		["Senviction - Frostmourne"] = "Senviction - Frostmourne",
+		["Najib - Jubei'Thos"] = "Najib - Jubei'Thos",
+		["Testxext - Frostmourne"] = "Testxext - Frostmourne",
+		["Senjitsu - Saurfang"] = "Senjitsu - Saurfang",
+		["Senshimusu - Gundrak"] = "Senshimusu - Gundrak",
+		["Senshizo - Frostmourne"] = "Senshizo - Frostmourne",
+		["Rahruken - Suramar"] = "Rahruken - Suramar",
+		["Senshinzo - Frostmourne"] = "Senshinzo - Frostmourne",
+		["Ngonghai - Jubei'Thos"] = "Ngonghai - Jubei'Thos",
+		["Pepsikilla - Suramar"] = "Pepsikilla - Suramar",
+		["Senobie - Emerald Dream"] = "Senobie - Emerald Dream",
+	},
+	["profiles"] = {
+		["Senjitsu - Frostmourne"] = {
+		},
+		["Senvorath - Gundrak"] = {
+		},
+		["Feihai - Jubei'Thos"] = {
+		},
+		["Minyak - Jubei'Thos"] = {
+		},
+		["Senjíchan - Frostmourne"] = {
+		},
+		["Senviction - Frostmourne"] = {
+		},
+		["Najib - Jubei'Thos"] = {
+		},
+		["Testxext - Frostmourne"] = {
+		},
+		["Senjitsu - Saurfang"] = {
+		},
+		["Senshimusu - Gundrak"] = {
+		},
+		["Senshizo - Frostmourne"] = {
+		},
+		["Rahruken - Suramar"] = {
+		},
+		["Senshinzo - Frostmourne"] = {
+		},
+		["Ngonghai - Jubei'Thos"] = {
+		},
+		["Pepsikilla - Suramar"] = {
+		},
+		["Senobie - Emerald Dream"] = {
+		},
+	},
+}
+TLDRMissionsCache = {
+	["10.0-003"] = {
+	},
+}

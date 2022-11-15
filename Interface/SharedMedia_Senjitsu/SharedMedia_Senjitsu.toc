@@ -1,0 +1,4 @@
+## Interface: 100000
+## Title: |cff1784d1Senjitsu|r |cfd9b9b9bMedia (old)|r
+## Author: Senjitsu
+Senjitsu.lua 

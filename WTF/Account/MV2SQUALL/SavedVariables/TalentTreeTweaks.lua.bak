@@ -1,0 +1,37 @@
+
+TalentTreeTweaksDB = {
+	["modules"] = {
+	},
+	["moduleDb"] = {
+		["ScaleTalentFrame"] = {
+		},
+		["DebugNodeInfo"] = {
+			["slashDump"] = false,
+			["viragDevTool"] = true,
+			["luaBrowser"] = true,
+			["tinspect"] = true,
+		},
+		["RespecButtons"] = {
+		},
+		["ExportInspectedBuild"] = {
+		},
+		["SearchForIds"] = {
+		},
+		["TooltipIds"] = {
+			["professionTooltip"] = {
+				["enabled"] = true,
+				["nodeId"] = true,
+				["spellId"] = true,
+				["definitionId"] = false,
+				["entryId"] = true,
+			},
+			["talentTooltip"] = {
+				["enabled"] = true,
+				["nodeId"] = true,
+				["spellId"] = true,
+				["definitionId"] = false,
+				["entryId"] = true,
+			},
+		},
+	},
+}

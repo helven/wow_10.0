@@ -1,0 +1,136 @@
+
+OmniCCDB = {
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.0.1",
+	},
+	["profileKeys"] = {
+		["Senjichan - Frostmourne"] = "Default",
+		["Senvorath - Gundrak"] = "Default",
+		["Minyak - Jubei'Thos"] = "Default",
+		["Senjitsu - Caelestrasz"] = "Default",
+		["Senshikari - Frostmourne"] = "Default",
+		["Senreithis - Frostmourne"] = "Default",
+		["Senviction - Frostmourne"] = "Default",
+		["Sensujin - Gundrak"] = "Default",
+		["Pepsikilla - Suramar"] = "Default",
+		["Senshigeru - Caelestrasz"] = "Default",
+		["Mahlou - Jubei'Thos"] = "Default",
+		["Testxext - Frostmourne"] = "Default",
+		["Senjítsu - Frostmourne"] = "Default",
+		["Senjíchan - Frostmourne"] = "Default",
+		["Xin - Caelestrasz"] = "Default",
+		["Rahruken - Suramar"] = "Default",
+		["Leonaldon - Frostmourne"] = "Default",
+		["Senshizo - Frostmourne"] = "Default",
+		["Lemak - Jubei'Thos"] = "Default",
+		["Senorlax - Frostmourne"] = "Default",
+		["Najib - Jubei'Thos"] = "Default",
+		["Senjichan - Caelestrasz"] = "Default",
+		["Sèn - Frostmourne"] = "Default",
+		["Feihai - Jubei'Thos"] = "Default",
+		["Hailatmog - Saurfang"] = "Default",
+		["Senshimusu - Gundrak"] = "Default",
+		["Brewjitsu - Frostmourne"] = "Default",
+		["Senjitsu - Frostmourne"] = "Default",
+		["Rathang - Frostmourne"] = "Default",
+		["Sendørei - Frostmourne"] = "Default",
+		["Senobibi - Frostmourne"] = "Default",
+		["Hailatmats - Saurfang"] = "Default",
+		["Dalthrath - Frostmourne"] = "Default",
+		["Hailat - Caelestrasz"] = "Default",
+		["Senrogate - Frostmourne"] = "Default",
+		["Senvo - Frostmourne"] = "Default",
+		["Senjitsu - Jubei'Thos"] = "Default",
+		["Sensujin - Frostmourne"] = "Default",
+		["Xiñ - Frostmourne"] = "Default",
+		["Hailat - Saurfang"] = "Default",
+		["Senjitsu - Saurfang"] = "Default",
+		["Senjutsu - Gundrak"] = "Default",
+		["Tailukyeh - Caelestrasz"] = "Default",
+		["Senshinzo - Caelestrasz"] = "Default",
+		["Senzuke - Gundrak"] = "Default",
+		["Senzx - Frostmourne"] = "Default",
+		["Senjitsu - Gundrak"] = "Default",
+		["Senjitsu - Bloodhoof"] = "Default",
+		["Xïn - Saurfang"] = "Default",
+		["Senshinzo - Frostmourne"] = "Default",
+		["Ngonghai - Jubei'Thos"] = "Default",
+		["Sensitiv - Frostmourne"] = "Default",
+		["Senobie - Emerald Dream"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["rules"] = {
+				{
+					["enabled"] = false,
+					["patterns"] = {
+						"Aura", -- [1]
+						"Buff", -- [2]
+						"Debuff", -- [3]
+					},
+					["name"] = "Auras",
+					["id"] = "auras",
+				}, -- [1]
+				{
+					["enabled"] = false,
+					["patterns"] = {
+						"Plate", -- [1]
+					},
+					["name"] = "Unit Nameplates",
+					["id"] = "plates",
+				}, -- [2]
+				{
+					["enabled"] = false,
+					["patterns"] = {
+						"ActionButton", -- [1]
+					},
+					["name"] = "ActionBars",
+					["id"] = "actions",
+				}, -- [3]
+				{
+					["patterns"] = {
+						"PlaterMainAuraIcon", -- [1]
+						"PlaterSecondaryAuraIcon", -- [2]
+						"ExtraIconRowIcon", -- [3]
+					},
+					["id"] = "Plater Nameplates Rule",
+					["priority"] = 4,
+					["theme"] = "Plater Nameplates Theme",
+				}, -- [4]
+			},
+			["themes"] = {
+				["Default"] = {
+					["textStyles"] = {
+						["seconds"] = {
+							["scale"] = 1.2,
+						},
+						["minutes"] = {
+							["scale"] = 1.2,
+						},
+						["soon"] = {
+							["scale"] = 1.3,
+						},
+						["hours"] = {
+							["scale"] = 1.2,
+						},
+						["charging"] = {
+							["scale"] = 1.2,
+						},
+					},
+				},
+				["Plater Nameplates Theme"] = {
+					["textStyles"] = {
+						["minutes"] = {
+						},
+						["seconds"] = {
+						},
+						["soon"] = {
+						},
+					},
+				},
+			},
+		},
+	},
+}
+OmniCC4Config = nil

@@ -1,0 +1,117 @@
+VER 3 0100000000000232 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/startattack
+/cancelaura Bladestorm
+/use [nomod] Charge
+/use [nomod] Bloodthirst
+/use [nomod] Slam
+END
+VER 3 0100000000000252 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Heart Essence
+/use [mod:shift] 14
+END
+VER 3 010000000000024F "3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use Mortal Strike
+/cast [nomod] Raging Blow;
+/cast [nomod] Shield Slam;
+/use [mod:shift] Sharpen Blade;
+END
+VER 3 0100000000000248 "4" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod] Hamstring
+/cast [mod:shift] Piercing Howl
+END
+VER 3 0100000000000253 "5" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover] Intervene
+END
+VER 3 0100000000000247 "C" "INV_Misc_QuestionMark"
+#showtooltip
+/startattack
+/cancelaura Bladestorm
+/cast [nomod][harm] Victory Rush
+/cast [mod:shift] Ignore Pain
+END
+VER 3 010000000000021B "F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm;
+/use [nomod] Overpower
+/use [nomod] Revenge
+/use [nomod] Rampage
+/use [mod:shift] Heroic Throw
+END
+VER 3 0100000000000237 "F2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rallying Cry
+/use [nomod] Healthstone;
+END
+VER 3 010000000000022C "Focus Pummel" "INV_MISC_QUESTIONMARK"
+#showtooltip Pummel
+/cancelaura Hand of Protection;
+/cancelaura Bladestorm;
+/cast [mod:shift, target=focus] Pummel; Pummel
+END
+VER 3 010000000000022A "G" "INV_MISC_QUESTIONMARK"
+#showtooltip Execute
+/leavevehicle
+/cancelaura Bladestorm;
+/startattack
+/cast [nomod] Execute;
+/use [mod:shift] Shattering Throw
+END
+VER 3 010000000000021F "M1" "INV_MISC_QUESTIONMARK"
+#showtooltip Berserker Rage
+/cancelaura [nomod] Bladestorm
+/cast [nomod] Defensive Stance;
+/cast [nomod] Shield Barrier
+/cast [mod:shift] Berserker Rage
+END
+VER 3 0100000000000234 "M2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Whirlwind;
+/use [mod:shift] Sweeping Strikes
+END
+VER 3 0100000000000242 "Nitro Strike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod,spec:1] Mortal Strike
+/cast [nomod,spec:2] Raging Blow;
+/cast [nomod,spec:3] Shield Slam;
+/use [mod:shift] 6
+END
+VER 3 010000000000024C "Q" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Enraged Regeneration
+/cast Bloodthirst
+END
+VER 3 010000000000008F "R" "INV_MISC_QUESTIONMARK"
+#showtooltip Intimidating Shout
+/cancelaura [mod:shift] Bladestorm;
+/stopattack [mod:shift]
+/cast [nomod] Warbreaker
+/castsequence [nomod] Siegebreaker, Rampage
+/cast [mod:shift] Intimidating Shout
+/stopattack
+END
+VER 3 010000000000024D "Spec swap" "613397"
+/run SetSpecialization(GetSpecialization()==1 and 2 or 1)
+END
+VER 3 0100000000000251 "T" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence Siegebreaker, Rampage
+END
+VER 3 010000000000024E "X" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] 14
+/cast [nomod,spec:2] Recklessness
+/cast [nomod] Avatar
+/use [mod:shift] Bladestorm
+END

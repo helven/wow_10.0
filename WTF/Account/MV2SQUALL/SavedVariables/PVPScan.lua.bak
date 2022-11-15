@@ -1,0 +1,13 @@
+
+PVPScanDB = {
+	["profileKeys"] = {
+		["Senjitsu - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["SpotBarTexture"] = "HalM",
+			["SoundFile"] = "TMW - Ding 4",
+			["SoundPlay"] = true,
+		},
+	},
+}

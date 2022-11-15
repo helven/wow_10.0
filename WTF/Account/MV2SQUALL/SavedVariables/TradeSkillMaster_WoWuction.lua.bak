@@ -1,0 +1,13 @@
+
+TradeSkillMaster_WoWuctionDB = {
+	["profileKeys"] = {
+		["Dackilla - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["regionDailyAvg"] = false,
+			["medianPrice"] = false,
+			["regionMarketValue"] = false,
+		},
+	},
+}

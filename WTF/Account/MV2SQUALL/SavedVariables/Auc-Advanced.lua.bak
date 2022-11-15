@@ -1,0 +1,36 @@
+
+AucAdvancedConfig = {
+	["users.Frostmourne.Senjitsu"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["uierrormsg"] = 1,
+				["SavedMailButtons"] = {
+				},
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Frostmourne"] = "Senjitsu",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+		},
+		["Current"] = {
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

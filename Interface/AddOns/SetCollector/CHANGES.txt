@@ -1,0 +1,16 @@
+lightweight tag 02daa783ff78ae09b5a5bbed51f759c2e2ca1c51 v3.3.8
+Author:	GitHub <noreply@github.com>
+Date:	Sat Aug 20 15:54:43 2022 -0700
+
+commit ef3b71ae9ffa06a13ff64d34c84e6b847cd78da6
+Author: Scott Olson Jr <scott@rarelysimple.com>
+Date:   Sat Aug 20 15:17:03 2022 -0700
+
+    update for WoW v.9.2.7
+
+commit ef3b71ae9ffa06a13ff64d34c84e6b847cd78da6
+Author: Scott Olson Jr <scott@rarelysimple.com>
+Date:   Sat Aug 20 15:17:03 2022 -0700
+
+    update for WoW v.9.2.7
+

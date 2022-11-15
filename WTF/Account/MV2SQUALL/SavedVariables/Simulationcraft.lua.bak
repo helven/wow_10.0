@@ -1,0 +1,223 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Senvorath - Gundrak"] = "Senvorath - Gundrak",
+		["Sencha - Gundrak"] = "Sencha - Gundrak",
+		["Senogaar - Frostmourne"] = "Senogaar - Frostmourne",
+		["Senjitsu - Caelestrasz"] = "Senjitsu - Caelestrasz",
+		["Mahlou - Jubei'Thos"] = "Mahlou - Jubei'Thos",
+		["Senzuke - Caelestrasz"] = "Senzuke - Caelestrasz",
+		["Leonaldon - Frostmourne"] = "Leonaldon - Frostmourne",
+		["Lothran - Gundrak"] = "Lothran - Gundrak",
+		["Feihai - Jubei'Thos"] = "Feihai - Jubei'Thos",
+		["Brewjitsu - Frostmourne"] = "Brewjitsu - Frostmourne",
+		["Hailatmats - Saurfang"] = "Hailatmats - Saurfang",
+		["Dalthrath - Frostmourne"] = "Dalthrath - Frostmourne",
+		["Senmu - Gundrak"] = "Senmu - Gundrak",
+		["Senjitsu - Jubei'Thos"] = "Senjitsu - Jubei'Thos",
+		["Senjitsu - Frostmourne"] = "Senjitsu - Frostmourne",
+		["Xiñ - Frostmourne"] = "Xiñ - Frostmourne",
+		["Senjutsu - Gundrak"] = "Senjutsu - Gundrak",
+		["Hailatmats - Caelestrasz"] = "Hailatmats - Caelestrasz",
+		["Hahalulu - Caelestrasz"] = "Hahalulu - Caelestrasz",
+		["Senshinzo - Frostmourne"] = "Senshinzo - Frostmourne",
+		["Hailat - Nagrand"] = "Hailat - Nagrand",
+		["Xin - Caelestrasz"] = "Xin - Caelestrasz",
+		["Senjichan - Frostmourne"] = "Senjichan - Frostmourne",
+		["Senjuken - Gundrak"] = "Senjuken - Gundrak",
+		["Senshikari - Frostmourne"] = "Senshikari - Frostmourne",
+		["Senmura - Saurfang"] = "Senmura - Saurfang",
+		["Senreithis - Frostmourne"] = "Senreithis - Frostmourne",
+		["Senviction - Frostmourne"] = "Senviction - Frostmourne",
+		["Sensujin - Gundrak"] = "Sensujin - Gundrak",
+		["Senshigeru - Caelestrasz"] = "Senshigeru - Caelestrasz",
+		["Senjitsu - Bloodhoof"] = "Senjitsu - Bloodhoof",
+		["Testxext - Frostmourne"] = "Testxext - Frostmourne",
+		["Vandrill - Gundrak"] = "Vandrill - Gundrak",
+		["Senjíchan - Frostmourne"] = "Senjíchan - Frostmourne",
+		["Senobie - Emerald Dream"] = "Senobie - Emerald Dream",
+		["Senorlax - Frostmourne"] = "Senorlax - Frostmourne",
+		["Senjìtsu - Barthilas"] = "Senjìtsu - Barthilas",
+		["Pepsikilla - Suramar"] = "Pepsikilla - Suramar",
+		["Senjitsu - Gundrak"] = "Senjitsu - Gundrak",
+		["Lemak - Jubei'Thos"] = "Lemak - Jubei'Thos",
+		["Najib - Jubei'Thos"] = "Najib - Jubei'Thos",
+		["Hailatmog - Saurfang"] = "Hailatmog - Saurfang",
+		["Minyak - Jubei'Thos"] = "Minyak - Jubei'Thos",
+		["Frostsync - Frostmourne"] = "Frostsync - Frostmourne",
+		["Rathang - Frostmourne"] = "Rathang - Frostmourne",
+		["Sendørei - Frostmourne"] = "Sendørei - Frostmourne",
+		["Senjitsu - Saurfang"] = "Senjitsu - Saurfang",
+		["Vandrill - Saurfang"] = "Vandrill - Saurfang",
+		["Senshinzo - Gundrak"] = "Senshinzo - Gundrak",
+		["Senvo - Frostmourne"] = "Senvo - Frostmourne",
+		["Xeen - Frostmourne"] = "Xeen - Frostmourne",
+		["Senrogate - Frostmourne"] = "Senrogate - Frostmourne",
+		["Senobibi - Frostmourne"] = "Senobibi - Frostmourne",
+		["Sensujin - Frostmourne"] = "Sensujin - Frostmourne",
+		["Senjítsu - Frostmourne"] = "Senjítsu - Frostmourne",
+		["Hailat - Saurfang"] = "Hailat - Saurfang",
+		["Sèn - Frostmourne"] = "Sèn - Frostmourne",
+		["Senjichan - Caelestrasz"] = "Senjichan - Caelestrasz",
+		["Tailukyeh - Caelestrasz"] = "Tailukyeh - Caelestrasz",
+		["Senshinzo - Caelestrasz"] = "Senshinzo - Caelestrasz",
+		["Rahruken - Suramar"] = "Rahruken - Suramar",
+		["Senzx - Frostmourne"] = "Senzx - Frostmourne",
+		["Senshimusu - Gundrak"] = "Senshimusu - Gundrak",
+		["Senzuke - Gundrak"] = "Senzuke - Gundrak",
+		["Xïn - Saurfang"] = "Xïn - Saurfang",
+		["Senruz - Barthilas"] = "Senruz - Barthilas",
+		["Ngonghai - Jubei'Thos"] = "Ngonghai - Jubei'Thos",
+		["Sensitiv - Frostmourne"] = "Sensitiv - Frostmourne",
+		["Senshizo - Frostmourne"] = "Senshizo - Frostmourne",
+	},
+	["profiles"] = {
+		["Senvorath - Gundrak"] = {
+		},
+		["Sencha - Gundrak"] = {
+		},
+		["Senogaar - Frostmourne"] = {
+		},
+		["Senjitsu - Caelestrasz"] = {
+		},
+		["Mahlou - Jubei'Thos"] = {
+		},
+		["Senzuke - Caelestrasz"] = {
+		},
+		["Leonaldon - Frostmourne"] = {
+		},
+		["Lothran - Gundrak"] = {
+		},
+		["Feihai - Jubei'Thos"] = {
+		},
+		["Brewjitsu - Frostmourne"] = {
+		},
+		["Hailatmats - Saurfang"] = {
+		},
+		["Dalthrath - Frostmourne"] = {
+		},
+		["Senmu - Gundrak"] = {
+		},
+		["Senjitsu - Jubei'Thos"] = {
+		},
+		["Senjitsu - Frostmourne"] = {
+		},
+		["Xiñ - Frostmourne"] = {
+		},
+		["Senjutsu - Gundrak"] = {
+		},
+		["Hailatmats - Caelestrasz"] = {
+		},
+		["Hahalulu - Caelestrasz"] = {
+		},
+		["Senshinzo - Frostmourne"] = {
+		},
+		["Hailat - Nagrand"] = {
+		},
+		["Xin - Caelestrasz"] = {
+		},
+		["Senjichan - Frostmourne"] = {
+		},
+		["Senjuken - Gundrak"] = {
+		},
+		["Senshikari - Frostmourne"] = {
+		},
+		["Senmura - Saurfang"] = {
+		},
+		["Senreithis - Frostmourne"] = {
+		},
+		["Senviction - Frostmourne"] = {
+		},
+		["Sensujin - Gundrak"] = {
+		},
+		["Senshigeru - Caelestrasz"] = {
+		},
+		["Senjitsu - Bloodhoof"] = {
+		},
+		["Testxext - Frostmourne"] = {
+		},
+		["Vandrill - Gundrak"] = {
+			["frame"] = {
+				["ofsx"] = 490.5555725097656,
+				["ofsy"] = 164.4445190429688,
+				["point"] = "LEFT",
+				["relativePoint"] = "LEFT",
+			},
+		},
+		["Senjíchan - Frostmourne"] = {
+		},
+		["Senobie - Emerald Dream"] = {
+		},
+		["Senorlax - Frostmourne"] = {
+		},
+		["Senjìtsu - Barthilas"] = {
+		},
+		["Pepsikilla - Suramar"] = {
+		},
+		["Senjitsu - Gundrak"] = {
+		},
+		["Lemak - Jubei'Thos"] = {
+		},
+		["Najib - Jubei'Thos"] = {
+		},
+		["Hailatmog - Saurfang"] = {
+		},
+		["Minyak - Jubei'Thos"] = {
+		},
+		["Frostsync - Frostmourne"] = {
+		},
+		["Rathang - Frostmourne"] = {
+		},
+		["Sendørei - Frostmourne"] = {
+		},
+		["Senjitsu - Saurfang"] = {
+		},
+		["Vandrill - Saurfang"] = {
+		},
+		["Senshinzo - Gundrak"] = {
+		},
+		["Senvo - Frostmourne"] = {
+		},
+		["Xeen - Frostmourne"] = {
+		},
+		["Senrogate - Frostmourne"] = {
+		},
+		["Senobibi - Frostmourne"] = {
+		},
+		["Sensujin - Frostmourne"] = {
+		},
+		["Senjítsu - Frostmourne"] = {
+			["frame"] = {
+				["ofsx"] = 9.879100980469957e-05,
+			},
+		},
+		["Hailat - Saurfang"] = {
+		},
+		["Sèn - Frostmourne"] = {
+		},
+		["Senjichan - Caelestrasz"] = {
+		},
+		["Tailukyeh - Caelestrasz"] = {
+		},
+		["Senshinzo - Caelestrasz"] = {
+		},
+		["Rahruken - Suramar"] = {
+		},
+		["Senzx - Frostmourne"] = {
+		},
+		["Senshimusu - Gundrak"] = {
+		},
+		["Senzuke - Gundrak"] = {
+		},
+		["Xïn - Saurfang"] = {
+		},
+		["Senruz - Barthilas"] = {
+		},
+		["Ngonghai - Jubei'Thos"] = {
+		},
+		["Sensitiv - Frostmourne"] = {
+		},
+		["Senshizo - Frostmourne"] = {
+		},
+	},
+}

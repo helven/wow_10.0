@@ -1,0 +1,329 @@
+VER 3 0000000000000045 "!Eagle Eye" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/use !Eagle Eye
+END
+VER 3 0000000000000057 "!TEST" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Shadow Blades;
+/use [nomod,stance:0] Shadow Dance
+/use [nomod,nostance:0] Cold Blood
+/use [nomod] Symbols of Death
+/use [nomod, nostance:0] Shadowstrike
+END
+VER 3 000000000000003D "[DH] Stun" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] Chaos Nova
+/use [mod:shift] Arcane Torrent
+/use [mod:shift] Shadowmeld
+END
+VER 3 0000000000000025 "[DK] Focus Stun" "Ability_DeathKnight_Asphixiate"
+#showtooltip
+/startattack
+/use [nomod,@test] Asphyxiate
+/use [mod:shift]Death Strike
+END
+VER 3 0000000000000026 "[DK] Stun" "Ability_DeathKnight_Asphixiate"
+#showtooltip
+/cast [nomod] Asphyxiate
+/cast [mod:shift] Arcane Torrent
+/cast [mod:shift] Will of the Forsaken
+/cast [mod:shift] Shadowmeld
+/cast [mod:shift] Escape Artist
+END
+VER 3 0000000000000039 "[Druid] Stun" "Ability_Druid_Bash"
+#showtooltip
+/cancelaura Hand of Protection
+/cast [nomod] Mighty Bash
+/cast [mod:shift] Arcane Torrent
+/cast [mod:shift] Escape Artist
+/cast [mod:shift] Shadowmeld
+/cast [mod:shift] War Stomp
+/cast [mod:shift] Will of the Forsaken
+END
+VER 3 0000000000000047 "[H] F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomod] Rapid Fire
+/cast [mod:shift] Bursting Shot
+END
+VER 3 0000000000000048 "[H] G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence [nomod,spec:2]reset=combat/10 Double Tap,Trueshot
+END
+VER 3 0000000000000022 "[H] Stun" "spell_Shaman_Bindelemental"
+#showtooltip
+/startattack
+/petattack
+/cast [nomod] BInding Shot;
+/cast [@target,nomod,nodead] Intimidation
+/cast [mod:shift] Every Man For Himself
+/stopattack [mod:shift]
+/stopcasting [mod:shift]
+/cast [mod:shift] Arcane Torrent
+END
+VER 3 0000000000000037 "[Monk] Stun" "Ability_Monk_LegSweep"
+#showtooltip
+/use [nomod] Leg Sweep
+/use [nomod] Ring of Peace
+/use [mod:shift] Every Man For Himself
+/use [mod:shift] Arcane Torrent
+END
+VER 3 0000000000000028 "[Pally] DS" "Ability_Mount_DragonHawkArmorHorde"
+#showtooltip Judgment
+/target Corrupted Blood
+/cast [@target] Judgment
+END
+VER 3 0000000000000034 "[Pally] Stun" "Spell_Holy_FistOfJustice"
+#showtooltip
+/cancelaura Hand of Protection;
+/use [nomod, @target] Hammer of Justice
+/use [mod:shift] Arcane Torrent
+/use [mod:shift] Every Man For Himself
+/use [mod:shift] War Stomp
+/use [mod:shift] Fireblood
+/use [mod:shift] Stoneform
+END
+VER 3 000000000000005F "[Pr] V" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [mod:shift] Every Man For Himself
+/use [mod:shift] Arcane Torrent
+/use [mod:shift] Spatial Rift
+/use [mod:shift] Escape Artist
+END
+VER 3 000000000000005A "[R] Invi Garriso" "INV_MISC_QUESTIONMARK"
+#showtooltip Garrison Hearthstone
+/use [no stealth] !Stealth
+/use Garrison Hearthstone
+END
+VER 3 0000000000000059 "[R] Invi Hearth" "INV_MISC_QUESTIONMARK"
+#showtooltip Hearthstone
+/use [no stealth] !Stealth
+/use Headless Horseman's Hearthstone
+END
+VER 3 0000000000000054 "[R] Stun" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [nomod] Kidney Shot
+/use [mod:shift] Every Man For Himself
+/use [mod:shift] Arcane Torrent
+/use [mod:shift] Spatial Rift
+END
+VER 3 0000000000000058 "[R]Invi Eat" "INV_MISC_QUESTIONMARK"
+#showtooltip Conjured Mana Pudding
+/use Conjured Mana Pudding
+/use [no stealth]!Stealth
+END
+VER 3 0000000000000020 "[War] DS" "Ability_Mount_DragonHawkArmorHorde"
+#showtooltip Bloodthirst
+/target Corrupted Blood
+/cast [@target] Bloodthirst
+/cast [@target] Mortal Strike
+END
+VER 3 0000000000000024 "[War] Focus Stun" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura [nomod] Hand of Protection;
+/cancelaura [nomod] Bladestorm;
+/startattack
+/cast [nomod, @focus] Storm Bolt;
+/cast [mod:shift] Victory Rush;
+END
+VER 3 000000000000001D "[War] Stun" "613535"
+#showtooltp
+/cancelaura Bladestorm
+/use [nomod] Storm Bolt
+/use [nomod] Shockwave
+/use [mod:shift] Every Man For Himself
+/use [mod:shift] Arcane Torrent
+/use [mod:shift] Spatial Rift
+/use [mod:shift] Escape Artist
+END
+VER 3 0000000000000043 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Glowfly Bottle
+END
+VER 3 000000000000000E "Bagsort" "INV_Misc_Food_Wheat_01"
+/console gxcolorbits 16
+/console gxdepthbits 16
+/console skycloudlod 0
+/console particledensity 0.3
+/console lod 0
+/console fullalpha 0
+/console doodadanim 0
+/console mapshadows 0
+/console loddist 50
+/console smallcull 2
+/console maxlights 0
+/console spec
+END
+VER 3 0000000000000011 "BOA Dread Wastes" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/click [btn:1]MTSB7 LeftButton;[btn:2]MTSB7 RightButton;[btn:3]MTSB7 MiddleButton;[btn:4]MTSB7 Button4;[btn:5]MTSB7 Button5
+END
+VER 3 0000000000000015 "BOA Four Winds" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/way 15.4 29.1
+/way 17.5 35.7
+/way 19.1 37.9
+/way 15.0 33.7
+/way 19.0 42.5
+/way 45.4 38.2
+/way 43.5 37.4
+/way 46.8 24.6
+END
+VER 3 000000000000000F "BOA Jade Forest" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/way 46.2 71.2 Ancient Jinyu Staff
+/way 43.0 11.6 Hammer of Ten Thunders
+/way 46.1 29.1 Ancient Pandaren Mining Pick
+/way 41.8 17.6 Hammer of Ten Thunders
+/way 39.4 7.3 Wodin's Mantid Shanker
+/way 39.26 46.65 Jade Warrior Statue
+END
+VER 3 0000000000000012 "BOA Krasarang" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/way 52.3 88.7 Barrel of Banana Infused Rum
+/way 50.8 49.3 Pandaren Fishing Spear
+/way 42.3 92.0 Equipment Locker
+END
+VER 3 0000000000000014 "BOA Kun-Lai Summ" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/way 51.5 74.0 Hozen Warrior Spear
+/way 71.2 62.6 Stash of Yaungol Weapons
+/way 70.0 63.8 Stash of Yaungol Weapons
+/way 44.7 52.4 Tablet of Ren Yun
+/way 74.7 74.9 Sprite's Cloth Chest
+END
+VER 3 0000000000000016 "BOA Townlong" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/way 66.3 44.7 Yaungol Fire Carrier
+/way 66.8 48.0 Yaungol Fire Carrier
+END
+VER 3 000000000000004C "Boss Button" "133717"
+#showtooltip 
+/assist ExtraActionButton1
+END
+VER 3 0000000000000046 "Delete Item" "3565717"
+/run local slotButton, bag, slot = GetMouseFocus() bag, slot = slotButton:GetParent():GetID(), slotButton:GetID() if bag and slot then PickupContainerItem(bag, slot) DeleteCursorItem() end
+END
+VER 3 0000000000000050 "Fix Nameplate" "133035"
+/run SetCVar("nameplateShowFriendlyNPCs",1)
+END
+VER 3 0000000000000017 "Focus Mouseover" "SPELL_MISC_PETHEAL"
+/focus [@mouseover]
+END
+VER 3 0000000000000018 "Focus Target" "SPELL_MISC_PETHEAL"
+/focus [@target]
+END
+VER 3 000000000000003A "Heroic 25 Raid" "Spell_Fire_Burnout"
+/script SetLegacyRaidDifficultyID(6)
+END
+VER 3 0000000000000053 "Invite low lvl" "132835"
+/invite Tharrain
+END
+VER 3 0000000000000056 "Leave Queue" "132219"
+/script AcceptBattlefieldPort(i,0)
+END
+VER 3 000000000000004A "Leave Vehicle" "134919"
+/leavevehicle
+END
+VER 3 000000000000001C "Loot-a-rang" "INV_MISC_QUESTIONMARK"
+#showtooltip Loot-A-Rang
+/targetlasttarget [noexists,nocombat]
+/cast [@mouseover,harm,dead][harm,dead] Loot-A-Rang
+END
+VER 3 0000000000000042 "Low Spec" "1861689"
+/console groundeffectdist 1
+/console smallcull 1
+/console skycloudlod 1
+/console characterAmbient 1
+/console extshadowquality 0
+/console environmentDetail 0.5
+END
+VER 3 000000000000003E "Monk Campaign" "ACHIEVEMENT_ZONE_DRAENOR_01"
+/script SelectGossipAvailableQuest(1);CompleteQuest();GetQuestReward()
+END
+VER 3 0000000000000051 "Naked Reset" "135767"
+/equipset Naked
+/click HelpFrameCharacterStuckStuck
+END
+VER 3 000000000000005D "Net" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Net-o-Matic 5000
+/s Netting %t
+END
+VER 3 000000000000004F "Party Sync End" "1505958"
+/script QuestSessionManager:StopSession();
+/script QuestSessionManager.CheckStopDialog:Confirm()
+/in 1 /script LeaveParty()
+END
+VER 3 000000000000004E "Party Sync Start" "1505959"
+/invite Tharrain
+/in 1 /script QuestSessionManager.CheckStartDialog:Confirm()
+/skada reset
+END
+VER 3 000000000000005E "R" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:shift] Psychic Scream
+END
+VER 3 000000000000005C "Random Flying" "132194"
+/userandom [flyable]Glacial Tidestorm,Ruby Panther,Obsidian Worldbreaker,Onyx Netherwing Drake,Arcanist's Manasaber
+/userandom [noflyable] Lucid Nightmare,Spectral Tiger,Caravan Hyena
+END
+VER 3 0000000000000006 "Reset Instance" "INV_MISC_NOTE_02"
+/script ResetInstances();
+END
+VER 3 0000000000000001 "Rmv Raid Fra" "Ability_Creature_Cursed_01"
+/run CompactRaidFrameManager:UnregisterAllEvents() CompactRaidFrameManager:Hide() CompactRaidFrameContainer:UnregisterAllEvents() CompactRaidFrameContainer:Hide()
+END
+VER 3 0000000000000023 "Silent Inspect" "SPELL_SHADOW_TELEPORT"
+/focus mouseover
+/run if UnitExists("focus") then InspectUnit("focus") end
+END
+VER 3 000000000000004B "Silent Inspect" "132212"
+/run InspectUnit("mouseover")
+END
+VER 3 0000000000000044 "SV Burst" "1376039"
+#showtooltip
+/startattack
+/petattack
+/use 14
+/castsequence [nomod]reset=3 Coordinated Assault, A Murder of Crows, Wildfire Bomb
+END
+VER 3 000000000000005B "Tar Ivory CS" "648868"
+/tar Ivory Cloud Serpent
+END
+VER 3 0000000000000052 "Target A-WW" "INV_MISC_QUESTIONMARK"
+/target Wavebreaker Xiang
+END
+VER 3 0000000000000060 "Target A-WW" "132212"
+/tar Quartermaster Tallybolt
+/tar Field Marshal Yosk
+/tar Bryndla Frostbraid
+/tar Wavebreaker Xiang
+/tar Kill Credit
+/tar Knight-Captain Johnny
+/tar Captain Cracklepants
+/tar Legate Favre
+END
+VER 3 0000000000000049 "Target Banthalos" "612363"
+/tar Ban'thalos
+/focus Ban'thalos
+/run SetRaidTarget("target",8)
+END
+VER 3 0000000000000029 "Target Faceless" "INV_MISC_QUESTIONMARK"
+/tar [nodead] Faceless
+/focus [nodead] Faceless
+END
+VER 3 000000000000004D "Target H-WW" "132212"
+/tar Field Marshal Yosk
+/tar Knight-Captain Johnny
+/tar Quartermaster Tallybolt
+END
+VER 3 000000000000003C "Target Loque'nah" "132242"
+/tar Loque'nahak
+/focus Loque'nahak
+/run SetRaidTarget("target",8)
+END
+VER 3 0000000000000055 "TEST" "136103"
+/dump GETCVAR("SPELLQUEUEWINDOW")
+END
+VER 3 0000000000000035 "Toggle Music" "Ability_BossFelOrcs_Necromancer_Red"
+/run Sound_ToggleMusic();
+END
+VER 3 0000000000000036 "Toggle Sound" "Ability_BossFelOrcs_Necromancer_Purple"
+/run Sound_ToggleSound();
+END

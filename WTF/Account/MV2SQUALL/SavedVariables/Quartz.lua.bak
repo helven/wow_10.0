@@ -1,0 +1,408 @@
+
+Quartz3DB = {
+	["namespaces"] = {
+		["Swing"] = {
+			["profiles"] = {
+				["Default"] = {
+					["y"] = 307.33349609375,
+					["x"] = 546,
+				},
+				["Hunter"] = {
+					["y"] = 307.33349609375,
+					["x"] = 546,
+				},
+			},
+		},
+		["Buff"] = {
+			["profiles"] = {
+				["Default"] = {
+					["focusbuffs"] = false,
+					["bufftexture"] = "HalM",
+					["targetheight"] = 10,
+					["targetbuffs"] = false,
+					["buffnametext"] = false,
+					["focus"] = false,
+					["targeticonside"] = "left",
+					["focusdebuffs"] = false,
+					["bufffont"] = "Microgramma",
+					["focusposition"] = "leftup",
+				},
+				["Hunter"] = {
+					["focusbuffs"] = false,
+					["bufffont"] = "Microgramma",
+					["targetheight"] = 10,
+					["bufftexture"] = "HalM",
+					["focusdebuffs"] = false,
+					["buffnametext"] = false,
+					["focus"] = false,
+					["targetbuffs"] = false,
+					["targeticonside"] = "left",
+					["focusposition"] = "leftup",
+				},
+			},
+		},
+		["Interrupt"] = {
+		},
+		["Flight"] = {
+		},
+		["Pet"] = {
+			["profiles"] = {
+				["Default"] = {
+					["h"] = 10,
+					["w"] = 190,
+					["y"] = 449.999993024502,
+					["x"] = 724.076895979795,
+					["border"] = "None",
+					["nametextposition"] = "center",
+					["nametextx"] = 0,
+					["texture"] = "HalM",
+					["nametexty"] = 19,
+					["font"] = "Tangerin",
+				},
+				["Hunter"] = {
+					["w"] = 190,
+					["texture"] = "HalM",
+					["y"] = 449.999993024502,
+					["h"] = 10,
+					["border"] = "None",
+					["nametexty"] = 19,
+					["font"] = "Tangerin",
+					["nametextx"] = 0,
+					["x"] = 724.076895979795,
+					["nametextposition"] = "center",
+				},
+			},
+		},
+		["Player"] = {
+			["profiles"] = {
+				["Default"] = {
+					["h"] = 10,
+					["timefontsize"] = 10,
+					["w"] = 280,
+					["hideicon"] = true,
+					["x"] = 842,
+					["border"] = "ForteXorcist",
+					["texture"] = "HalM",
+					["y"] = 310,
+					["nametextposition"] = "center",
+					["nametextx"] = 0,
+					["nametexty"] = 15,
+					["font"] = "Microgramma",
+				},
+				["Hunter"] = {
+					["texture"] = "HalM",
+					["border"] = "ForteXorcist",
+					["w"] = 156,
+					["nametextx"] = 0,
+					["hideicon"] = true,
+					["font"] = "Microgramma",
+					["x"] = 877,
+					["nametexty"] = 15,
+					["h"] = 15,
+					["timefontsize"] = 10,
+					["y"] = 393,
+					["nametextposition"] = "center",
+				},
+			},
+		},
+		["EnemyCasts"] = {
+			["profiles"] = {
+				["Default"] = {
+					["y"] = 758.999938964844,
+					["x"] = 414.999938964844,
+				},
+				["Hunter"] = {
+					["y"] = 758.999938964844,
+					["x"] = 414.999938964844,
+				},
+			},
+		},
+		["GCD"] = {
+			["profiles"] = {
+				["Default"] = {
+					["gcdposition"] = "top",
+					["gcdgap"] = 2,
+				},
+				["Hunter"] = {
+					["gcdgap"] = 2,
+					["gcdposition"] = "top",
+				},
+			},
+		},
+		["Focus"] = {
+			["profiles"] = {
+				["Default"] = {
+					["h"] = 25,
+					["nametextx"] = 5,
+					["w"] = 198,
+					["y"] = 680.999938964844,
+					["font"] = "Tangerin",
+					["iconalpha"] = 1,
+					["icongap"] = 0,
+					["border"] = "ForteXorcist",
+					["fontsize"] = 15,
+					["noInterruptBorder"] = "Blizzard Dialog",
+					["texture"] = "HalM",
+					["x"] = 1326,
+					["noInterruptChangeBorder"] = false,
+					["hideicon"] = true,
+				},
+				["Hunter"] = {
+					["icongap"] = 0,
+					["w"] = 198,
+					["nametextx"] = 5,
+					["noInterruptChangeBorder"] = false,
+					["border"] = "ForteXorcist",
+					["x"] = 1326,
+					["hideicon"] = true,
+					["font"] = "Tangerin",
+					["fontsize"] = 15,
+					["iconalpha"] = 1,
+					["h"] = 25,
+					["noInterruptBorder"] = "Blizzard Dialog",
+					["y"] = 680.999938964844,
+					["texture"] = "HalM",
+				},
+			},
+		},
+		["Target"] = {
+			["profiles"] = {
+				["Default"] = {
+					["h"] = 10,
+					["nametextx"] = 0,
+					["w"] = 280,
+					["y"] = 310,
+					["font"] = "Microgramma",
+					["iconposition"] = "left",
+					["border"] = "ForteXorcist",
+					["nametextposition"] = "center",
+					["x"] = 1432,
+					["texture"] = "HalM",
+					["nametexty"] = 15,
+					["timefontsize"] = 10,
+					["hideicon"] = true,
+				},
+				["Hunter"] = {
+					["iconposition"] = "left",
+					["w"] = 280,
+					["nametextx"] = 0,
+					["border"] = "ForteXorcist",
+					["font"] = "Microgramma",
+					["hideicon"] = true,
+					["h"] = 10,
+					["x"] = 1110,
+					["nametexty"] = 15,
+					["y"] = 310,
+					["timefontsize"] = 10,
+					["texture"] = "HalM",
+					["nametextposition"] = "center",
+				},
+			},
+		},
+		["Mirror"] = {
+			["profiles"] = {
+				["Default"] = {
+					["mirroroffset"] = 35,
+					["mirroranchor"] = "free",
+					["mirrorspacing"] = 0,
+					["mirrory"] = 238.412521362305,
+					["mirrorgap"] = -35,
+					["hideblizzmirrors"] = false,
+					["mirrortexture"] = "HalM",
+					["mirrorfont"] = "Microgramma",
+					["mirrorx"] = 540.079467773438,
+					["mirrorposition"] = "bottomleft",
+					["mirrorfontsize"] = 11,
+				},
+				["Hunter"] = {
+					["hideblizzmirrors"] = false,
+					["mirrorspacing"] = 0,
+					["mirroroffset"] = 35,
+					["mirrorposition"] = "bottomleft",
+					["mirrortexture"] = "HalM",
+					["mirrorfont"] = "Microgramma",
+					["mirrory"] = 238.412521362305,
+					["mirroranchor"] = "free",
+					["mirrorfontsize"] = 11,
+					["mirrorgap"] = -35,
+					["mirrorx"] = 540.079467773438,
+				},
+			},
+		},
+		["Range"] = {
+		},
+		["Latency"] = {
+			["profiles"] = {
+				["Default"] = {
+					["lagtext"] = false,
+					["lagfont"] = "Enigmatic",
+				},
+				["Hunter"] = {
+					["lagfont"] = "Enigmatic",
+					["lagtext"] = false,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Vaner - Gundrak"] = "Default",
+		["Thorrain - Frostmourne"] = "Default",
+		["Senjìtsu - Barthilas"] = "Default",
+		["Dackilla - Suramar"] = "Default",
+		["Senjitsu - Caelestrasz"] = "Default",
+		["Oversynced - Gundrak"] = "Default",
+		["Githanda - Barthilas"] = "Default",
+		["Senrou - Saurfang"] = "Default",
+		["Senryuke - Barthilas"] = "Default",
+		["Khalindas - Frostmourne"] = "Default",
+		["Cheaptanker - Thaurissan"] = "Default",
+		["Laladin - Suramar"] = "Default",
+		["Tylanth - Frostmourne"] = "Default",
+		["Frostsync - Gundrak"] = "Default",
+		["Dackilla - Frostmourne"] = "Default",
+		["Vaeliir - Frostmourne"] = "Default",
+		["Lothran - Gundrak"] = "Default",
+		["Allarna - Frostmourne"] = "Default",
+		["Conoriann - Garrosh"] = "Default",
+		["Sevevsync - Frostmourne"] = "Default",
+		["Sevensync - Frostmourne"] = "Default",
+		["Brewjitsu - Frostmourne"] = "Default",
+		["Ztransfer - Suramar"] = "Default",
+		["Dalthrath - Frostmourne"] = "Default",
+		["Senjitsu - Emerald Dream"] = "Default",
+		["Arlenoree - Jubei'Thos"] = "Default",
+		["Tyrandë - Frostmourne"] = "Default",
+		["Shanique - Gundrak"] = "Default",
+		["Epidemicious - Suramar"] = "Default",
+		["Syvònnë - Thaurissan"] = "Default",
+		["Senjutsu - Gundrak"] = "Default",
+		["Senzue - Frostmourne"] = "Default",
+		["Arthoredron - Gundrak"] = "Default",
+		["Zenguard - Gundrak"] = "Default",
+		["Mannchida - Gundrak"] = "Default",
+		["Senseeder - Frostmourne"] = "Default",
+		["Pepsikilla - Suramar"] = "Default",
+		["Arthoredron - Frostmourne"] = "Default",
+		["Senjuken - Gundrak"] = "Default",
+		["Vandrill - Gundrak"] = "Default",
+		["Deankarly - Moon Guard"] = "Default",
+		["Bloodsync - Frostmourne"] = "Default",
+		["Rahruken - Suramar"] = "Default",
+		["Senjitsu - Barthilas"] = "Default",
+		["Styggorr - Gundrak"] = "Default",
+		["Noridraysong - Barthilas"] = "Default",
+		["Tavia - Gundrak"] = "Default",
+		["Gerlystefica - Barthilas"] = "Default",
+		["Kyletheron - Frostmourne"] = "Default",
+		["Romwelsey - Frostmourne"] = "Default",
+		["Vadaboot - Frostmourne"] = "Default",
+		["Vorl - Frostmourne"] = "Default",
+		["Winderana - Frostmourne"] = "Default",
+		["Senobie - Emerald Dream"] = "Default",
+		["Sensujin - Gundrak"] = "Default",
+		["Sensuki - Emerald Dream"] = "Default",
+		["Shoryukén - Frostmourne"] = "Default",
+		["Zfusion - Suramar"] = "Default",
+		["Frostsync - Caelestrasz"] = "Default",
+		["Renjitsu - Frostmourne"] = "Default",
+		["Senjítsu - Frostmourne"] = "Default",
+		["Vanlorian - Tichondrius"] = "Default",
+		["Sylivan - Frostmourne"] = "Default",
+		["Vandrill - Frostmourne"] = "Default",
+		["Fionsta - Suramar"] = "Default",
+		["Soulstoned - 憤怒使者"] = "Default",
+		["Xiaojitsu - Frostmourne"] = "Default",
+		["Senzuke - Gundrak"] = "Default",
+		["Senruko - Frostmourne"] = "Default",
+		["Senorlax - Frostmourne"] = "Default",
+		["Senjiji - Frostmourne"] = "Default",
+		["Venkryn - Frostmourne"] = "Default",
+		["Oversynced - Frostmourne"] = "Default",
+		["Ceene - Frostmourne"] = "Default",
+		["Tavìa - Frostmourne"] = "Default",
+		["Frostsync - Frostmourne"] = "Default",
+		["Hoonau - Frostmourne"] = "Default",
+		["Sènjitsu - Frostmourne"] = "Default",
+		["Wrearaz - Gundrak"] = "Default",
+		["Senjitsu - Saurfang"] = "Default",
+		["Arthoredron - 憤怒使者"] = "Default",
+		["Alarna - Suramar"] = "Default",
+		["Xeen - Frostmourne"] = "Default",
+		["Sencubie - Frostmourne"] = "Default",
+		["Leonaldon - Frostmourne"] = "Default",
+		["Sensujin - Frostmourne"] = "Default",
+		["Aceynn - Jubei'Thos"] = "Default",
+		["Verani - Barthilas"] = "Default",
+		["Khalindas - Aggramar"] = "Default",
+		["Senjitsu - Frostmourne"] = "Default",
+		["Windguard - Frostmourne"] = "Default",
+		["Chipong - Frostmourne"] = "Default",
+		["Shadowelven - Suramar"] = "Default",
+		["Senzx - Frostmourne"] = "Default",
+		["Senjitsu - Gundrak"] = "Default",
+		["Prooblem - Frostmourne"] = "Default",
+		["Myrolorin - Jubei'Thos"] = "Default",
+		["Phandarix - Frostmourne"] = "Default",
+		["Winderanna - Darkspear"] = "Default",
+		["Kriestus - Barthilas"] = "Default",
+		["Sencubie - Emerald Dream"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["borderalpha"] = 0,
+			["castingcolor"] = {
+				0, -- [1]
+				1, -- [2]
+				0.949019607843137, -- [3]
+				1, -- [4]
+			},
+			["spelltextcolor"] = {
+				nil, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				1, -- [4]
+			},
+			["modules"] = {
+				["GCD"] = false,
+				["Buff"] = false,
+				["Mirror"] = false,
+				["Pet"] = false,
+			},
+			["backgroundalpha"] = 0.9,
+			["sparkcolor"] = {
+				nil, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				1, -- [4]
+			},
+		},
+		["Hunter"] = {
+			["modules"] = {
+				["Mirror"] = false,
+				["GCD"] = false,
+				["Pet"] = false,
+				["Buff"] = false,
+			},
+			["castingcolor"] = {
+				0.764705882352941, -- [1]
+				1, -- [2]
+				nil, -- [3]
+				1, -- [4]
+			},
+			["borderalpha"] = 0,
+			["spelltextcolor"] = {
+				nil, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				1, -- [4]
+			},
+			["sparkcolor"] = {
+				nil, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				1, -- [4]
+			},
+			["backgroundalpha"] = 0,
+		},
+	},
+}

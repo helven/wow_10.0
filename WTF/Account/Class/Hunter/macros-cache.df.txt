@@ -1,0 +1,130 @@
+VER 3 0100000000000001 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod,@cursor]Wild Spirits
+/use [nomod,@mouseover,harm,nodead,exists]Death Chakram
+/use [nomod,@target]Death Chakram
+/use [mod:alt]Survival of the Fittest
+/use 11
+END
+VER 3 0100000000000002 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead]
+/use [nomod,@mouseover,harm,nodead,exists]Barbed Shot
+/use [nomod,@target]Barbed Shot
+/use [mod:shift] 11
+/use [nomod,@pettarget,exists]Claw
+/use [nomod,@pettarget,exists]Bite
+/use [nomod,@pettarget,exists]Smack
+END
+VER 3 0100000000000003 "3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cancelaura [nomod] Aspect of the Turtle
+/use [nomod,spec:1]Cobra Shot
+/use [mod:shift]Survival of the Fittest
+/use [nomod,@pettarget,exists]Claw
+/use [nomod,@pettarget,exists]Bite
+END
+VER 3 0100000000000004 "4" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/startattack
+/use [nomod] Wing Clip
+/use [mod:shift] 15
+END
+VER 3 0100000000000005 "5" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/startattack
+/use [nomod] Disengage
+/petattack
+/use [mod:shift] 6
+END
+VER 3 0100000000000016 "[Hunter] Set PVP" "INV_MISC_QUESTIONMARK"
+/run SetBinding("TAB","TARGETNEARESTENEMYPLAYER")
+/equipset [spec:1] BM PVP
+/equipset [spec:2] MM PVP
+/equipset [spec:3] SV PVP
+END
+VER 3 0100000000000006 "C" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod,@mouseover,harm,nodead,exists]Hunter's Mark
+/use [nomod,@target]Hunter's Mark
+/use [mod:shift] !Camouflage
+END
+VER 3 0100000000000007 "E" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopattack
+/stopattack
+/stopcasting
+/stopcasting
+/cancelaura Aspect of the Turtle
+/use [nomod,spec:1/2,@mouseover,harm,nodead,exists]Counter Shot
+/use [nomod,spec:1/2,@target]Counter Shot
+/use [mod:shift]Tranquilizing Shot
+END
+VER 3 0100000000000008 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip Kill Command
+/click btn_Hunter_Macro_F
+END
+VER 3 010000000000000C "F2" "134400"
+#showtooltip Exhilaration
+/use Fortitude of the Bear
+/use Exhilaration
+END
+VER 3 0100000000000009 "F3" "INV_Misc_QuestionMark"
+#showtooltip
+/stopcasting
+/stopcasting
+/petpassive
+/petfollow
+/use Feign Death
+/use [nogroup] !Play Dead
+/use [mod:shift] Play Dead
+END
+VER 3 010000000000000B "G" "INV_MISC_QUESTIONMARK"
+#showtooltip Kill Shot
+/click btn_Hunter_Macro_G
+END
+VER 3 0100000000000010 "Q" "INV_Misc_QuestionMark"
+#showtooltip
+/use [nomod,@cursor]!Freezing Trap
+/use [mod:shift,spec:1,@cursor]Dire Beast: Hawk
+/use [mod:shift,spec:1]Dire Beast: Basilisk
+/use [mod:ctrl]!Eagle Eye
+/tm [mod:alt] 8
+END
+VER 3 0100000000000011 "R" "INV_Misc_QuestionMark"
+#showtooltip
+/use [nomod] Dire Beast
+/use [nomod] Bloodshed
+/use [mod:shift,@cursor] Tar Trap
+/use [mod:ctrl] Scare Beast
+/use [spec:2,mod:shift,@mouseover,harm,nodead,exists]Explosive Shot
+/use [spec:2,talent:2/3,nomod,@target]Explosive Shot
+END
+VER 3 0100000000000012 "T" "INV_Misc_QuestionMark"
+#showtooltip Binding Shot
+/use [nomod,@cursor] Binding Shot
+/use [nomod,@cursor] !Hi-Explosive Trap
+/use [mod:shift,@cursor] Door of Shadows
+/use [mod:shift] Phial of Serenity
+/use [mod:shift] Soulshape
+/use [mod:shift] Fleshcraft
+END
+VER 3 0100000000000013 "V" "INV_Misc_QuestionMark"
+#showtooltip Intimidation
+/click btn_Hunter_Macro_V
+END
+VER 3 0100000000000015 "X" "INV_Misc_QuestionMark"
+#showtooltip
+/use [nomod] 14
+/use Bestial Wrath
+/use [nomod]Aspect of the Wild
+END
+VER 3 0100000000000014 "Z" "INV_Misc_QuestionMark"
+#showtooltip
+/use [nomod,@cursor] !Flare
+END

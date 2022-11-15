@@ -1,0 +1,87 @@
+VER 3 0100000000000232 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Crusader Strike;
+END
+VER 3 0100000000000239 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomod] Judgment
+END
+VER 3 010000000000023C "3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use Templar's Verdict
+/use Holy Shock
+/use Avenger's Shield
+END
+VER 3 0100000000000242 "M2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Divine Storm
+/use [mod:shift] Consecration
+END
+VER 3 0100000000000238 "Blessings" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player,nomod] Greater Blessing of Kings
+/cast [@player,mod:shift] Greater Blessing of Wisdom
+END
+VER 3 010000000000023F "Cancel Freedom" "Spell_Shadow_SacrificialShield"
+/cancelaura Blessing of Protection
+/cancelaura Blessing of Freedom
+END
+VER 3 0100000000000230 "Divine Shield" "INV_MISC_QUESTIONMARK"
+#showtooltip Divine Shield
+/stopcasting
+/cast Divine Shield
+END
+VER 3 0100000000000240 "E" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Rebuke
+END
+VER 3 0100000000000231 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use Blade of Justice
+END
+VER 3 010000000000023D "Focus Stun" "INV_MISC_QUESTIONMARK"
+#showtooltip Fist of Justice
+/cast [@focus] Fist of Justice
+END
+VER 3 010000000000023B "M1" "INV_MISC_QUESTIONMARK"
+#showtooltip Blessing of Freedom
+/cast [nomod] Divine Steed
+/cast [mod:shift,@player] Blessing of Freedom;
+/cast [mod:ctrl,@target] Blessing of Freedom;
+END
+VER 3 010000000000023A "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Wake of Ashes
+END
+VER 3 0100000000000241 "Q" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] Flash of Light
+/use [mod:shift] Turn Evil
+END
+VER 3 010000000000008F "R" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopattack;
+/cast [nomod] Repentance
+/cast [mod:shift] Turn Evil
+/stopattack
+END
+VER 3 0100000000000236 "Self  WoG" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=self] Word of Glory
+/cast [mod:shift] Word of Glory
+END
+VER 3 010000000000023E "T" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Execution Sentence
+END
+VER 3 0100000000000233 "X" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Avenging Wrath
+END

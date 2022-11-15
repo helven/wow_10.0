@@ -1,0 +1,36 @@
+
+PersoLootRollDB = {
+	["char"] = {
+		["Senjitsu - Saurfang"] = {
+			["version"] = 5,
+		},
+		["Sèn - Frostmourne"] = {
+			["version"] = 5,
+		},
+		["Senjítsu - Frostmourne"] = {
+			["version"] = 5,
+		},
+	},
+	["factionrealm"] = {
+		["Alliance - Saurfang"] = {
+			["version"] = 4,
+		},
+		["Alliance - Frostmourne"] = {
+			["version"] = 4,
+		},
+	},
+	["profileKeys"] = {
+		["Senjitsu - Saurfang"] = "Default",
+		["Sèn - Frostmourne"] = "Default",
+		["Senjítsu - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["version"] = 9,
+		},
+	},
+}
+PersoLootRollIconDB = {
+}
+PersoLootRollML = nil
+PersoLootRollDebug = false

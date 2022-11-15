@@ -1,0 +1,13 @@
+
+DataStore_PetsDB = {
+	["profileKeys"] = {
+		["Lemak - Jubei'Thos"] = "Lemak - Jubei'Thos",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Jubei'Thos.Lemak"] = {
+				["lastUpdate"] = 1667624166,
+			},
+		},
+	},
+}

@@ -1,0 +1,476 @@
+
+RoutesDB = {
+	["profileKeys"] = {
+		["Senvorath - Gundrak"] = "Default",
+		["Senjìtsu - Barthilas"] = "Senjìtsu - Barthilas",
+		["Senjitsu - Caelestrasz"] = "Default",
+		["Mahlou - Jubei'Thos"] = "Default",
+		["Senzuke - Caelestrasz"] = "Default",
+		["Zenguard - Gundrak"] = "Zenguard - Gundrak",
+		["Frostsync - Gundrak"] = "Default",
+		["Leonaldon - Frostmourne"] = "Leonaldon - Frostmourne",
+		["Hailatmog - Caelestrasz"] = "Default",
+		["Vaeliir - Frostmourne"] = "Vaeliir - Frostmourne",
+		["Lothran - Gundrak"] = "Default",
+		["Feihai - Jubei'Thos"] = "Default",
+		["Brewjitsu - Frostmourne"] = "Brewjitsu - Frostmourne",
+		["Hailatmats - Saurfang"] = "Default",
+		["Dalthrath - Frostmourne"] = "Default",
+		["Senmu - Gundrak"] = "Default",
+		["Hailat - Caelestrasz"] = "Default",
+		["Senjitsu - Frostmourne"] = "Senjitsu - Frostmourne",
+		["Xiñ - Frostmourne"] = "Default",
+		["Sensujin - Suramar"] = "Default",
+		["Senjutsu - Gundrak"] = "Senjutsu - Gundrak",
+		["Hailatmats - Caelestrasz"] = "Default",
+		["Arthoredron - Gundrak"] = "Default",
+		["Senshinzo - Frostmourne"] = "Default",
+		["Mannchida - Gundrak"] = "Mannchida - Gundrak",
+		["Senobie - Emerald Dream"] = "Senobie - Emerald Dream",
+		["Senjichan - Frostmourne"] = "Default",
+		["Senjuken - Gundrak"] = "Senjuken - Gundrak",
+		["Senshikari - Frostmourne"] = "Default",
+		["Senmura - Saurfang"] = "Default",
+		["Senreithis - Frostmourne"] = "Default",
+		["Senviction - Frostmourne"] = "Default",
+		["Sensujin - Gundrak"] = "Sensujin - Gundrak",
+		["Senjíchan - Frostmourne"] = "Default",
+		["Sensitiv - Frostmourne"] = "Default",
+		["Sèn - Frostmourne"] = "Default",
+		["Minyak - Jubei'Thos"] = "Default",
+		["Rahruken - Suramar"] = "Default",
+		["Senjitsu - Bloodhoof"] = "Default",
+		["Senshizo - Frostmourne"] = "Default",
+		["Hailat - Nagrand"] = "Default",
+		["Senshimusu - Gundrak"] = "Default",
+		["Senzx - Frostmourne"] = "Senzx - Frostmourne",
+		["Blakbull - Jubei'Thos"] = "Default",
+		["Senshinzo - Caelestrasz"] = "Default",
+		["Senzuke - Gundrak"] = "Senzuke - Gundrak",
+		["Senruko - Frostmourne"] = "Senruko - Frostmourne",
+		["Hahalulu - Caelestrasz"] = "Default",
+		["Senorlax - Frostmourne"] = "Senorlax - Frostmourne",
+		["Sencubie - Frostmourne"] = "Sencubie - Frostmourne",
+		["Zfusion - Suramar"] = "Default",
+		["Najib - Jubei'Thos"] = "Default",
+		["Senshinzo - Gundrak"] = "Default",
+		["Sensujin - Frostmourne"] = "Sensujin - Frostmourne",
+		["Rathang - Frostmourne"] = "Default",
+		["Sendørei - Frostmourne"] = "Default",
+		["Senruz - Barthilas"] = "Default",
+		["Vandrill - Saurfang"] = "Default",
+		["Senrogate - Frostmourne"] = "Default",
+		["Senjítsu - Frostmourne"] = "Default",
+		["Xeen - Frostmourne"] = "Default",
+		["Senvo - Frostmourne"] = "Default",
+		["Senjitsu - Saurfang"] = "Default",
+		["Senobibi - Frostmourne"] = "Default",
+		["Hailatmog - Saurfang"] = "Default",
+		["Hailat - Saurfang"] = "Default",
+		["Senjitsu - Barthilas"] = "Senjitsu - Barthilas",
+		["Senjitsu - Jubei'Thos"] = "Default",
+		["Tailukyeh - Caelestrasz"] = "Default",
+		["Senjichan - Caelestrasz"] = "Default",
+		["Senshigeru - Caelestrasz"] = "Default",
+		["Lemak - Jubei'Thos"] = "Default",
+		["Senjitsu - Gundrak"] = "Senjitsu - Gundrak",
+		["Xin - Caelestrasz"] = "Default",
+		["Xïn - Saurfang"] = "Default",
+		["Pepsikilla - Suramar"] = "Default",
+		["Ngonghai - Jubei'Thos"] = "Default",
+		["Vandrill - Gundrak"] = "Vandrill - Gundrak",
+		["Testxext - Frostmourne"] = "Default",
+	},
+	["global"] = {
+		["routes"] = {
+			[895] = {
+				["Herbing"] = {
+					["route"] = {
+						61191761, -- [1]
+						64842130, -- [2]
+						64692742, -- [3]
+						62393043, -- [4]
+						59183181, -- [5]
+						55112976, -- [6]
+						54843209, -- [7]
+						54383373, -- [8]
+						52673278, -- [9]
+						49542862, -- [10]
+						48282956, -- [11]
+						49613439, -- [12]
+						49603653, -- [13]
+						47013499, -- [14]
+						45673183, -- [15]
+						45312926, -- [16]
+						43442764, -- [17]
+						42012479, -- [18]
+						42112332, -- [19]
+						44842105, -- [20]
+						45191978, -- [21]
+						47501791, -- [22]
+						50071779, -- [23]
+						52251809, -- [24]
+						50021932, -- [25]
+						51172407, -- [26]
+						53102627, -- [27]
+						54082658, -- [28]
+						54972620, -- [29]
+						53612300, -- [30]
+						58672067, -- [31]
+					},
+					["color"] = {
+						1, -- [1]
+						0, -- [2]
+						0.729411764705882, -- [3]
+						0.5, -- [4]
+					},
+					["width"] = 50,
+					["length"] = 13022.3444646469,
+				},
+			},
+			[942] = {
+				["Mining"] = {
+					["visible"] = false,
+					["route"] = {
+						57177533, -- [1]
+						58827779, -- [2]
+						59688312, -- [3]
+						60307731, -- [4]
+						60377367, -- [5]
+						62157158, -- [6]
+						62356942, -- [7]
+						67157286, -- [8]
+						68097574, -- [9]
+						70227558, -- [10]
+						72067528, -- [11]
+						72657307, -- [12]
+						73676834, -- [13]
+						71836683, -- [14]
+						71695369, -- [15]
+						71695369, -- [16]
+						74073587, -- [17]
+						74073587, -- [18]
+						74013577, -- [19]
+						65534488, -- [20]
+						65524367, -- [21]
+						65524367, -- [22]
+						64704564, -- [23]
+						62955171, -- [24]
+						65166345, -- [25]
+						62696404, -- [26]
+						59036719, -- [27]
+						56976894, -- [28]
+						57386379, -- [29]
+						54896043, -- [30]
+						51236017, -- [31]
+						50005780, -- [32]
+						51745723, -- [33]
+						51605580, -- [34]
+						51765561, -- [35]
+						54515066, -- [36]
+						54515066, -- [37]
+						52165367, -- [38]
+						51325390, -- [39]
+						51185579, -- [40]
+						50195396, -- [41]
+						48754707, -- [42]
+						48754707, -- [43]
+						48525548, -- [44]
+						48525548, -- [45]
+						48235655, -- [46]
+						48235655, -- [47]
+						47446012, -- [48]
+						42816016, -- [49]
+						45095310, -- [50]
+						42435122, -- [51]
+						41105570, -- [52]
+						38985125, -- [53]
+						31593230, -- [54]
+						38035446, -- [55]
+						35475632, -- [56]
+						38215893, -- [57]
+						38996040, -- [58]
+						39296303, -- [59]
+						33656455, -- [60]
+						28237916, -- [61]
+						29317476, -- [62]
+						30947351, -- [63]
+						33767233, -- [64]
+						34466843, -- [65]
+						42816570, -- [66]
+						46086676, -- [67]
+						47446855, -- [68]
+						50806701, -- [69]
+						48617141, -- [70]
+						51287543, -- [71]
+						54227439, -- [72]
+						55377346, -- [73]
+						57947262, -- [74]
+						57247386, -- [75]
+					},
+					["color"] = {
+						1, -- [1]
+						0, -- [2]
+						0.741176470588235, -- [3]
+						0.535533159971237, -- [4]
+					},
+					["width"] = 100,
+					["selection"] = {
+						["Monelite Seam"] = "Monelite Seam",
+						["Storm Silver Deposit"] = "Storm Silver Deposit",
+					},
+					["length"] = 14234.8776997005,
+					["width_battlemap"] = 20,
+					["db_type"] = {
+						["Mining"] = true,
+					},
+				},
+			},
+			[1543] = {
+				["Famished Darkness rift farming"] = {
+					["route"] = {
+						24922289, -- [1]
+						25972010, -- [2]
+						27261756, -- [3]
+						26531995, -- [4]
+						27662141, -- [5]
+						30092151, -- [6]
+						33562497, -- [7]
+						32242619, -- [8]
+						30812994, -- [9]
+						29403308, -- [10]
+						28523625, -- [11]
+						27353843, -- [12]
+						25924193, -- [13]
+						24264326, -- [14]
+						21804549, -- [15]
+						20224542, -- [16]
+						21414408, -- [17]
+						21484200, -- [18]
+						23053077, -- [19]
+					},
+					["color"] = {
+						0.1607843137254902, -- [1]
+						1, -- [2]
+						0.2431372549019608, -- [3]
+						1, -- [4]
+					},
+					["width"] = 30,
+					["length"] = 7271.892970228442,
+				},
+			},
+			[680] = {
+				["Suramar Mining"] = {
+					["route"] = {
+						31502610, -- [1]
+						32503041, -- [2]
+						36962869, -- [3]
+						39442646, -- [4]
+						40402940, -- [5]
+						29305080, -- [6]
+						28065169, -- [7]
+						27235350, -- [8]
+						29525383, -- [9]
+						29675593, -- [10]
+						28305620, -- [11]
+						25595436, -- [12]
+						24205070, -- [13]
+						24293929, -- [14]
+						24933261, -- [15]
+						18882769, -- [16]
+						20272430, -- [17]
+						18622136, -- [18]
+						20031860, -- [19]
+						20741722, -- [20]
+						21441583, -- [21]
+						25501750, -- [22]
+						26772160, -- [23]
+						26812522, -- [24]
+					},
+					["color"] = {
+						1, -- [1]
+						0.0549019607843137, -- [2]
+						0.96078431372549, -- [3]
+						1, -- [4]
+					},
+					["width"] = 100,
+					["selection"] = {
+						["Suramar Mining Cave"] = "Suramar Mining Cave",
+					},
+					["length"] = 3022.45260939488,
+					["width_battlemap"] = 20,
+					["db_type"] = {
+						["Note"] = true,
+					},
+				},
+			},
+			[1533] = {
+				["Bastion Herb"] = {
+					["route"] = {
+						49441953, -- [1]
+						50451634, -- [2]
+						52531464, -- [3]
+						54601638, -- [4]
+						54222096, -- [5]
+						55022572, -- [6]
+						54342878, -- [7]
+						55273132, -- [8]
+						57153304, -- [9]
+						56873549, -- [10]
+						59753461, -- [11]
+						63633708, -- [12]
+						60284147, -- [13]
+						62624355, -- [14]
+						61164596, -- [15]
+						63034926, -- [16]
+						61985285, -- [17]
+						57915359, -- [18]
+						54635732, -- [19]
+						53236260, -- [20]
+						54227048, -- [21]
+						57417351, -- [22]
+						54007760, -- [23]
+						50817698, -- [24]
+						47997461, -- [25]
+						50017108, -- [26]
+						52247070, -- [27]
+						50586644, -- [28]
+						50906237, -- [29]
+						41426065, -- [30]
+						43145778, -- [31]
+						44824584, -- [32]
+						46164472, -- [33]
+						46034096, -- [34]
+						44873745, -- [35]
+						46993580, -- [36]
+						47203809, -- [37]
+						51433553, -- [38]
+						52153068, -- [39]
+						51812400, -- [40]
+					},
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0.06274509803921569, -- [3]
+						1, -- [4]
+					},
+					["length"] = 11713.68618348334,
+				},
+			},
+			[376] = {
+				["Pandaria Mining"] = {
+					["route"] = {
+						30003051, -- [1]
+						32892489, -- [2]
+						38292800, -- [3]
+						35413640, -- [4]
+						32794171, -- [5]
+						34754520, -- [6]
+						37214473, -- [7]
+						39354048, -- [8]
+						42944323, -- [9]
+						41304578, -- [10]
+						42754644, -- [11]
+						43554915, -- [12]
+						44154697, -- [13]
+						47484462, -- [14]
+						45733217, -- [15]
+						40593225, -- [16]
+						39792808, -- [17]
+						40782486, -- [18]
+						43442605, -- [19]
+						46202669, -- [20]
+						47832420, -- [21]
+						49882567, -- [22]
+						48873050, -- [23]
+						48853542, -- [24]
+						50553311, -- [25]
+						52642379, -- [26]
+						58672443, -- [27]
+						58403007, -- [28]
+						60483156, -- [29]
+						64662973, -- [30]
+						68282599, -- [31]
+						66603356, -- [32]
+						63273544, -- [33]
+						59914213, -- [34]
+						47864936, -- [35]
+						44095568, -- [36]
+						34535174, -- [37]
+						35285772, -- [38]
+						30365777, -- [39]
+						29635275, -- [40]
+						31294255, -- [41]
+					},
+					["color"] = {
+						0.02745098039215686, -- [1]
+						0, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["width"] = 50,
+					["length"] = 6894.270955408399,
+				},
+			},
+			[1536] = {
+				["Maldraxxus Mining"] = {
+					["route"] = {
+						37823077, -- [1]
+						41973296, -- [2]
+						51925099, -- [3]
+						57305196, -- [4]
+						55084672, -- [5]
+						60804670, -- [6]
+						60754266, -- [7]
+						54294428, -- [8]
+						52953945, -- [9]
+						54083581, -- [10]
+						56903763, -- [11]
+						58093506, -- [12]
+						53543126, -- [13]
+						51153606, -- [14]
+						51393828, -- [15]
+						48474274, -- [16]
+						46474268, -- [17]
+						44744496, -- [18]
+						45674609, -- [19]
+						44264806, -- [20]
+						45864991, -- [21]
+						44394974, -- [22]
+						43165274, -- [23]
+						45295548, -- [24]
+						43135814, -- [25]
+						39725703, -- [26]
+						34305466, -- [27]
+						32315744, -- [28]
+						32183987, -- [29]
+						31643738, -- [30]
+						33523457, -- [31]
+						32403260, -- [32]
+						32953096, -- [33]
+						34513384, -- [34]
+						37383632, -- [35]
+					},
+					["color"] = {
+						1, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["length"] = 11065.97470649446,
+				},
+			},
+		},
+		["defaults"] = {
+			["prof_options"] = {
+				["ExtractGas"] = "With Profession",
+				["Treasure"] = "When active",
+				["Archaeology"] = "With Profession",
+				["Herbalism"] = "When active",
+				["Mining"] = "When active",
+				["Fishing"] = "When active",
+			},
+			["use_auto_showhide"] = true,
+		},
+	},
+}

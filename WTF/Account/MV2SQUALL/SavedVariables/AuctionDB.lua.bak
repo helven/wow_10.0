@@ -1,0 +1,2 @@
+
+AuctionDBSaved = nil

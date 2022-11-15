@@ -1,0 +1,1 @@
+- Fix farm radar compatibility with retail

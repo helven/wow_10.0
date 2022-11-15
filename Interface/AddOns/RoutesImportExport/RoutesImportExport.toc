@@ -1,0 +1,10 @@
+## Interface: 100000
+## Title: Routes Import/Export
+## Author: Nadiv (Callan)
+## Version: v1.0.6
+## DefaultState: enabled
+## Dependencies: Routes
+
+Libs\Libs.xml
+
+RoutesImportExport.lua

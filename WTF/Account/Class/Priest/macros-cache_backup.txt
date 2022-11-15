@@ -1,0 +1,73 @@
+VER 3 0100000000000002 "1" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/startattack
+/cast [nostance] Shadowform
+/use Mind Flay
+/use Smite
+END
+VER 3 0100000000000003 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nostance,nomod] Shadowform
+/use [@mouseover, exists, nodead, nomod][nomod] Shadow Word: Pain
+/use [mod:shift] Damnation
+END
+VER 3 0100000000000004 "3" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/startattack
+/cast [nostance] Shadowform
+/use Mind Blast
+END
+VER 3 0100000000000006 "4" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/startattack
+/cast [nostance] Shadowform
+/use [@mouseover, exists, nodead, nomod][] Vampiric Touch
+/use [mod:shift] Psyfiend(PvP Talent)
+END
+VER 3 010000000000000A "E" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [nomod] Silence
+/use [mod:shift] Mass Dispel
+END
+VER 3 0100000000000007 "F" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/startattack
+/use [nomod] Devouring Plague
+/use [mod:shift] Fade
+END
+VER 3 010000000000000B "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nostance] Shadowform
+/use [nomod] Shadow Word: Death
+/use [mod:shift] Shadowfiend
+END
+VER 3 0100000000000009 "M2" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [nomod][@target,exis,noharm] Levitate
+/use [nomod][@player] Levitate
+/cancelaura [mod:shift] Levitate
+END
+VER 3 0100000000000005 "Q" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [nomod] Flash Heal
+/use [mod:shift] Leap of Faith
+END
+VER 3 0100000000000001 "R" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [mod:shift] Psychic Scream
+END
+VER 3 010000000000000C "T" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [nomod] Void Eruption
+/use [mod:shift] Mind Control
+END
+VER 3 0100000000000008 "X" "INV_MISC_QUESTIONMARK"
+#showtooltp
+/use [nomod] Void Eruption
+END
+VER 3 010000000000000D "Z" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, exists, nodead][] Mind Sear
+END

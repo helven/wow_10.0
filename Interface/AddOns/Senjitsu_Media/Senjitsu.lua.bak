@@ -1,0 +1,154 @@
+local Addon = ...
+local LSM = LibStub("LibSharedMedia-3.0")
+if (LSM == nil) then 
+	return 
+end
+
+-- Libraries
+local BACKGROUND = LSM.MediaType.BACKGROUND
+local BORDER = LSM.MediaType.BORDER
+local FONT = LSM.MediaType.FONT
+local SOUND = "sound"
+local STATUSBAR = "statusbar"
+local TEXTURE = "texture"
+
+-- Paths
+local Path = ([[Interface\AddOns\%s\]]):format(Addon)
+local LibPath = {
+	[BACKGROUND] = Path..[[background\]],
+	[BORDER] = Path..[[border\]],
+	[FONT] = Path..[[font\]],
+	[SOUND] = Path..[[sound\]],
+	[STATUSBAR] = Path..[[statusbar\]],
+	[TEXTURE] = Path..[[texture\]]
+}
+
+-- Shorthand Register
+local Register = function(lib, key, data)
+	LSM_Lib = lib
+	if lib == "texture" then
+		LSM_Lib = "backgrond"
+	end
+	LSM:Register(lib, key, LibPath[lib]..data) 
+end
+
+-- ----- 
+-- BACKGROUND 
+-- ----- 
+LSM:Register("background", "Senjitsu: HalBackground", LibPath["background"].."HalBackground.tga") 
+LSM:Register("background", "Senjitsu: HalBackgroundA", LibPath["background"].."HalBackgroundA.tga") 
+
+-- ----- 
+--  BORDER 
+-- ---- 
+LSM:Register("border", "Senjitsu: AllBlackBorder", "AllBlackBorder.tga") 
+LSM:Register("border", "Senjitsu: HalBorder", "HalBorder.tga") 
+LSM:Register("border", "Senjitsu: Sexymapsolid", "Sexymapsolid.tga") 
+
+-- -----
+--   FONT
+-- -----
+LSM:Register("font", "Senjitsu: SABF", LibPath["font"].."ABF.ttf") 
+LSM:Register("font", "Senjitsu: AccidentalPresidency", LibPath["font"].."AccidentalPresidency.ttf") 
+--LSM:Register("font", "Adventure", "Adventure.ttf") 
+LSM:Register("font", "Senjitsu: AvantGardeCTT", LibPath["font"].."AvantGardeCTT.ttf") 
+LSM:Register("font", "Senjitsu: AvantGardeGothicLTMedium", LibPath["font"].."AvantGardeGothicLTMedium.ttf") 
+LSM:Register("font", "Senjitsu: BigNoodleTitling-Oblique", LibPath["font"].."BigNoodleTitling-Oblique.ttf") 
+LSM:Register("font", "Senjitsu: BigNoodleTitling", LibPath["font"].."BigNoodleTitling.ttf") 
+LSM:Register("font", "Senjitsu: BigNoodleToo", LibPath["font"].."BigNoodleToo.ttf") 
+LSM:Register("font", "Senjitsu: BigNoodleTooOblique", LibPath["font"].."BigNoodleTooOblique.ttf") 
+LSM:Register("font", "Senjitsu: BlackChancery", LibPath["font"].."BlackChancery.ttf") 
+--LSM:Register("font", "Emblem", "Emblem.ttf") 
+LSM:Register("font", "Senjitsu: Enigma2", LibPath["font"].."Enigma2.ttf") 
+--LSM:Register("font", "GoJuOn", "GoJuOn.ttf") 
+LSM:Register("font", "Senjitsu: gothic", LibPath["font"].."gothic.ttf") 
+LSM:Register("font", "Senjitsu: Microgramma", LibPath["font"].."Microgramma.ttf") 
+LSM:Register("font", "Senjitsu: Movie_Poster-Bold", LibPath["font"].."Movie_Poster-Bold.ttf") 
+LSM:Register("font", "Senjitsu: Neuropol", LibPath["font"].."Neuropol.ttf") 
+LSM:Register("font", "Senjitsu: normal_font", LibPath["font"].."normal_font.ttf") 
+--LSM:Register("font", "Pepsi", "Pepsi.ttf") 
+--LSM:Register("font", "Porky", "Porky.ttf") 
+--LSM:Register("font", "rm_midse", "rm_midse.ttf") 
+--SM:LSM:Register("font", "segoeui", "segoeui.ttf") 
+--LSM:Register("font", "SteelFish", "SteelFish.ttf") 
+--LSM:Register("font", "Tempest", "Tempest.ttf") 
+--LSM:Register("font", "Tw_Cen_MT_Bold", "Tw_Cen_MT_Bold.ttf") 
+--LSM:Register("font", "uf_font", "uf_font.ttf") 
+--LSM:Register("font", "Ultima_Campagnoli", "Ultima_Campagnoli.ttf") 
+LSM:Register("font", "Senjitsu: Visitor1", LibPath["font"].."Visitor1.ttf") 
+LSM:Register("font", "Senjitsu: Visitor2", LibPath["font"].."Visitor2.ttf") 
+--LSM:Register("font", "Yellowjacket", "Yellowjacket.ttf") 
+
+-- -----
+--   SOUND
+-- -----
+LSM:Register("sound", "Senjitsu: detected-nearby", "detected-nearby.mp3]])
+LSM:Register("sound", "Senjitsu: detected-stealth", "detected-stealth.mp3]])
+LSM:Register("sound", "Senjitsu: cn_bao4_zha4", "cn_bao4_zha4.mp3]])
+LSM:Register("sound", "Senjitsu: cn_ci4", "cn_ci4.mp3]])
+LSM:Register("sound", "Senjitsu: cn_dian4", "cn_dian4.mp3]])
+LSM:Register("sound", "Senjitsu: cn_fang2", "cn_fang2.mp3]])
+LSM:Register("sound", "Senjitsu: cn_fang4_jian4", "cn_fang4_jian4.mp3]])
+LSM:Register("sound", "Senjitsu: cn_sha1", "cn_sha1.mp3]])
+LSM:Register("sound", "Senjitsu: cn_shao1", "cn_shao1.mp3]])
+LSM:Register("sound", "Senjitsu: cn_she4", "cn_she4.mp3]])
+LSM:Register("sound", "Senjitsu: Multi Blackarrow", "multi_blackarrow.mp3]])
+LSM:Register("sound", "Senjitsu: Blackarrow Cast 01", "spell_hu_blackarrow_cast_01.ogg]])
+LSM:Register("sound", "Senjitsu: Blackarrow Cast 02", "spell_hu_blackarrow_cast_02.ogg]])
+LSM:Register("sound", "Senjitsu: Blackarrow Cast 03", "spell_hu_blackarrow_cast_03.ogg]])
+LSM:Register("sound", "Senjitsu: Blackarrow Cast 04", "spell_hu_blackarrow_cast_04.ogg]])
+LSM:Register("sound", "Senjitsu: Blackarrow Cast 05", "spell_hu_blackarrow_cast_05.ogg]])
+LSM:Register("sound", "Senjitsu: Blackarrow Cast 06", "spell_hu_blackarrow_cast_06.ogg]])
+LSM:Register("sound", "Senjitsu: Black Barbed Shot", "black_barbed_shot.mp3]])
+LSM:Register("sound", "Senjitsu: Vampire", "MON_Vampire_Female_fidget0_00_157002.ogg]])
+LSM:Register("sound", "Senjitsu: Wham!", 566946)
+LSM:Register("sound", "Senjitsu: Invoke Xuen", 623942)
+LSM:Register("sound", "Senjitsu: Aimed Shot", 1590095)
+
+LSM:Register("sound", "Senjitsu: guinevere_kof_02", "guinevere_kof_02.mp3]])
+LSM:Register("sound", "Senjitsu: harley_female_shoot_ulti", "harley_female_shoot_ulti.mp3]])
+LSM:Register("sound", "Senjitsu: nana_shoot_ulti", "nana_shoot_ulti.mp3]])
+
+--LSM:Register("sound", "Rubber Ducky",  566121)
+--LSM:Register("sound", "Cartoon FX",	   566543)
+--LSM:Register("sound", "Explosion", 	   566982)
+--LSM:Register("sound", "Shing!", 	   566240)
+--LSM:Register("sound", "Simon Chime",   566076)
+--LSM:Register("sound", "War Drums", 	   567275)
+--LSM:Register("sound", "Cheer", 		   567283)
+--LSM:Register("sound", "Humm", 		   569518)
+--LSM:Register("sound", "Short Circuit", 568975)
+--LSM:Register("sound", "Fel Portal",    569215)
+--LSM:Register("sound", "Fel Nova", 	   568582)
+--LSM:Register("sound", "You Will Die!", 546633)
+
+--LSM:Register("sound", "Die!", 		   551339)
+--LSM:Register("sound", "You Fail!", 	   553345)
+
+-- -----
+--   STATUSBAR
+-- -----
+LSM:Register("statusbar", "HalA", "HalA.tga") 
+LSM:Register("statusbar", "HalB", "HalB.tga") 
+LSM:Register("statusbar", "HalC", "HalC.tga") 
+LSM:Register("statusbar", "HalD", "HalD.tga") 
+LSM:Register("statusbar", "HalE", "HalE.tga") 
+LSM:Register("statusbar", "HalF", "HalF.tga") 
+LSM:Register("statusbar", "HalG", "HalG.tga") 
+LSM:Register("statusbar", "HalH", "HalH.tga") 
+LSM:Register("statusbar", "HalI", "HalI.tga") 
+LSM:Register("statusbar", "HalJ", "HalJ.tga") 
+LSM:Register("statusbar", "HalK", "HalK.tga") 
+LSM:Register("statusbar", "HalL", "HalL.tga") 
+LSM:Register("statusbar", "HalM", "HalM.tga") 
+LSM:Register("statusbar", "HalN", "HalN.tga") 
+LSM:Register("statusbar", "HalO", "HalO.tga") 
+LSM:Register("statusbar", "HalP", "HalP.tga") 
+LSM:Register("statusbar", "HalQ", "HalQ.tga") 
+LSM:Register("statusbar", "HalR", "HalR.tga") 
+LSM:Register("statusbar", "HalS", "HalS.tga") 
+LSM:Register("statusbar", "HalT", "HalT.tga") 
+LSM:Register("statusbar", "HalU", "HalU.tga") 
+LSM:Register("statusbar", "HalV", "HalV.tga") 
+LSM:Register("statusbar", "Cast1", "Cast1.tga") 
+LSM:Register("statusbar", "Cast2", "Cast2.tga") 

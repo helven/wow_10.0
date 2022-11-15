@@ -1,0 +1,23 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Lemak - Jubei'Thos"] = "Lemak - Jubei'Thos",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Jubei'Thos.Lemak"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|8.3274660110474",
+					["HealthMax"] = 464,
+					["Melee"] = "15-17|2.4940001964569|32|0|8.3274660110474|0",
+					["MaxPower"] = "0|80",
+					["Defense"] = "0|0|4.9949526786804|0|10|0",
+					["PVP"] = "0|0",
+					["Base"] = "16|32|58|63|0",
+					["Spell"] = "63|66|0|8.3274660110474|11|12",
+				},
+				["lastUpdate"] = 1667624154,
+			},
+		},
+	},
+}

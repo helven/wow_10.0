@@ -1,0 +1,41 @@
+
+PVPScanDB = {
+	["profileKeys"] = {
+		["Oversynced - Frostmourne"] = "Default",
+		["Senjitsu - Caelestrasz"] = "Default",
+		["Frostsync - Frostmourne"] = "Default",
+		["Brewjitsu - Frostmourne"] = "Default",
+		["Sensuki - Emerald Dream"] = "Default",
+		["Dalthrath - Frostmourne"] = "Default",
+		["Senjitsu - Emerald Dream"] = "Default",
+		["Senjitsu - Frostmourne"] = "Default",
+		["Tyrandë - Frostmourne"] = "Default",
+		["Epidemicious - Suramar"] = "Default",
+		["Pepsikilla - Suramar"] = "Default",
+		["Zfusion - Suramar"] = "Default",
+		["Vanlorian - Tichondrius"] = "Default",
+		["Senjiji - Frostmourne"] = "Default",
+		["Dackilla - Frostmourne"] = "Default",
+		["Rahruken - Suramar"] = "Default",
+		["Senjitsu - Barthilas"] = "Default",
+		["Vaeliir - Frostmourne"] = "Default",
+		["Senjitsu - Saurfang"] = "Default",
+		["Senruko - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["point"] = "CENTER",
+			["scale"] = 1,
+			["SpotBarTimeOut"] = 20,
+			["Minimap"] = {
+				["hide"] = true,
+			},
+			["y"] = 0,
+			["SoundFile"] = "Enermy Detected",
+			["SpotBarWidth"] = 180,
+			["SpotBarTexture"] = "HalM",
+			["SpotBarAmount"] = 8,
+		},
+	},
+}

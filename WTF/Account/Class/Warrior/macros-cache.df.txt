@@ -1,0 +1,142 @@
+VER 3 0100000000000013 "1" "INV_MISC_QUESTIONMARK"
+/startattack
+/cancelaura Bladestorm
+/use [nomod,@mouseover,harm,exists]Charge
+/use [nomod,harm]Charge
+/use [spec:1,nomod]Slam
+/use [nomod,@mouseover,harm,exists]Bloodthirst
+/use [nomod,harm]Bloodthirst
+/use [spec:3,nomod,@mouseover,friendly]Intervene
+END
+VER 3 0100000000000002 "2" "134400"
+#showtooltip
+/startattack
+/use [spec:1,nomod]Rend
+/use [spec:1/2,mod:shift]Disarm
+/use [spec:3,nomod] Revenge
+END
+VER 3 0100000000000003 "3" "134400"
+#showtooltip
+/startattack
+/use [spec:1,nomod,@mouseover,harm,nodead,exists]Mortal Strike;Mortal Strike
+/use [spec:2,nomod,@mouseover,harm,nodead,exists]Raging Blow;Raging Blow
+/use [spec:3,mod:shift]Dragon Charge
+END
+VER 3 0100000000000004 "4" "134400"
+#showtooltip
+/use [nomod,@mouseover,harm,nodead,exists] Hamstring;Hamstring
+/cast [mod:shift] Piercing Howl
+/cast [mod:shift] Shield Block
+END
+VER 3 0100000000000005 "5" "134400"
+#showtooltip
+/use [spec:1/2,nomod,@mouseover,exists] Intervene
+/use [spec:3,nomod,harm,@mouseover,exists] Shield Charge;Shield Charge
+/use [mod:shift] 6
+END
+VER 3 0100000000000006 "6" "134400"
+#showtooltip
+/use [nomod] Taunt
+/use [mod:shift] Challenging Shout
+END
+VER 3 0100000000000008 "C" "134400"
+#showtooltip
+/startattack [nomod]
+/cancelaura [nomod] Bladestorm
+/use [mod:shift] Battle Shout
+/use [nomod,harm,@mouseover,harm,nodead,exists] Victory Rush;Victory Rush
+END
+VER 3 0100000000000009 "E" "134400"
+#showtooltip
+/cancelaura Hand of Protection
+/cancelaura Bladestorm
+/use [nomod,@mouseover,harm,nodead,exists] Pummel;Pummel
+/use [mod:shift,@focus] Pummel
+/tm [mod:alt] 7
+END
+VER 3 010000000000000A "F" "134400"
+#showtooltip
+/use [spec:1,nomod,@mouseover,harm,exists]Overpower
+/use [spec:1,nomod,]Overpower
+/use [spec:2,nomod,harm,exists]Rampage
+/use [spec:3,nomod,@mouseover,harm,exists]Shield Slam
+/use [spec:3,nomod,]Shield Slam
+/use [mod:shift] Heroic Throw
+END
+VER 3 010000000000000B "G" "135358"
+#showtooltip
+/leavevehicle
+/cancelaura Bladestorm
+/use [nomod,@mouseover,harm,nodead,exists] Execute
+/use [nomod,@target,harm,nodead] Execute
+/use [mod:shift] Shattering Throw
+END
+VER 3 0100000000000010 "M1" "134400"
+#showtooltip
+/use [mod:shift] Berserker Rage
+/use [mod:ctrl,@focus] Storm Bolt
+/use [spec:1/3,nomod] Thunder Clap
+/use [spec:3,nomod] Ignore Pain
+END
+VER 3 0100000000000011 "M2" "134400"
+#showtooltip
+/startattack
+/use [spec:1,nomod]Cleave
+/use [spec:1,mod:shift]Sweeping Strikes
+/use [spec:1,mod:ctrl]Colossus Smash
+/use [spec:3,nomod]Thunder Clap
+/use [spec:3,nomod]Shield Block
+END
+VER 3 0100000000000012 "Mouse Down" "134400"
+#showtooltip
+/startattack
+/use [nomod,@mouseover,harm,nodead,exists]Heroic Throw;Heroic Throw
+END
+VER 3 0100000000000007 "Q" "134400"
+#showtooltip
+/use [spec:1,nomod]Whirlwind
+/use [spec:3,nomod,@cursor] Ravager
+/use [mod:shift] Battle Shout
+/tm [mod:alt] 8
+END
+VER 3 010000000000000C "R" "134400"
+#showtooltip
+/cancelaura [mod:shift]Bladestorm
+/stopattack [mod:shift]
+/use [nomod]Shockwave
+/use [mod:shift,@mouseover,harm,nodead,exists]Intimidating Shout;Intimidating Shout
+/stopattack [mod:shift]
+END
+VER 3 010000000000000D "T" "134400"
+#showtooltip
+/startattack
+/cancelaura Bladestorm
+/use [nomod]Conqueror's Banner
+/use [nomod]Ancient Aftershock
+/use [nomod,@cursor]Spear of Bastion
+/use [mod:shift]Soulshape
+/use [mod:shift]Fleshcraft
+/use [mod:shift]Phial of Serenity
+END
+VER 3 010000000000000E "V" "134400"
+#showtooltp
+/cancelaura Bladestorm
+/use [nomod] Storm Bolt
+/use [mod:shift] Will to Survive
+/use [mod:shift] Arcane Torrent
+/use [mod:shift] Spatial Rift
+/use [mod:shift] Escape Artist
+/use [mod:shift] Quaking Palm
+/use [mod:shift] War Stomp
+END
+VER 3 010000000000000F "X" "134400"
+#showtooltip
+/startattack
+/use [spec:1,nomod]Warbreaker
+/use [spec:1/3,nomod]Avatar
+/use [spec:2,nomod]Recklessness
+/use [spec:2,nomod]Rampage
+/use [nomod] 14
+/use [spec:1/2,mod:shift]Bladestorm
+/use [spec:3,,mod:shift]Last Stand
+END

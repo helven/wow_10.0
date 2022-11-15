@@ -1,0 +1,2 @@
+
+DejaStatsDB = nil

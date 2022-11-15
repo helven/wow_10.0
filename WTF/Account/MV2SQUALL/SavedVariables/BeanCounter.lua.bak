@@ -1,0 +1,51 @@
+
+BeanCounterDB = {
+	["Frostmourne"] = {
+		["Senjitsu"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["Frostmourne"] = {
+		["Senjitsu"] = {
+			["tasks.sortArray"] = 1414225061,
+			["version"] = 3.03,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1414225061,
+			["wealth"] = 10183119,
+			["tasks.prunePostedDB"] = 1414225061,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 764.999938964844,
+	["configator.left"] = 560.000061035156,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil

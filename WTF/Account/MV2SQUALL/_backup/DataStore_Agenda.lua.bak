@@ -1,0 +1,449 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["Senvorath - Gundrak"] = "Senvorath - Gundrak",
+		["Minyak - Jubei'Thos"] = "Minyak - Jubei'Thos",
+		["Shoryukén - Frostmourne"] = "Shoryukén - Frostmourne",
+		["Senjitsu - Caelestrasz"] = "Senjitsu - Caelestrasz",
+		["Senryuke - Barthilas"] = "Senryuke - Barthilas",
+		["Senzuke - Caelestrasz"] = "Senzuke - Caelestrasz",
+		["Frostsync - Gundrak"] = "Frostsync - Gundrak",
+		["Leonaldon - Frostmourne"] = "Leonaldon - Frostmourne",
+		["Vaeliir - Frostmourne"] = "Vaeliir - Frostmourne",
+		["Lothran - Gundrak"] = "Lothran - Gundrak",
+		["Conoriann - Garrosh"] = "Conoriann - Garrosh",
+		["Fionsta - Suramar"] = "Fionsta - Suramar",
+		["Sensuki - Emerald Dream"] = "Sensuki - Emerald Dream",
+		["Hailatmats - Saurfang"] = "Hailatmats - Saurfang",
+		["Senjitsu - Barthilas"] = "Senjitsu - Barthilas",
+		["Senmu - Gundrak"] = "Senmu - Gundrak",
+		["Senjitsu - Emerald Dream"] = "Senjitsu - Emerald Dream",
+		["Senjitsu - Frostmourne"] = "Senjitsu - Frostmourne",
+		["Renjitsu - Frostmourne"] = "Renjitsu - Frostmourne",
+		["Epidemicious - Suramar"] = "Epidemicious - Suramar",
+		["Senjutsu - Gundrak"] = "Senjutsu - Gundrak",
+		["Hailatmats - Caelestrasz"] = "Hailatmats - Caelestrasz",
+		["Najib - Jubei'Thos"] = "Najib - Jubei'Thos",
+		["Senshinzo - Frostmourne"] = "Senshinzo - Frostmourne",
+		["Hailat - Nagrand"] = "Hailat - Nagrand",
+		["Senseeder - Frostmourne"] = "Senseeder - Frostmourne",
+		["Xin - Caelestrasz"] = "Xin - Caelestrasz",
+		["Senjuken - Gundrak"] = "Senjuken - Gundrak",
+		["Senshikari - Frostmourne"] = "Senshikari - Frostmourne",
+		["Senmura - Saurfang"] = "Senmura - Saurfang",
+		["Senreithis - Frostmourne"] = "Senreithis - Frostmourne",
+		["Senviction - Frostmourne"] = "Senviction - Frostmourne",
+		["Senshigeru - Caelestrasz"] = "Senshigeru - Caelestrasz",
+		["Senjítsu - Frostmourne"] = "Senjítsu - Frostmourne",
+		["Vanlorian - Tichondrius"] = "Vanlorian - Tichondrius",
+		["Testxext - Frostmourne"] = "Testxext - Frostmourne",
+		["Senzuke - Gundrak"] = "Senzuke - Gundrak",
+		["Senobie - Emerald Dream"] = "Senobie - Emerald Dream",
+		["Xiñ - Frostmourne"] = "Xiñ - Frostmourne",
+		["Rahruken - Suramar"] = "Rahruken - Suramar",
+		["Dalthrath - Frostmourne"] = "Dalthrath - Frostmourne",
+		["Oversynced - Frostmourne"] = "Oversynced - Frostmourne",
+		["Dackilla - Frostmourne"] = "Dackilla - Frostmourne",
+		["Tavia - Gundrak"] = "Tavia - Gundrak",
+		["Frostsync - Frostmourne"] = "Frostsync - Frostmourne",
+		["Rathang - Frostmourne"] = "Rathang - Frostmourne",
+		["Senjitsu - Saurfang"] = "Senjitsu - Saurfang",
+		["Blakbull - Jubei'Thos"] = "Blakbull - Jubei'Thos",
+		["Vandrill - Saurfang"] = "Vandrill - Saurfang",
+		["Senshizo - Frostmourne"] = "Senshizo - Frostmourne",
+		["Hahalulu - Caelestrasz"] = "Hahalulu - Caelestrasz",
+		["Xeen - Frostmourne"] = "Xeen - Frostmourne",
+		["Senjichan - Caelestrasz"] = "Senjichan - Caelestrasz",
+		["Senshinzo - Gundrak"] = "Senshinzo - Gundrak",
+		["Senobibi - Frostmourne"] = "Senobibi - Frostmourne",
+		["Zfusion - Suramar"] = "Zfusion - Suramar",
+		["Frostsync - Caelestrasz"] = "Frostsync - Caelestrasz",
+		["Feihai - Jubei'Thos"] = "Feihai - Jubei'Thos",
+		["Tyrandë - Frostmourne"] = "Tyrandë - Frostmourne",
+		["Sensujin - Frostmourne"] = "Sensujin - Frostmourne",
+		["Hailatmog - Saurfang"] = "Hailatmog - Saurfang",
+		["Senjitsu - Gundrak"] = "Senjitsu - Gundrak",
+		["Senjitsu - Bloodhoof"] = "Senjitsu - Bloodhoof",
+		["Senshimusu - Gundrak"] = "Senshimusu - Gundrak",
+		["Sendørei - Frostmourne"] = "Sendørei - Frostmourne",
+		["Myrolorin - Jubei'Thos"] = "Myrolorin - Jubei'Thos",
+		["Pepsikilla - Suramar"] = "Pepsikilla - Suramar",
+		["Ngonghai - Jubei'Thos"] = "Ngonghai - Jubei'Thos",
+		["Vandrill - Gundrak"] = "Vandrill - Gundrak",
+		["Senjíchan - Frostmourne"] = "Senjíchan - Frostmourne",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Gundrak.Senshinzo"] = {
+				["lastUpdate"] = 1629639818,
+			},
+			["Default.Barthilas.Senjitsu"] = {
+				["Contacts"] = {
+					["Sakailah"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1456848211,
+			},
+			["Default.Frostmourne.Dalthrath"] = {
+				["Contacts"] = {
+					["Dalthrace"] = {
+						["note"] = "",
+					},
+					["Pkasz"] = {
+						["note"] = "",
+					},
+					["Chipet"] = {
+						["note"] = "",
+					},
+					["Dalthran"] = {
+						["note"] = "",
+					},
+					["Tharrain"] = {
+						["note"] = "",
+					},
+					["Dwalind"] = {
+						["note"] = "",
+					},
+					["Quilann"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1418659352,
+			},
+			["Default.Gundrak.Senjitsu"] = {
+				["lastUpdate"] = 1573063352,
+			},
+			["Default.Jubei'Thos.Myrolorin"] = {
+				["lastUpdate"] = 1414633361,
+			},
+			["Default.Gundrak.Senzuke"] = {
+				["lastUpdate"] = 1573662906,
+			},
+			["Default.Caelestrasz.Senzuke"] = {
+				["lastUpdate"] = 1625878690,
+			},
+			["Default.Frostmourne.Dackilla"] = {
+				["Contacts"] = {
+					["Chipai"] = {
+						["note"] = "",
+					},
+					["Captbanana"] = {
+						["note"] = "",
+					},
+					["Dalthrath"] = {
+						["note"] = "",
+					},
+					["Arthogar"] = {
+						["note"] = "",
+					},
+					["Dalthrace"] = {
+						["note"] = "",
+					},
+					["Cptfantastic"] = {
+						["note"] = "",
+					},
+					["Tharrain"] = {
+						["note"] = "",
+					},
+					["Slippery"] = {
+						["note"] = "",
+					},
+					["Selvest"] = {
+						["note"] = "",
+					},
+					["Leonaldon"] = {
+						["note"] = "",
+					},
+					["Dalthran"] = {
+						["note"] = "",
+					},
+					["Bankshali"] = {
+						["note"] = "",
+					},
+					["Alphadog"] = {
+						["note"] = "",
+					},
+					["Chipet"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1417458076,
+			},
+			["Default.Barthilas.Senryuke"] = {
+				["lastUpdate"] = 1440323461,
+			},
+			["Default.Frostmourne.Senobibi"] = {
+				["lastUpdate"] = 1633532557,
+			},
+			["Default.Frostmourne.Frostsync"] = {
+				["lastUpdate"] = 1418321039,
+			},
+			["Default.Frostmourne.Sensujin"] = {
+				["lastUpdate"] = 1602697016,
+			},
+			["Default.Jubei'Thos.Feihai"] = {
+				["lastUpdate"] = 1605980096,
+			},
+			["Default.Caelestrasz.Frostsync"] = {
+				["lastUpdate"] = 1441976233,
+			},
+			["Default.Gundrak.Vandrill"] = {
+				["lastUpdate"] = 1573064277,
+			},
+			["Default.Frostmourne.Senreithis"] = {
+				["lastUpdate"] = 1605908821,
+			},
+			["Default.Bloodhoof.Senjitsu"] = {
+				["lastUpdate"] = 1634537195,
+			},
+			["Default.Garrosh.Conoriann"] = {
+				["lastUpdate"] = 1469951636,
+			},
+			["Default.Saurfang.Senmura"] = {
+				["lastUpdate"] = 1630172973,
+			},
+			["Default.Caelestrasz.Hahalulu"] = {
+				["lastUpdate"] = 1630238954,
+			},
+			["Default.Frostmourne.Senshikari"] = {
+				["lastUpdate"] = 1608129178,
+			},
+			["Default.Caelestrasz.Senshigeru"] = {
+				["lastUpdate"] = 1626003198,
+			},
+			["Default.Suramar.Epidemicious"] = {
+				["Contacts"] = {
+					["Druppy"] = {
+						["note"] = "",
+					},
+					["Brigit"] = {
+						["note"] = "",
+					},
+					["Zhaanpala"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1455993283,
+			},
+			["Default.Gundrak.Senjuken"] = {
+				["lastUpdate"] = 1415630112,
+			},
+			["Default.Jubei'Thos.Blakbull"] = {
+				["lastUpdate"] = 1605545435,
+			},
+			["Default.Emerald Dream.Senjitsu"] = {
+				["Contacts"] = {
+					["Nightwind"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1455994375,
+			},
+			["Default.Frostmourne.Senviction"] = {
+				["lastUpdate"] = 1604230409,
+			},
+			["Default.Suramar.Zfusion"] = {
+				["lastUpdate"] = 1605907759,
+			},
+			["Default.Caelestrasz.Xin"] = {
+				["lastUpdate"] = 1630236858,
+			},
+			["Default.Gundrak.Tavia"] = {
+				["lastUpdate"] = 1414918014,
+			},
+			["Default.Frostmourne.Senjítsu"] = {
+				["lastUpdate"] = 1585327212,
+			},
+			["Default.Saurfang.Hailatmats"] = {
+				["lastUpdate"] = 1630165651,
+			},
+			["Default.Frostmourne.Rathang"] = {
+				["lastUpdate"] = 1640636576,
+			},
+			["Default.Frostmourne.Senshizo"] = {
+				["lastUpdate"] = 1656588542,
+			},
+			["Default.Jubei'Thos.Minyak"] = {
+				["lastUpdate"] = 1657133003,
+			},
+			["Default.Frostmourne.Sendørei"] = {
+				["lastUpdate"] = 1641827038,
+			},
+			["Default.Gundrak.Senshimusu"] = {
+				["lastUpdate"] = 1663163835,
+			},
+			["Default.Gundrak.Frostsync"] = {
+				["lastUpdate"] = 1573064853,
+			},
+			["Default.Gundrak.Lothran"] = {
+				["lastUpdate"] = 1577209437,
+			},
+			["Default.Saurfang.Senjitsu"] = {
+				["lastUpdate"] = 1630039482,
+			},
+			["Default.Frostmourne.Xeen"] = {
+				["Contacts"] = {
+					["Dalthran"] = {
+						["note"] = "",
+					},
+					["Darunn"] = {
+						["note"] = "",
+					},
+					["Lolblink"] = {
+						["note"] = "",
+					},
+					["Dalthrace"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1417458244,
+			},
+			["Default.Frostmourne.Tyrandë"] = {
+				["lastUpdate"] = 1415722994,
+			},
+			["Default.Caelestrasz.Senjitsu"] = {
+				["lastUpdate"] = 1652885829,
+			},
+			["Default.Suramar.Fionsta"] = {
+				["Contacts"] = {
+					["Epidemicious"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1414917641,
+			},
+			["Default.Frostmourne.Senjíchan"] = {
+				["lastUpdate"] = 1664968967,
+			},
+			["Default.Frostmourne.Testxext"] = {
+				["lastUpdate"] = 1664970319,
+			},
+			["Default.Frostmourne.Xiñ"] = {
+				["lastUpdate"] = 1633062833,
+			},
+			["Default.Caelestrasz.Hailatmats"] = {
+				["lastUpdate"] = 1626863788,
+			},
+			["Default.Emerald Dream.Sensuki"] = {
+				["lastUpdate"] = 1456140006,
+			},
+			["Default.Emerald Dream.Senobie"] = {
+				["lastUpdate"] = 1664344512,
+			},
+			["Default.Nagrand.Hailat"] = {
+				["lastUpdate"] = 1630039216,
+			},
+			["Default.Tichondrius.Vanlorian"] = {
+				["Contacts"] = {
+					["Bròfist"] = {
+						["note"] = "",
+					},
+					["Javah"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1449592034,
+			},
+			["Default.Jubei'Thos.Ngonghai"] = {
+				["lastUpdate"] = 1655446913,
+			},
+			["Default.Gundrak.Senmu"] = {
+				["lastUpdate"] = 1614543546,
+			},
+			["Default.Caelestrasz.Senjichan"] = {
+				["lastUpdate"] = 1625900899,
+			},
+			["Default.Suramar.Pepsikilla"] = {
+				["lastUpdate"] = 1657132363,
+			},
+			["Default.Frostmourne.Vaeliir"] = {
+				["Contacts"] = {
+					["Drummer"] = {
+						["note"] = "",
+						["level"] = 100,
+						["class"] = "Death Knight",
+					},
+					["Kawaiiqtz"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1418143243,
+			},
+			["Default.Saurfang.Hailatmog"] = {
+				["lastUpdate"] = 1653879942,
+			},
+			["Default.Suramar.Rahruken"] = {
+				["lastUpdate"] = 1657130369,
+			},
+			["Default.Frostmourne.Leonaldon"] = {
+				["Contacts"] = {
+					["Dalthrace"] = {
+						["note"] = "",
+					},
+					["Chipai"] = {
+						["note"] = "",
+					},
+					["Dackilla"] = {
+						["note"] = "",
+					},
+					["Dalthran"] = {
+						["note"] = "",
+					},
+					["Cherisu"] = {
+						["note"] = "",
+					},
+					["Tharrain"] = {
+						["note"] = "",
+					},
+					["Dalthrath"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1415758962,
+			},
+			["Default.Saurfang.Vandrill"] = {
+				["lastUpdate"] = 1630150985,
+			},
+			["Default.Gundrak.Senvorath"] = {
+				["lastUpdate"] = 1655614353,
+			},
+			["Default.Frostmourne.Oversynced"] = {
+				["Contacts"] = {
+					["Lovva"] = {
+						["note"] = "",
+					},
+					["Denasarius"] = {
+						["note"] = "",
+					},
+					["Captbanana"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1418754623,
+			},
+			["Default.Frostmourne.Senjitsu"] = {
+				["Contacts"] = {
+					["Melliceyn"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1588165595,
+			},
+			["Default.Gundrak.Senjutsu"] = {
+				["lastUpdate"] = 1573064722,
+			},
+			["Default.Frostmourne.Senshinzo"] = {
+				["lastUpdate"] = 1656589724,
+			},
+			["Default.Jubei'Thos.Najib"] = {
+				["lastUpdate"] = 1602304399,
+			},
+		},
+		["Options"] = {
+			["WeeklyResetHour"] = 6,
+			["WeeklyResetDay"] = 2,
+			["NextWeeklyReset"] = "2022-10-11",
+		},
+	},
+}

@@ -1,0 +1,859 @@
+
+WoWProData = {
+	["char"] = {
+		["Senjichan - Frostmourne"] = {
+			["currentguide"] = "JamGriA7577",
+		},
+		["Senvorath - Gundrak"] = {
+			["currentguide"] = "EliHordeExile",
+		},
+		["Minyak - Jubei'Thos"] = {
+			["currentguide"] = "KulTiran",
+		},
+		["Testxext - Frostmourne"] = {
+			["currentguide"] = "GylGno0105",
+		},
+		["Senmura - Saurfang"] = {
+			["currentguide"] = "EliHordeExile",
+		},
+		["Lemak - Jubei'Thos"] = {
+			["currentguide"] = "KulTiran",
+		},
+		["Senreithis - Frostmourne"] = {
+			["currentguide"] = "CagER0110",
+		},
+		["Xin - Caelestrasz"] = {
+			["currentguide"] = "FlucloPanda",
+		},
+		["Senjíchan - Frostmourne"] = {
+			["currentguide"] = "CagER0110",
+		},
+		["Vandrill - Gundrak"] = {
+			["currentguide"] = "EmmNazj",
+		},
+		["Sensujin - Gundrak"] = {
+			["currentguide"] = "EmmNazmir",
+			["lastlevelingguide"] = "EmmAzsuna",
+		},
+		["Hailat - Nagrand"] = {
+			["currentguide"] = "Vulpera",
+		},
+		["Senviction - Frostmourne"] = {
+			["currentguide"] = "ShadowDraenor",
+			["lastlevelingguide"] = "LudoTelogrus",
+		},
+		["Sèn - Frostmourne"] = {
+			["currentguide"] = "Freitas_Stormsong",
+			["lastlevelingguide"] = "Freitas_Stormsong",
+		},
+		["Senshinzo - Gundrak"] = {
+			["currentguide"] = "KraSunIsle",
+		},
+		["Senshigeru - Caelestrasz"] = {
+			["currentguide"] = "CagER0110",
+		},
+		["Senjítsu - Frostmourne"] = {
+			["currentguide"] = "Mechagon",
+		},
+		["Senshimusu - Gundrak"] = {
+			["currentguide"] = "LudoGarrisonPets",
+		},
+		["Frostsync - Gundrak"] = {
+			["currentguide"] = "EmmAzsuna",
+		},
+		["Senzx - Frostmourne"] = {
+			["currentguide"] = "Blanc_Suramar",
+		},
+		["Leonaldon - Frostmourne"] = {
+			["currentguide"] = "EmmLegionMage",
+		},
+		["Senjitsu - Bloodhoof"] = {
+			["currentguide"] = "LudoTelogrus",
+		},
+		["Vaeliir - Frostmourne"] = {
+			["currentguide"] = "Blanc_Suramar",
+		},
+		["Senzuke - Gundrak"] = {
+			["currentguide"] = "EmmVoldun",
+		},
+		["Lothran - Gundrak"] = {
+			["currentguide"] = "LudoFishing",
+		},
+		["Hailatmog - Saurfang"] = {
+			["currentguide"] = "Vulpera",
+		},
+		["Sensujin - Suramar"] = {
+			["currentguide"] = "LinksMardum098099",
+		},
+		["Feihai - Jubei'Thos"] = {
+			["currentguide"] = "KulTiran",
+		},
+		["Blakbull - Jubei'Thos"] = {
+			["currentguide"] = "EliHordeExile",
+		},
+		["Senorlax - Frostmourne"] = {
+			["currentguide"] = "EmmLegionWarrior",
+		},
+		["Senruko - Frostmourne"] = {
+			["currentguide"] = "TwiEngineering",
+			["lastlevelingguide"] = "EmmHighmountain",
+			["lastProfessionguide"] = "TwiEngineering",
+		},
+		["Frostsync - Frostmourne"] = {
+			["currentguide"] = "Blanc_Suramar",
+		},
+		["Senjutsu - Gundrak"] = {
+			["currentguide"] = "EmmNazj",
+		},
+		["Senobibi - Frostmourne"] = {
+			["currentguide"] = "CagER0110",
+		},
+		["Senmu - Gundrak"] = {
+			["currentguide"] = "LudoHighTauren",
+		},
+		["Hailatmats - Saurfang"] = {
+			["currentguide"] = "Vulpera",
+		},
+		["Senrogate - Frostmourne"] = {
+			["currentguide"] = "TwiDus2025",
+			["lastlevelingguide"] = "TwiDus2025",
+		},
+		["Senjitsu - Gundrak"] = {
+			["currentguide"] = "BlackEmpire",
+		},
+		["Xeen - Frostmourne"] = {
+			["currentguide"] = "Blanc_Suramar",
+		},
+		["Senvo - Frostmourne"] = {
+			["currentguide"] = "TwiDus2025",
+		},
+		["Senjitsu - Jubei'Thos"] = {
+			["currentguide"] = "EmmFrostfire",
+			["lastlevelingguide"] = "EmmFrostfire",
+		},
+		["Sensujin - Frostmourne"] = {
+			["currentguide"] = "Blanc_Suramar",
+		},
+		["Vandrill - Saurfang"] = {
+			["currentguide"] = "Vulpera",
+		},
+		["Senjichan - Caelestrasz"] = {
+			["currentguide"] = "CagER0110",
+		},
+		["Senzuke - Caelestrasz"] = {
+			["currentguide"] = "LudoTelogrus",
+		},
+		["Najib - Jubei'Thos"] = {
+			["currentguide"] = "LudoNightborne",
+		},
+		["Tailukyeh - Caelestrasz"] = {
+			["currentguide"] = "GylGno0105",
+		},
+		["Senshinzo - Caelestrasz"] = {
+			["currentguide"] = "DarkIronDwarf",
+		},
+		["Senruz - Barthilas"] = {
+			["currentguide"] = "JamScar5558",
+		},
+		["Hailatmats - Caelestrasz"] = {
+			["currentguide"] = "GylGno0105",
+		},
+		["Senshizo - Frostmourne"] = {
+			["currentguide"] = "DarkIronDwarf",
+		},
+		["Senelyssa - Frostmourne"] = {
+			["currentguide"] = "Mechagon",
+		},
+		["Senvod - Frostmourne"] = {
+			["currentguide"] = "LudoTelogrus",
+		},
+		["Senshinzo - Frostmourne"] = {
+			["currentguide"] = "DarkIronDwarf",
+		},
+		["Ngonghai - Jubei'Thos"] = {
+			["currentguide"] = "KulTiran",
+		},
+		["Sensitiv - Frostmourne"] = {
+			["currentguide"] = "Freitas_Stormsong",
+		},
+		["Senobie - Emerald Dream"] = {
+			["currentguide"] = "LudoGarrisonPets",
+		},
+	},
+	["global"] = {
+		["Achievements"] = {
+		},
+		["QuestEngineDelay"] = 0.25,
+		["Log"] = {
+			"125517 |c7fffff7fWoWPro|r: Log Reset from Addon Load", -- [1]
+			"125517 |c7f0000ffWoWPro|r: ValidZone: Legacy Zone [Dalaran] with default floor is not registered.", -- [2]
+			"125518 |c7f0000ffWoWPro|r: ValidZone: Legacy Zone [Dalaran] with default floor is not registered.", -- [3]
+			"125528 |c7fffff7fWoWPro|r: |cff33ff33Enabled|r: Version 2022.11.03.A", -- [4]
+			"125530 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_BattlefieldMap\") InitLockdown=false", -- [5]
+			"125541 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_WeeklyRewards\") InitLockdown=false", -- [6]
+			"125542 |cffff7d0aWoWPro|r: ILE:PLAYER_ENTERING_WORLD(true, false) InitLockdown=false", -- [7]
+			"125542 |c7f0000ffWoWPro|r: Setting Timer PEW", -- [8]
+			"125544 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_AchievementUI\") InitLockdown=true", -- [9]
+			"125544 |cffff7d0aWoWPro|r: Handled: CHAT_MSG_SYSTEM(\"You have learned a new passive effect: |cff71d5ff|Hspell:233368:0|h[Broken Isles Pathfinder]|h|r.\", \"\", \"\", \"\", \"\", \"\", 0, 0, \"\", 0, 219, nil, 0, false, false, false, false) InitLockdown=true", -- [10]
+			"125544 |cffff7d0aWoWPro|r: Handled: CHAT_MSG_SYSTEM(\"You have learned a new passive effect: |cff71d5ff|Hspell:281576:0|h[Battle for Azeroth Pathfinder]|h|r.\", \"\", \"\", \"\", \"\", \"\", 0, 0, \"\", 0, 220, nil, 0, false, false, false, false) InitLockdown=true", -- [11]
+			"125544 |cffff7d0aWoWPro|r: Handled: CHAT_MSG_SYSTEM(\"You have learned a new passive effect: |cff71d5ff|Hspell:278833:0|h[Battle for Azeroth Pathfinder]|h|r.\", \"\", \"\", \"\", \"\", \"\", 0, 0, \"\", 0, 221, nil, 0, false, false, false, false) InitLockdown=true", -- [12]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [13]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [14]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [15]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [16]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [17]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [18]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [19]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [20]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [21]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [22]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [23]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [24]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [25]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [26]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [27]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [28]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [29]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [30]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [31]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [32]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [33]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [34]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [35]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [36]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [37]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [38]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [39]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [40]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [41]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [42]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [43]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [44]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [45]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [46]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [47]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [48]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [49]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [50]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [51]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [52]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [53]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [54]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [55]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [56]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [57]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [58]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [59]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [60]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [61]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [62]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [63]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [64]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [65]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [66]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [67]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [68]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [69]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [70]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [71]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [72]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [73]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [74]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [75]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [76]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [77]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [78]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [79]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [80]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [81]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [82]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [83]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [84]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [85]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [86]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [87]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [88]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [89]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [90]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [91]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [92]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [93]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [94]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [95]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [96]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [97]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [98]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [99]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [100]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [101]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [102]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [103]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [104]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [105]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [106]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [107]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [108]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [109]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [110]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [111]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [112]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [113]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [114]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [115]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [116]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [117]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [118]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [119]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [120]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [121]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [122]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [123]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [124]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [125]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [126]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [127]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [128]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [129]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [130]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [131]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [132]
+			"125544 |cffff7d0aWoWPro|r: Handled: SKILL_LINES_CHANGED() InitLockdown=true", -- [133]
+			"125545 |cffff7d0aWoWPro|r: Handled: SCENARIO_UPDATE() InitLockdown=true", -- [134]
+			"125545 |cffff7d0aWoWPro|r: Handled: AREA_POIS_UPDATED() InitLockdown=true", -- [135]
+			"125545 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_PlayerChoice\") InitLockdown=true", -- [136]
+			"125545 |cffff7d0aWoWPro|r: Handled: QUEST_LOG_UPDATE() InitLockdown=true", -- [137]
+			"125545 |cffff7d0aWoWPro|r: Handled: SPELLS_CHANGED() InitLockdown=true", -- [138]
+			"125545 |cffff7d0aWoWPro|r: Handled: UI_INFO_MESSAGE(389, \"Discovered: Harbormaster's Office\") InitLockdown=true", -- [139]
+			"125546 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_Collections\") InitLockdown=true", -- [140]
+			"125547 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_ChallengesUI\") InitLockdown=true", -- [141]
+			"125548 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"TellMeWhen_Options\") InitLockdown=true", -- [142]
+			"125549 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_AuctionHouseShared\") InitLockdown=true", -- [143]
+			"125549 |cffff7d0aWoWPro|r: Handled: ADDON_LOADED(\"Blizzard_AuctionHouseUI\") InitLockdown=true", -- [144]
+			"125549 |cffff7d0aWoWPro|r: Handled: QUEST_LOG_UPDATE() InitLockdown=true", -- [145]
+			"125549 |cffff7d0aWoWPro|r: Handled: SPELLS_CHANGED() InitLockdown=true", -- [146]
+			"125550 |c7f0000ffWoWPro|r: Guide LudoGarrisonPets is registered, but not loaded. Loading...", -- [147]
+			"125550 |c7f0000ffWoWPro|r: WoWPro.LoadGuideReal(): starting guide cleanup:  LudoGarrisonPets", -- [148]
+			"125551 |cffff7d0aWoWPro|r: Handled: QUEST_LOG_UPDATE() InitLockdown=false", -- [149]
+			"125551 |c7f0000ffWoWPro|r: Guide LudoFishing is registered, but not loaded. Loading...", -- [150]
+			"125551 |c7f0000ffWoWPro|r: WoWPro.LoadGuideReal(): starting guide cleanup:  LudoFishing", -- [151]
+			"125552 |cffff7d0aWoWPro|r: Handled: ZONE_CHANGED_NEW_AREA() InitLockdown=false", -- [152]
+			"125552 |c7f0000ffWoWPro|r: Guide LudoBuildingsAlliance is registered, but not loaded. Loading...", -- [153]
+			"125552 |c7f0000ffWoWPro|r: WoWPro.LoadGuideReal(): starting guide cleanup:  LudoBuildingsAlliance", -- [154]
+			"125552 |cffff7d0aWoWPro|r: Handled: AREA_POIS_UPDATED() InitLockdown=false", -- [155]
+			"125552 |c7f0000ffWoWPro|r: Guide LudoGarrissonSupportA is registered, but not loaded. Loading...", -- [156]
+			"125552 |c7f0000ffWoWPro|r: WoWPro.LoadGuideReal(): starting guide cleanup:  LudoGarrissonSupportA", -- [157]
+			"125553 |c7f0000ffWoWPro|r: Guide LudoGarrCampaign is registered, but not loaded. Loading...", -- [158]
+			"125553 |c7f0000ffWoWPro|r: WoWPro.LoadGuideReal(): starting guide cleanup:  LudoGarrCampaign", -- [159]
+			"125553 |c7f0000ffWoWPro|r: Guide LudoBringingBass is registered, but not loaded. Loading...", -- [160]
+			"125553 |c7f0000ffWoWPro|r: WoWPro.LoadGuideReal(): starting guide cleanup:  LudoBringingBass", -- [161]
+			"125554 |c7f0000ffWoWPro|r: WoWPro.LoadGuideReal(): starting guide cleanup:  KulTiran", -- [162]
+			"125554 |c7f0000ffWoWPro|r: PopulateQuestLog(): WoWPro.inhibit_oldQuests_update is false", -- [163]
+			"125554 |c7f0000ffWoWPro|r: Quest Log populated. 0 quests found.", -- [164]
+			"125554 |c7f0000ffWoWPro|r: Empty old Quest log. Time to fill it up!", -- [165]
+			"125554 |c7f0000ffWoWPro|r: WoWPro.CompleteStep(1,L[Level 10],'Player level exceeds step limit')", -- [166]
+			"125554 |c7f0000ffWoWPro|r: Signaled for UpdateGuide from WoWPro.CompleteStep", -- [167]
+			"125554 |c7f0000ffWoWPro|r: WoWPro:MapPoint1(2,67.70,21.78@Boralus=1161)", -- [168]
+			"125554 |c7f0000ffWoWPro|r: WoWPro:MapPoint:TomTom(67.70,21.78@Boralus/1161)", -- [169]
+			"125554 |c7f0000ffWoWPro|r: Signaled for UpdateGuide from WoWPro:LoadGuideSteps()", -- [170]
+			"125555 |c7f0000ffWoWPro|r: Running: UpdateGuideReal(), WoWPro Version 2022.11.03.A.", -- [171]
+			"125555 |c7f0000ffWoWPro|r: UpdateGuideReal(2): ActiveStep=A For the Alliance¦QID¦55142¦M¦67.70,21.78¦Z¦Boralus¦N¦From Katherine Proudmoore.¦", -- [172]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(1,2): A For the Alliance¦QID¦55142¦M¦67.70,21.78¦Z¦Boralus¦N¦From Katherine Proudmoore.¦", -- [173]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(2,8): N It's Chromie Time!¦QID¦62567¦M¦62.25,29.93¦JUMP¦Chromie Time¦LVL¦10¦N¦Congratulations on hitting level 10.\\n\\nYou can now accept Chromie's Call at the Hero's Call board in Stormwind. This will allow you to choose which expansion you want to level in.\\n\\n Click the guide button next to this frame to direct you to Chromie!¦", -- [174]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(3,10): <EOG>", -- [175]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(4,11): <EOG>", -- [176]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(5,12): <EOG>", -- [177]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(6,13): <EOG>", -- [178]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(7,14): <EOG>", -- [179]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(8,15): <EOG>", -- [180]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(9,16): <EOG>", -- [181]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(10,17): <EOG>", -- [182]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(11,18): <EOG>", -- [183]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(12,19): <EOG>", -- [184]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(13,20): <EOG>", -- [185]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(14,21): <EOG>", -- [186]
+			"125555 |c7f0000ffWoWPro|r: RowUpdate(15,22): <EOG>", -- [187]
+			"125555 |c7f0000ffWoWPro|r: MapPoint: LastMapPoint=2 [67.70,21.78@1161] in Boralus. No update needed.", -- [188]
+			"125555 |c7f0000ffWoWPro|r: ZONE_CHANGED_NEW_AREA_GUIDE_LOAD: qidx=2, guidetype=Leveling, currentguide=KulTiran", -- [189]
+			"125555 |c7f0000ffWoWPro|r: 2/qidx: A For the Alliance¦QID¦55142¦M¦67.70,21.78¦Z¦Boralus¦N¦From Katherine Proudmoore.¦", -- [190]
+			"125555 |c7f0000ffWoWPro|r: 3/qidx+1: C For the Alliance¦QID¦55142¦M¦70.12,16.79¦Z¦Boralus¦NC¦N¦Run to the Portal room and take the port to Stormwind.¦", -- [191]
+			"125555 |c7f0000ffWoWPro|r: nil/ScenarioFirstStep: <nil>", -- [192]
+			"125555 |c7f0000ffWoWPro|r: ZONE_CHANGED_NEW_AREA_GUIDE_LOAD: WoWPro.zone[qidx]=Boralus, WoWPro:IsInstanceZone()=false, WoWPro.sobjective=nil, IsInInstance()=false", -- [193]
+			"125616 |cffff7d0aWoWPro|r: Handled: QUEST_LOG_UPDATE() InitLockdown=false", -- [194]
+			"125616 |c7f0000ffWoWPro|r: PopulateQuestLog(): WoWPro.inhibit_oldQuests_update is false", -- [195]
+			"125616 |c7f0000ffWoWPro|r: Quest Log populated. 0 quests found.", -- [196]
+			"125616 |c7f0000ffWoWPro|r: Empty old Quest log. Time to fill it up!", -- [197]
+			"125618 |cffff7d0aWoWPro|r: ILE:ADDON_ACTION_FORBIDDEN(\"ElvUI\", \"CopyToClipboard()\") InitLockdown=false", -- [198]
+			"125717 |cffff7d0aWoWPro|r: Handled: QUEST_LOG_UPDATE() InitLockdown=false", -- [199]
+			"125717 |c7f0000ffWoWPro|r: PopulateQuestLog(): WoWPro.inhibit_oldQuests_update is false", -- [200]
+			"125717 |c7f0000ffWoWPro|r: Quest Log populated. 0 quests found.", -- [201]
+			"125717 |c7f0000ffWoWPro|r: Empty old Quest log. Time to fill it up!", -- [202]
+			"125725 |cffff7d0aWoWPro|r: ILE:PLAYER_LEAVING_WORLD() InitLockdown=false", -- [203]
+			"125725 |c7f0000ffWoWPro|r: Locking Down PLW", -- [204]
+		},
+		["NpcFauxQuests"] = {
+			[79180] = {
+				["qid"] = 79180.1,
+				["title"] = "Deebs, Tyri, and Puzzle",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[79751] = {
+				["qid"] = 79751.1,
+				["title"] = "Eleanor",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85657] = {
+				["qid"] = 85656.1,
+				["title"] = "Mr. Terrible, Carroteye, and Sloppus",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85661] = {
+				["qid"] = 85660.1,
+				["title"] = "King Floret and Queen Floret",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[116787] = {
+				["qid"] = 116787.1,
+				["title"] = "Deviate Flapper",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[116791] = {
+				["qid"] = 116791.1,
+				["title"] = "Dreadcoil",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[128009] = {
+				["qid"] = 49043,
+				["title"] = "Baneglow",
+				["guide"] = "LudoPetWQKrokuun",
+			},
+			[128013] = {
+				["qid"] = 49047,
+				["title"] = "Bucky",
+				["guide"] = "LudoPetWQMacAree",
+			},
+			[85681] = {
+				["qid"] = 85679.1,
+				["title"] = "Acidtooth, Stonechewer, and Rockbiter",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85685] = {
+				["qid"] = 85685.1,
+				["title"] = "Stitches Jr.",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85674] = {
+				["qid"] = 85674.1,
+				["title"] = "Jahan, Samm, and Archimedes",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85678] = {
+				["qid"] = 85677.1,
+				["title"] = "Fiero and Tirs",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[128024] = {
+				["qid"] = 49058,
+				["title"] = "One-of-Many",
+				["guide"] = "LudoPetWQAntoran",
+			},
+			[128020] = {
+				["qid"] = 49054,
+				["title"] = "Bloat",
+				["guide"] = "LudoPetWQAntoran",
+			},
+			[128016] = {
+				["qid"] = 49050,
+				["title"] = "Shadeflicker",
+				["guide"] = "LudoPetWQMacAree",
+			},
+			[128012] = {
+				["qid"] = 49046,
+				["title"] = "Gnasher",
+				["guide"] = "LudoPetWQKrokuun",
+			},
+			[85650] = {
+				["qid"] = 85650.1,
+				["title"] = "Quintessence of Light",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[128008] = {
+				["qid"] = 49042,
+				["title"] = "Foulclaw",
+				["guide"] = "LudoPetWQKrokuun",
+			},
+			[85658] = {
+				["qid"] = 85656.1,
+				["title"] = "Mr. Terrible, Carroteye, and Sloppus",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85662] = {
+				["qid"] = 85662.1,
+				["title"] = "Kromli and Gromli",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[116788] = {
+				["qid"] = 116788.1,
+				["title"] = "Deviate Chomper",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[116792] = {
+				["qid"] = 116792.1,
+				["title"] = "Phyxia",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[128010] = {
+				["qid"] = 49044,
+				["title"] = "Retch",
+				["guide"] = "LudoPetWQKrokuun",
+			},
+			[128014] = {
+				["qid"] = 49048,
+				["title"] = "Snozz",
+				["guide"] = "LudoPetWQMacAree",
+			},
+			[128018] = {
+				["qid"] = 49052,
+				["title"] = "Mar'cuus",
+				["guide"] = "LudoPetWQMacAree",
+			},
+			[128022] = {
+				["qid"] = 49056,
+				["title"] = "Pilfer",
+				["guide"] = "LudoPetWQAntoran",
+			},
+			[116790] = {
+				["qid"] = 116790,
+				["title"] = "Vilefang",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[116786] = {
+				["qid"] = 116786.1,
+				["title"] = "Deviate Smallclaw",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[116795] = {
+				["qid"] = 116795.1,
+				["title"] = "Budding Everliving Spore",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[116789] = {
+				["qid"] = 116789.1,
+				["title"] = "Son of Skum",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[128007] = {
+				["qid"] = 49041,
+				["title"] = "Ruinhoof",
+				["guide"] = "LudoPetWQKrokuun",
+			},
+			[85675] = {
+				["qid"] = 85674.1,
+				["title"] = "Jahan, Samm, and Archimedes",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85687] = {
+				["qid"] = 85686.1,
+				["title"] = "Manos, Hanos, and Fatos",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85655] = {
+				["qid"] = 85561.1,
+				["title"] = "Brutus, Ruckus",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85659] = {
+				["qid"] = 85659.1,
+				["title"] = "The Beakinator",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85663] = {
+				["qid"] = 85662.1,
+				["title"] = "Kromli and Gromli",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[105386] = {
+				["qid"] = 105386.1,
+				["title"] = "Rydyr",
+				["guide"] = "LarePetWQStorm",
+			},
+			[116793] = {
+				["qid"] = 116793.1,
+				["title"] = "Hiss",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[128011] = {
+				["qid"] = 49045,
+				["title"] = "Deathscreech",
+				["guide"] = "LudoPetWQKrokuun",
+			},
+			[128015] = {
+				["qid"] = 49049,
+				["title"] = "Gloamwing",
+				["guide"] = "LudoPetWQMacAree",
+			},
+			[128019] = {
+				["qid"] = 49053,
+				["title"] = "Watcher",
+				["guide"] = "LudoPetWQAntoran",
+			},
+			[128023] = {
+				["qid"] = 49057,
+				["title"] = "Minixis",
+				["guide"] = "LudoPetWQAntoran",
+			},
+			[79182] = {
+				["qid"] = 79180.1,
+				["title"] = "Deebs, Tyri, and Puzzle",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[79181] = {
+				["qid"] = 79180.1,
+				["title"] = "Deebs, Tyri, and Puzzle",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85666] = {
+				["qid"] = 85664.1,
+				["title"] = "Grubbles, Scrags, and Stings",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85665] = {
+				["qid"] = 85664.1,
+				["title"] = "Grubbles, Scrags, and Stings",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85561] = {
+				["qid"] = 85561.1,
+				["title"] = "Brutus, Ruckus",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85683] = {
+				["qid"] = 85682.1,
+				["title"] = "Blingtron 4999b, Protectron 022481, and Protectron 011803",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85679] = {
+				["qid"] = 85679.1,
+				["title"] = "Acidtooth, Stonechewer, and Rockbiter",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85656] = {
+				["qid"] = 85656.1,
+				["title"] = "Mr. Terrible, Carroteye, and Sloppus",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85660] = {
+				["qid"] = 85660.1,
+				["title"] = "King Floret and Queen Floret",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85664] = {
+				["qid"] = 85664.1,
+				["title"] = "Grubbles, Scrags, and Stings",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[105387] = {
+				["qid"] = 105387.1,
+				["title"] = "Andurs",
+				["guide"] = "LarePetWQStorm",
+			},
+			[116794] = {
+				["qid"] = 116794.1,
+				["title"] = "Growing Ectoplasm",
+				["guide"] = "LudoPetWailingCaverns",
+			},
+			[85676] = {
+				["qid"] = 85674.1,
+				["title"] = "Jahan, Samm, and Archimedes",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85680] = {
+				["qid"] = 85679.1,
+				["title"] = "Acidtooth, Stonechewer, and Rockbiter",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85684] = {
+				["qid"] = 85682.1,
+				["title"] = "Blingtron 4999b, Protectron 022481, and Protectron 011803",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85688] = {
+				["qid"] = 85686.1,
+				["title"] = "Manos, Hanos, and Fatos",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85686] = {
+				["qid"] = 85686.1,
+				["title"] = "Manos, Hanos, and Fatos",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[85682] = {
+				["qid"] = 85682.1,
+				["title"] = "Blingtron 4999b, Protectron 022481, and Protectron 011803",
+				["guide"] = "LudoGarrisonPets",
+			},
+			[128021] = {
+				["qid"] = 49055,
+				["title"] = "Earseeker",
+				["guide"] = "LudoPetWQAntoran",
+			},
+			[85677] = {
+				["qid"] = 85677.1,
+				["title"] = "Fiero and Tirs",
+				["guide"] = "LudoGarrisonPets",
+			},
+		},
+		["RecklessCombat"] = true,
+	},
+	["profileKeys"] = {
+		["Senvorath - Gundrak"] = "Default",
+		["Senjìtsu - Barthilas"] = "Default",
+		["Senogaar - Frostmourne"] = "Default",
+		["Senjitsu - Caelestrasz"] = "Default",
+		["Senzuke - Caelestrasz"] = "Default",
+		["Frostsync - Gundrak"] = "Default",
+		["Leonaldon - Frostmourne"] = "Default",
+		["Vaeliir - Frostmourne"] = "Default",
+		["Lothran - Gundrak"] = "Default",
+		["Feihai - Jubei'Thos"] = "Default",
+		["Hailatmats - Saurfang"] = "Default",
+		["Senmu - Gundrak"] = "Default",
+		["Senjitsu - Jubei'Thos"] = "Default",
+		["Senjitsu - Frostmourne"] = "Default",
+		["Xiñ - Frostmourne"] = "Default",
+		["Sensujin - Suramar"] = "Default",
+		["Senjutsu - Gundrak"] = "Default",
+		["Hailatmats - Caelestrasz"] = "Default",
+		["Senshizo - Frostmourne"] = "Default",
+		["Senelyssa - Frostmourne"] = "Default",
+		["Senshinzo - Frostmourne"] = "Default",
+		["Hailat - Nagrand"] = "Default",
+		["Xin - Caelestrasz"] = "Default",
+		["Senjichan - Frostmourne"] = "Default",
+		["Senjuken - Gundrak"] = "Default",
+		["Senshikari - Frostmourne"] = "Default",
+		["Senmura - Saurfang"] = "Default",
+		["Senreithis - Frostmourne"] = "Default",
+		["Senviction - Frostmourne"] = "Default",
+		["Sensujin - Gundrak"] = "Default",
+		["Senshinzo - Gundrak"] = "Default",
+		["Lemak - Jubei'Thos"] = "Default",
+		["Senruz - Barthilas"] = "Default",
+		["Senjíchan - Frostmourne"] = "Default",
+		["Sensitiv - Frostmourne"] = "Default",
+		["Senobie - Emerald Dream"] = "Default",
+		["Minyak - Jubei'Thos"] = "Default",
+		["Senshigeru - Caelestrasz"] = "Default",
+		["Hahalulu - Caelestrasz"] = "Default",
+		["Senzuke - Gundrak"] = "Default",
+		["Senruko - Frostmourne"] = "Default",
+		["Senshimusu - Gundrak"] = "Default",
+		["Senjitsu - Bloodhoof"] = "Default",
+		["Sèn - Frostmourne"] = "Default",
+		["Hailatmog - Saurfang"] = "Default",
+		["Blakbull - Jubei'Thos"] = "Default",
+		["Senjítsu - Frostmourne"] = "Default",
+		["Frostsync - Frostmourne"] = "Default",
+		["Rathang - Frostmourne"] = "Default",
+		["Senjitsu - Saurfang"] = "Default",
+		["Senshinzo - Caelestrasz"] = "Default",
+		["Vandrill - Saurfang"] = "Default",
+		["Senvo - Frostmourne"] = "Default",
+		["Senvod - Frostmourne"] = "Default",
+		["Xeen - Frostmourne"] = "Default",
+		["Senrogate - Frostmourne"] = "Default",
+		["Senobibi - Frostmourne"] = "Default",
+		["Sensujin - Frostmourne"] = "Default",
+		["Senorlax - Frostmourne"] = "Default",
+		["Sumat - Frostmourne"] = "Default",
+		["Sendørei - Frostmourne"] = "Default",
+		["Zfusion - Suramar"] = "Default",
+		["Tailukyeh - Caelestrasz"] = "Default",
+		["Senjichan - Caelestrasz"] = "Default",
+		["Najib - Jubei'Thos"] = "Default",
+		["Senzx - Frostmourne"] = "Default",
+		["Senjitsu - Gundrak"] = "Default",
+		["Sencha - Gundrak"] = "Default",
+		["Rahruken - Suramar"] = "Default",
+		["Pepsikilla - Suramar"] = "Default",
+		["Ngonghai - Jubei'Thos"] = "Default",
+		["Vandrill - Gundrak"] = "Default",
+		["Testxext - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["autoresize"] = false,
+			["titlecolor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+			},
+			["stepfont"] = "Interface\\Addons\\Skada\\media\\fonts\\ABF.ttf",
+			["position"] = {
+				nil, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				507.5554809570313, -- [4]
+				-7.999947547912598, -- [5]
+			},
+			["border"] = false,
+			["minimap"] = {
+				["minimapPos"] = 197.8188448743906,
+			},
+			["resize"] = true,
+			["notetextsize"] = 14,
+			["steptextsize"] = 12,
+			["notefont"] = "Interface\\Addons\\SharedMedia_MyMedia\\font\\AccidentalPresidency.ttf",
+		},
+		["Eli-Theme"] = {
+			["titletextcolor"] = {
+				nil, -- [1]
+				0.407843137254902, -- [2]
+				0, -- [3]
+			},
+			["titletextsize"] = 16,
+			["bgcolor"] = {
+				0.01568627450980392, -- [1]
+				0.01568627450980392, -- [2]
+				0.01568627450980392, -- [3]
+				0.8205126523971558, -- [4]
+			},
+			["stickytitletextcolor"] = {
+				0.3843137254901961, -- [1]
+				0.4156862745098039, -- [2]
+			},
+			["hminresize"] = 340,
+			["bordertexture"] = "Interface\\AddOns\\WoWPro\\Textures\\Eli-Edge.tga",
+			["stickytitletextsize"] = 14,
+			["stepfont"] = "Fonts\\MORPHEUS_CYR.TTF",
+			["pad"] = 14,
+			["stickycolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.162651002407074, -- [4]
+			},
+			["steptextsize"] = 16,
+			["tracktextcolor"] = {
+				0.9882352941176471, -- [1]
+				[3] = 0.4666666666666667,
+			},
+			["space"] = 6,
+			["steptextcolor"] = {
+				nil, -- [1]
+				0.8392156862745098, -- [2]
+				0, -- [3]
+			},
+			["titlecolor"] = {
+				0.5019607843137255, -- [1]
+				0.5019607843137255, -- [2]
+				0.5019607843137255, -- [3]
+				0, -- [4]
+			},
+			["notetextcolor"] = {
+				0.8666666666666667, -- [1]
+				0.8666666666666667, -- [2]
+				0.8549019607843137, -- [3]
+			},
+		},
+	},
+}

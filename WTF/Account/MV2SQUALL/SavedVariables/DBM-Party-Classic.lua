@@ -1,0 +1,2 @@
+
+DBMPartyClassic_AllSavedVars = nil

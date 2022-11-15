@@ -1,0 +1,356 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Senvia - Frostmourne"] = "Senvia - Frostmourne",
+		["Senjìtsu - Barthilas"] = "Senjìtsu - Barthilas",
+		["Vorl - Frostmourne"] = "Vorl - Frostmourne",
+		["Sencubie - Emerald Dream"] = "Sencubie - Emerald Dream",
+		["Shadowelven - Suramar"] = "Shadowelven - Suramar",
+		["Githanda - Barthilas"] = "Githanda - Barthilas",
+		["Senrou - Saurfang"] = "Senrou - Saurfang",
+		["Senryuke - Barthilas"] = "Senryuke - Barthilas",
+		["Senzuke - Caelestrasz"] = "Senzuke - Caelestrasz",
+		["Zenguard - Gundrak"] = "Zenguard - Gundrak",
+		["Senogaar - Frostmourne"] = "Senogaar - Frostmourne",
+		["Frostsync - Caelestrasz"] = "Frostsync - Caelestrasz",
+		["Kriestus - Barthilas"] = "Kriestus - Barthilas",
+		["Rahruken - Suramar"] = "Rahruken - Suramar",
+		["Hailatmog - Caelestrasz"] = "Hailatmog - Caelestrasz",
+		["Vaeliir - Frostmourne"] = "Vaeliir - Frostmourne",
+		["Senvorath - Gundrak"] = "Senvorath - Gundrak",
+		["Lothran - Gundrak"] = "Lothran - Gundrak",
+		["Blakbull - Jubei'Thos"] = "Blakbull - Jubei'Thos",
+		["Xïn - Saurfang"] = "Xïn - Saurfang",
+		["Feihai - Jubei'Thos"] = "Feihai - Jubei'Thos",
+		["Senjitsu - Barthilas"] = "Senjitsu - Barthilas",
+		["Senjitsu - Gundrak"] = "Senjitsu - Gundrak",
+		["Senjitsu - Emerald Dream"] = "Senjitsu - Emerald Dream",
+		["Fionsta - Suramar"] = "Fionsta - Suramar",
+		["Xiñ - Frostmourne"] = "Xiñ - Frostmourne",
+		["Brewjitsu - Frostmourne"] = "Brewjitsu - Frostmourne",
+		["Noridraysong - Barthilas"] = "Noridraysong - Barthilas",
+		["Hailatmats - Saurfang"] = "Hailatmats - Saurfang",
+		["Dalthrath - Frostmourne"] = "Dalthrath - Frostmourne",
+		["Senjichan - Caelestrasz"] = "Senjichan - Caelestrasz",
+		["Arthoredron - Gundrak"] = "Arthoredron - Gundrak",
+		["Senmu - Gundrak"] = "Senmu - Gundrak",
+		["Hailat - Caelestrasz"] = "Hailat - Caelestrasz",
+		["Senjitsu - Frostmourne"] = "Senjitsu - Frostmourne",
+		["Tyrandë - Frostmourne"] = "Tyrandë - Frostmourne",
+		["Shanique - Gundrak"] = "Shanique - Gundrak",
+		["Senzue - Frostmourne"] = "Senzue - Frostmourne",
+		["Epidemicious - Suramar"] = "Epidemicious - Suramar",
+		["Najib - Jubei'Thos"] = "Najib - Jubei'Thos",
+		["Senjutsu - Gundrak"] = "Senjutsu - Gundrak",
+		["Hailat - Saurfang"] = "Hailat - Saurfang",
+		["Hailatmats - Caelestrasz"] = "Hailatmats - Caelestrasz",
+		["Hahalulu - Caelestrasz"] = "Hahalulu - Caelestrasz",
+		["Senelyssa - Frostmourne"] = "Senelyssa - Frostmourne",
+		["Frostsync - Gundrak"] = "Frostsync - Gundrak",
+		["Senshinzo - Frostmourne"] = "Senshinzo - Frostmourne",
+		["Mannchida - Gundrak"] = "Mannchida - Gundrak",
+		["Senseeder - Frostmourne"] = "Senseeder - Frostmourne",
+		["Xin - Caelestrasz"] = "Xin - Caelestrasz",
+		["Senjichan - Frostmourne"] = "Senjichan - Frostmourne",
+		["Senjuken - Gundrak"] = "Senjuken - Gundrak",
+		["Senobibi - Frostmourne"] = "Senobibi - Frostmourne",
+		["Vandrill - Gundrak"] = "Vandrill - Gundrak",
+		["Senrogate - Frostmourne"] = "Senrogate - Frostmourne",
+		["Senshinzo - Caelestrasz"] = "Senshinzo - Caelestrasz",
+		["Testxext - Frostmourne"] = "Testxext - Frostmourne",
+		["Senshikari - Frostmourne"] = "Senshikari - Frostmourne",
+		["Sencha - Gundrak"] = "Sencha - Gundrak",
+		["Tavia - Gundrak"] = "Tavia - Gundrak",
+		["Senobie - Emerald Dream"] = "Senobie - Emerald Dream",
+		["Senmura - Saurfang"] = "Senmura - Saurfang",
+		["Sendørei - Frostmourne"] = "Sendørei - Frostmourne",
+		["Senreithis - Frostmourne"] = "Senreithis - Frostmourne",
+		["Shoryukén - Frostmourne"] = "Shoryukén - Frostmourne",
+		["Senjíchan - Frostmourne"] = "Senjíchan - Frostmourne",
+		["Senviction - Frostmourne"] = "Senviction - Frostmourne",
+		["Sensujin - Gundrak"] = "Sensujin - Gundrak",
+		["Sensuki - Emerald Dream"] = "Sensuki - Emerald Dream",
+		["Sèn - Frostmourne"] = "Sèn - Frostmourne",
+		["Senshinzo - Gundrak"] = "Senshinzo - Gundrak",
+		["Senjitsu - Saurfang"] = "Senjitsu - Saurfang",
+		["Senjitsu - Caelestrasz"] = "Senjitsu - Caelestrasz",
+		["Senjítsu - Frostmourne"] = "Senjítsu - Frostmourne",
+		["Vanlorian - Tichondrius"] = "Vanlorian - Tichondrius",
+		["Senjitsu - Bloodhoof"] = "Senjitsu - Bloodhoof",
+		["Dackilla - Frostmourne"] = "Dackilla - Frostmourne",
+		["Sumat - Frostmourne"] = "Sumat - Frostmourne",
+		["Senvric - Frostmourne"] = "Senvric - Frostmourne",
+		["Senorlax - Frostmourne"] = "Senorlax - Frostmourne",
+		["Senzuke - Gundrak"] = "Senzuke - Gundrak",
+		["Senruko - Frostmourne"] = "Senruko - Frostmourne",
+		["Senjiji - Frostmourne"] = "Senjiji - Frostmourne",
+		["Leonaldon - Frostmourne"] = "Leonaldon - Frostmourne",
+		["Sencubie - Frostmourne"] = "Sencubie - Frostmourne",
+		["Oversynced - Frostmourne"] = "Oversynced - Frostmourne",
+		["Zfusion - Suramar"] = "Zfusion - Suramar",
+		["Senshigeru - Caelestrasz"] = "Senshigeru - Caelestrasz",
+		["Frostsync - Frostmourne"] = "Frostsync - Frostmourne",
+		["Rathang - Frostmourne"] = "Rathang - Frostmourne",
+		["Sènjitsu - Frostmourne"] = "Sènjitsu - Frostmourne",
+		["Wrearaz - Gundrak"] = "Wrearaz - Gundrak",
+		["Vandrill - Saurfang"] = "Vandrill - Saurfang",
+		["Hoonau - Frostmourne"] = "Hoonau - Frostmourne",
+		["Senjitsu - Jubei'Thos"] = "Senjitsu - Jubei'Thos",
+		["Xeen - Frostmourne"] = "Xeen - Frostmourne",
+		["Senvo - Frostmourne"] = "Senvo - Frostmourne",
+		["Senvod - Frostmourne"] = "Senvod - Frostmourne",
+		["Sensujin - Frostmourne"] = "Sensujin - Frostmourne",
+		["Pepsikilla - Suramar"] = "Pepsikilla - Suramar",
+		["Verani - Barthilas"] = "Verani - Barthilas",
+		["Hailat - Nagrand"] = "Hailat - Nagrand",
+		["Senshizo - Frostmourne"] = "Senshizo - Frostmourne",
+		["Tailukyeh - Caelestrasz"] = "Tailukyeh - Caelestrasz",
+		["Hailatmog - Saurfang"] = "Hailatmog - Saurfang",
+		["Renjitsu - Frostmourne"] = "Renjitsu - Frostmourne",
+		["Senzx - Frostmourne"] = "Senzx - Frostmourne",
+		["Senshimusu - Gundrak"] = "Senshimusu - Gundrak",
+		["Gerlystefica - Barthilas"] = "Gerlystefica - Barthilas",
+		["Myrolorin - Jubei'Thos"] = "Myrolorin - Jubei'Thos",
+		["Conoriann - Garrosh"] = "Conoriann - Garrosh",
+		["Ngonghai - Jubei'Thos"] = "Ngonghai - Jubei'Thos",
+		["Sensitiv - Frostmourne"] = "Sensitiv - Frostmourne",
+		["Minyak - Jubei'Thos"] = "Minyak - Jubei'Thos",
+	},
+	["global"] = {
+		["ConnectedRealms"] = {
+			["Gundrak"] = "Frostmourne",
+			["Nagrand"] = "Saurfang",
+			["Frostmourne"] = "Jubei'Thos",
+			["Saurfang"] = "Caelestrasz",
+			["Caelestrasz"] = "Saurfang",
+			["Jubei'Thos"] = "Frostmourne",
+		},
+		["Guilds"] = {
+			["Default.Gundrak.Actus Reus"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Professionally AFK"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Caelestrasz.Tranquillity"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Suramar.The Bronze Talon"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Caelestrasz.Sounds of Silence"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Nagrand.Lagenda"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Lagenda"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.D U R I A N"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.For the Flex"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Stronghold"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Skillcapped Australia"] = {
+				["faction"] = "Alliance",
+			},
+		},
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Barthilas.Senjitsu"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Gundrak.Senjitsu"] = {
+				["guildName"] = "Actus Reus",
+				["faction"] = "Horde",
+			},
+			["Default.Gundrak.Senzuke"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Senjichan"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "For the Flex",
+			},
+			["Default.Frostmourne.Senvo"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Gundrak.Sensujin"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Caelestrasz.Senjichan"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Frostsync"] = {
+				["guildName"] = "For the Flex",
+				["faction"] = "Alliance",
+			},
+			["Default.Jubei'Thos.Najib"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Jubei'Thos.Feihai"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "For the Flex",
+			},
+			["Default.Bloodhoof.Senjitsu"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Senshikari"] = {
+				["guildName"] = "For the Flex",
+				["faction"] = "Alliance",
+			},
+			["Default.Suramar.Shadowelven"] = {
+				["guildName"] = "The Bronze Talon",
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Sèn"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "D U R I A N",
+			},
+			["Default.Suramar.Epidemicious"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "The Bronze Talon",
+			},
+			["Default.Gundrak.Senjuken"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Saurfang.Xïn"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Saurfang.Hailat"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Brewjitsu"] = {
+				["guildName"] = "For the Flex",
+				["faction"] = "Alliance",
+			},
+			["Default.Suramar.Zfusion"] = {
+				["guildName"] = "The Bronze Talon",
+				["faction"] = "Alliance",
+			},
+			["Default.Caelestrasz.Xin"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Senjítsu"] = {
+				["guildName"] = "Lagenda",
+				["faction"] = "Alliance",
+			},
+			["Default.Saurfang.Hailatmats"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Senshinzo"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "For the Flex",
+			},
+			["Default.Frostmourne.Testxext"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Sendørei"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Gundrak.Senshimusu"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Saurfang.Senjitsu"] = {
+				["guildName"] = "Tranquillity",
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Sensujin"] = {
+				["guildName"] = "For the Flex",
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Leonaldon"] = {
+				["guildName"] = "For the Flex",
+				["faction"] = "Alliance",
+			},
+			["Default.Caelestrasz.Senjitsu"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Gundrak.Senjutsu"] = {
+				["guildName"] = "Actus Reus",
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Senorlax"] = {
+				["guildName"] = "For the Flex",
+				["faction"] = "Alliance",
+			},
+			["Default.Nagrand.Hailat"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Jubei'Thos.Senjitsu"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Jubei'Thos.Ngonghai"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Sensitiv"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "For the Flex",
+			},
+			["Default.Jubei'Thos.Minyak"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Caelestrasz.Senshigeru"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Sounds of Silence",
+			},
+			["Default.Frostmourne.Xiñ"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Caelestrasz.Tailukyeh"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Suramar.Pepsikilla"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "The Bronze Talon",
+			},
+			["Default.Saurfang.Hailatmog"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Caelestrasz.Hailat"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Senviction"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "For the Flex",
+			},
+			["Default.Caelestrasz.Senshinzo"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Senjíchan"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "For the Flex",
+			},
+			["Default.Frostmourne.Senjitsu"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "For the Flex",
+			},
+			["Default.Emerald Dream.Senobie"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Senrogate"] = {
+				["guildName"] = "For the Flex",
+				["faction"] = "Alliance",
+			},
+			["Default.Gundrak.Frostsync"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["Bloodhoof"] = "Bloodhoof",
+			["Frostmourne"] = "Frostmourne",
+			["Caelestrasz"] = "Caelestrasz",
+			["Gundrak"] = "Gundrak",
+			["Suramar"] = "Suramar",
+			["EmeraldDream"] = "Emerald Dream",
+			["Barthilas"] = "Barthilas",
+			["Nagrand"] = "Nagrand",
+			["Saurfang"] = "Saurfang",
+			["Jubei'Thos"] = "Jubei'Thos",
+		},
+	},
+}

@@ -1,0 +1,10 @@
+tag 3660f38f3cae0a88ecb26c7ad9576827df8822ed 10.0.0.0
+Author:	semlar <teslagraafs@gmail.com>
+Date:	Mon Oct 31 01:59:57 2022 -0400
+
+commit c05b1a357faf6bad4574298463c93ab0af606e7d
+Author: semlar <teslagraafs@gmail.com>
+Date:   Mon Oct 31 01:59:34 2022 -0400
+
+    Bump toc for 10.0
+

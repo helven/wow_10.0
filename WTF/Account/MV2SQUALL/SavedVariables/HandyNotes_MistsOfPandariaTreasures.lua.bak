@@ -1,0 +1,97 @@
+
+HandyNotes_MistsOfPandariaTreasuresDB = {
+	["profileKeys"] = {
+		["Senjichan - Frostmourne"] = "Senjichan - Frostmourne",
+		["Senvorath - Gundrak"] = "Senvorath - Gundrak",
+		["Minyak - Jubei'Thos"] = "Minyak - Jubei'Thos",
+		["Senshizo - Frostmourne"] = "Senshizo - Frostmourne",
+		["Xin - Caelestrasz"] = "Xin - Caelestrasz",
+		["Testxext - Frostmourne"] = "Testxext - Frostmourne",
+		["Senjitsu - Saurfang"] = "Senjitsu - Saurfang",
+		["Sensitiv - Frostmourne"] = "Sensitiv - Frostmourne",
+		["Pepsikilla - Suramar"] = "Pepsikilla - Suramar",
+		["Senjíchan - Frostmourne"] = "Senjíchan - Frostmourne",
+		["Rahruken - Suramar"] = "Rahruken - Suramar",
+		["Senviction - Frostmourne"] = "Senviction - Frostmourne",
+		["Senrogate - Frostmourne"] = "Senrogate - Frostmourne",
+		["Senjitsu - Jubei'Thos"] = "Senjitsu - Jubei'Thos",
+		["Senjitsu - Frostmourne"] = "Senjitsu - Frostmourne",
+		["Xiñ - Frostmourne"] = "Xiñ - Frostmourne",
+		["Senjitsu - Gundrak"] = "Senjitsu - Gundrak",
+		["Sèn - Frostmourne"] = "Sèn - Frostmourne",
+		["Senshigeru - Caelestrasz"] = "Senshigeru - Caelestrasz",
+		["Senshinzo - Caelestrasz"] = "Senshinzo - Caelestrasz",
+		["Senjutsu - Gundrak"] = "Senjutsu - Gundrak",
+		["Senjítsu - Frostmourne"] = "Senjítsu - Frostmourne",
+		["Lemak - Jubei'Thos"] = "Lemak - Jubei'Thos",
+		["Senshimusu - Gundrak"] = "Senshimusu - Gundrak",
+		["Sensujin - Gundrak"] = "Sensujin - Gundrak",
+		["Leonaldon - Frostmourne"] = "Leonaldon - Frostmourne",
+		["Senshinzo - Frostmourne"] = "Senshinzo - Frostmourne",
+		["Ngonghai - Jubei'Thos"] = "Ngonghai - Jubei'Thos",
+		["Senzuke - Gundrak"] = "Senzuke - Gundrak",
+		["Senobie - Emerald Dream"] = "Senobie - Emerald Dream",
+	},
+	["profiles"] = {
+		["Senjichan - Frostmourne"] = {
+		},
+		["Senvorath - Gundrak"] = {
+		},
+		["Minyak - Jubei'Thos"] = {
+		},
+		["Senshizo - Frostmourne"] = {
+		},
+		["Xin - Caelestrasz"] = {
+		},
+		["Testxext - Frostmourne"] = {
+		},
+		["Senjitsu - Saurfang"] = {
+		},
+		["Sensitiv - Frostmourne"] = {
+		},
+		["Pepsikilla - Suramar"] = {
+		},
+		["Senjíchan - Frostmourne"] = {
+		},
+		["Rahruken - Suramar"] = {
+		},
+		["Senviction - Frostmourne"] = {
+		},
+		["Senrogate - Frostmourne"] = {
+		},
+		["Senjitsu - Jubei'Thos"] = {
+		},
+		["Senjitsu - Frostmourne"] = {
+		},
+		["Xiñ - Frostmourne"] = {
+		},
+		["Senjitsu - Gundrak"] = {
+		},
+		["Sèn - Frostmourne"] = {
+		},
+		["Senshigeru - Caelestrasz"] = {
+		},
+		["Senshinzo - Caelestrasz"] = {
+		},
+		["Senjutsu - Gundrak"] = {
+		},
+		["Senjítsu - Frostmourne"] = {
+		},
+		["Lemak - Jubei'Thos"] = {
+		},
+		["Senshimusu - Gundrak"] = {
+		},
+		["Sensujin - Gundrak"] = {
+		},
+		["Leonaldon - Frostmourne"] = {
+		},
+		["Senshinzo - Frostmourne"] = {
+		},
+		["Ngonghai - Jubei'Thos"] = {
+		},
+		["Senzuke - Gundrak"] = {
+		},
+		["Senobie - Emerald Dream"] = {
+		},
+	},
+}

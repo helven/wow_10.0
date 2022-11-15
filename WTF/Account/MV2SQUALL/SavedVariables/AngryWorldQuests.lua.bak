@@ -1,0 +1,9 @@
+
+AngryWorldQuests_Config = {
+	["__version"] = 20,
+	["__filters"] = 22,
+	["onlyCurrentZone"] = false,
+	["disabledFilters"] = 65232,
+	["showContinentPOI"] = true,
+	["collapsed"] = true,
+}

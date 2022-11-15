@@ -1,0 +1,78 @@
+VER 3 0100000000000249 "Blood Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip Dancing Rune Weapon
+/cancelaura Hand of Protection
+/use 14;
+/cast [nomod] Outbreak;
+/cast [nomod] !Breath of Sindragosa
+/cast [nomod] Dancing Rune Weapon
+END
+VER 3 0100000000000247 "Death Grip" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Death Grip
+/cast [mod:shift] Empower Rune Weapon;
+END
+VER 3 0100000000000246 "Death Strike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod, @focus] Asphyxiate
+/cast [mod:shift] Death Strike;
+END
+VER 3 0100000000000242 "Festering Strike" "INV_MISC_QUESTIONMARK"
+#showtooltip Festering Strike
+/startattack
+/cast [nomod] Festering Strike;
+/cast [mod:shift] Blood Boil;
+END
+VER 3 0100000000000233 "Frost Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Pillar of Frost;
+/use 14;
+/cast Breath of Sindragosa;
+END
+VER 3 010000000000023B "Frost F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Death Coil;
+/cast [nomod] Frost Strike;
+/cast [mod:shift] Outbreak;
+END
+VER 3 0100000000000241 "Gnaw" "INV_MISC_QUESTIONMARK"
+#showtooltip Gnaw
+/cast [nopet] raise dead;
+/cast [nomod] !Leap;
+/cast [nomod] !Gnaw;
+/cast [mod:shift] Outbreak
+END
+VER 3 010000000000023A "Lich of Winter" "INV_MISC_QUESTIONMARK"
+#showtooltip Lichborne
+/cast Lichborne
+/cast [mod:shift, target=player] Death Coil
+END
+VER 3 0100000000000230 "Presence Dance" "INV_MISC_QUESTIONMARK"
+/cast [spec:1,stance:1,nomod][spec:1,stance:3,mod:shift] Frost presence
+/cast [spec:1,mod:shift] Unholy presence
+/cast [spec:2,stance:1,nomod][spec:2,stance:3,mod:shift] Unholy presence
+/cast [spec:2,mod:shift] Frost presence
+/cast Blood Presence
+END
+VER 3 0100000000000245 "R" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Remorseless Winter
+/cast [mod:shift] Remorseless Winter;
+END
+VER 3 010000000000023C "Silence" "INV_MISC_QUESTIONMARK"
+#showtooltip Gnaw
+/cast [nomod] Mind Freeze;
+/cast [mod:shift] Gnaw
+END
+VER 3 010000000000023F "Unholy Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip Unholy Frenzy
+/cast Unholy Frenzy
+/cast Summon Gargoyle
+/cast Outbreak
+/use 14
+END
+VER 3 0100000000000243 "Unholy F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Death Coil;
+/cast [nomod] Frost Strike
+/cast [mod:shift] Outbreak;
+END

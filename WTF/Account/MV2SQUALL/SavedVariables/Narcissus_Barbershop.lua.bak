@@ -1,0 +1,52 @@
+
+NarciBarberShopDB = {
+	["ToggleRandomAppearance"] = false,
+	["ToggleNotification"] = true,
+	["Hotkeys"] = {
+		["ZoomIn"] = "W",
+		["RotateLeft"] = "A",
+		["ZoomOut"] = "S",
+		["RotateRight"] = "D",
+	},
+	["PlayerData"] = {
+		["0B683BBE"] = {
+			["playerName"] = "Sensujin",
+			["realmID"] = "3725",
+			["SavedLooks"] = {
+				[10] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+			},
+			["realmName"] = "Gundrak",
+		},
+		["0B650416"] = {
+			["playerName"] = "Senjutsu",
+			["realmID"] = "3725",
+			["SavedLooks"] = {
+				[10] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+			},
+			["realmName"] = "Gundrak",
+		},
+		["0B639360"] = {
+			["playerName"] = "Vandrill",
+			["realmID"] = "3725",
+			["SavedLooks"] = {
+				[10] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+			},
+			["realmName"] = "Gundrak",
+		},
+	},
+}

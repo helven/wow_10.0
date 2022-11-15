@@ -1,0 +1,8 @@
+
+DataStore_MailsDB = {
+	["profileKeys"] = {
+		["Lemak - Jubei'Thos"] = "Lemak - Jubei'Thos",
+		["Senzuke - Gundrak"] = "Senzuke - Gundrak",
+		["Senjítsu - Frostmourne"] = "Senjítsu - Frostmourne",
+	},
+}

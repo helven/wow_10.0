@@ -1,0 +1,82 @@
+VER 3 0100000000000232 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip Outbreak
+/startattack
+/cast [nomod] Howling Blast
+/cast [nomod] Icy Touch
+/cast [mod:shift] Blood Boil
+/cast [nomod] Outbreak
+END
+VER 3 0100000000000242 "3" "INV_MISC_QUESTIONMARK"
+#showtooltip Festering Strike
+/startattack
+/use [nomod] Festering Strike;
+END
+VER 3 010000000000024A "4" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Chains of Ice
+END
+VER 3 0100000000000247 "C" "INV_MISC_QUESTIONMARK"
+#showtooltip Death Strike
+/startattack
+/cast [nomod] Death Strike;
+END
+VER 3 010000000000024B "D&D" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] !Death and Decay
+END
+VER 3 010000000000023C "E" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Mind Freeze;
+/cast [mod:shift] Gnaw
+END
+VER 3 0100000000000243 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Death Coil
+/cast [nomod] Frost Strike
+END
+VER 3 0100000000000233 "Frost Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip Pillar of Frost
+/cancelaura Hand of Protection
+/startattack
+/cast [nomod] Pillar of Frost;
+/use 14;
+/cast [nomod] Obliteration
+/cast [nomod] !Breath of Sindragosa
+/cast [mod:shift] Empower Rune Weapon;
+END
+VER 3 010000000000023B "Frost F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Frost Strike
+/cast [mod:shift] Death Coil;
+END
+VER 3 0100000000000241 "Gnaw" "INV_MISC_QUESTIONMARK"
+#showtooltip Gnaw
+/cast [nopet] raise dead;
+/cast [nomod] !Leap;
+/cast [nomod] !Gnaw;
+/cast [mod:shift] Outbreak
+END
+VER 3 0100000000000245 "R" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/startattack
+/cast [nomod] Epidemic;
+/cast [mod:shift] Apocalypse;
+END
+VER 3 0100000000000244 "Stun" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Hand of Protection
+/cast [nomod] Strangulate
+/cast [mod:shift] Arcane Torrent
+/cast [mod:shift] Shadowmeld
+END
+VER 3 0100000000000249 "T" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Death Grip;
+/cast [mod:shift,@focus] Strangulate
+END
+VER 3 010000000000023F "Unholy Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip Unholy Frenzy
+/cast [nomod] Unholy Frenzy
+/use [nomod] 14
+/use [mod:shift] Dark Transformation
+END

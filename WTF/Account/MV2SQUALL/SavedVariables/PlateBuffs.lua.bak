@@ -1,0 +1,10 @@
+
+PB_DB = {
+	["profileKeys"] = {
+		["Senjitsu - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

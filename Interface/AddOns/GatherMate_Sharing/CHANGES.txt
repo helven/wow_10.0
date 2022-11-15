@@ -1,0 +1,27 @@
+------------------------------------------------------------------------
+r114 | nevcairiel | 2021-06-17 17:33:49 +0000 (Thu, 17 Jun 2021) | 1 line
+Changed paths:
+   M /trunk/GatherMate_Sharing.toc
+   D /trunk/embeds.xml
+
+GatherMate_Sharing: Remove embeds.xml
+------------------------------------------------------------------------
+r113 | nevcairiel | 2021-06-17 17:29:58 +0000 (Thu, 17 Jun 2021) | 1 line
+Changed paths:
+   M /trunk/GatherMate_Sharing.lua
+
+GatherMate_Sharing: Fixup module definition
+------------------------------------------------------------------------
+r112 | nevcairiel | 2021-06-17 17:27:11 +0000 (Thu, 17 Jun 2021) | 1 line
+Changed paths:
+   M /trunk/GatherMate_Sharing.toc
+
+GatherMate_Sharing: Update TOC to 9.0.5
+------------------------------------------------------------------------
+r111 | nevcairiel | 2021-06-17 17:26:53 +0000 (Thu, 17 Jun 2021) | 1 line
+Changed paths:
+   M /trunk/GatherMate_Sharing.lua
+
+GatherMate_Sharing: Use new sharing API
+------------------------------------------------------------------------
+

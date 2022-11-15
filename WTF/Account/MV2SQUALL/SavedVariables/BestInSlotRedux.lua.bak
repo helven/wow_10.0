@@ -1,0 +1,148 @@
+
+BestInSlotDB = {
+	["char"] = {
+		["Senjitsu - Saurfang"] = {
+			["selected"] = {
+				"Shadowlands", -- [1]
+				90002, -- [2]
+				"plaguefall", -- [3]
+				[5] = 3,
+				[6] = 70,
+			},
+		},
+		["Senjítsu - Frostmourne"] = {
+			[90002] = {
+				[3] = {
+					[253] = {
+						178816, -- [1]
+						180115, -- [2]
+						178764, -- [3]
+						nil, -- [4]
+						179353, -- [5]
+						178843, -- [6]
+						178778, -- [7]
+						178796, -- [8]
+						180114, -- [9]
+						179325, -- [10]
+						178933, -- [11]
+						178871, -- [12]
+						179350, -- [13]
+						180116, -- [14]
+						180123, -- [15]
+						180112, -- [16]
+					},
+				},
+			},
+			["windowpos"] = {
+				["xOffset"] = 178.8887786865234,
+				["relativePoint"] = "LEFT",
+				["point"] = "LEFT",
+				["yOffset"] = 97.77796936035156,
+			},
+			["options"] = {
+				["overviewfilter"] = {
+					[253] = true,
+				},
+			},
+			["selected"] = {
+				"Shadowlands", -- [1]
+				90002, -- [2]
+				"hallsofatonement", -- [3]
+				[5] = 3,
+				[6] = 253,
+			},
+			["tutorials"] = {
+				["Request BiS"] = {
+					true, -- [1]
+					true, -- [2]
+				},
+				["BiS manager"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+					[5] = true,
+				},
+				["Custom Items"] = {
+					true, -- [1]
+					true, -- [2]
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Feihai - Jubei'Thos"] = "Feihai - Jubei'Thos",
+		["Brewjitsu - Frostmourne"] = "Brewjitsu - Frostmourne",
+		["Hailatmats - Saurfang"] = "Hailatmats - Saurfang",
+		["Dalthrath - Frostmourne"] = "Dalthrath - Frostmourne",
+		["Sensujin - Frostmourne"] = "Sensujin - Frostmourne",
+		["Senreithis - Frostmourne"] = "Senreithis - Frostmourne",
+		["Senrogate - Frostmourne"] = "Senrogate - Frostmourne",
+		["Senjitsu - Jubei'Thos"] = "Senjitsu - Jubei'Thos",
+		["Senobibi - Frostmourne"] = "Senobibi - Frostmourne",
+		["Xiñ - Frostmourne"] = "Xiñ - Frostmourne",
+		["Hailat - Saurfang"] = "Hailat - Saurfang",
+		["Senjítsu - Frostmourne"] = "Senjítsu - Frostmourne",
+		["Sèn - Frostmourne"] = "Sèn - Frostmourne",
+		["Tailukyeh - Caelestrasz"] = "Tailukyeh - Caelestrasz",
+		["Senjichan - Caelestrasz"] = "Senjichan - Caelestrasz",
+		["Senjitsu - Bloodhoof"] = "Senjitsu - Bloodhoof",
+		["Senzx - Frostmourne"] = "Senzx - Frostmourne",
+		["Senjitsu - Saurfang"] = "Senjitsu - Saurfang",
+		["Hailat - Caelestrasz"] = "Hailat - Caelestrasz",
+		["Senshigeru - Caelestrasz"] = "Senshigeru - Caelestrasz",
+		["Senjutsu - Gundrak"] = "Senjutsu - Gundrak",
+		["Senjitsu - Frostmourne"] = "Senjitsu - Frostmourne",
+		["Senzuke - Gundrak"] = "Senzuke - Gundrak",
+		["Senviction - Frostmourne"] = "Senviction - Frostmourne",
+	},
+	["profiles"] = {
+		["Feihai - Jubei'Thos"] = {
+		},
+		["Brewjitsu - Frostmourne"] = {
+		},
+		["Hailatmats - Saurfang"] = {
+		},
+		["Dalthrath - Frostmourne"] = {
+		},
+		["Sensujin - Frostmourne"] = {
+		},
+		["Senreithis - Frostmourne"] = {
+		},
+		["Senrogate - Frostmourne"] = {
+		},
+		["Senjitsu - Jubei'Thos"] = {
+		},
+		["Senobibi - Frostmourne"] = {
+		},
+		["Xiñ - Frostmourne"] = {
+		},
+		["Hailat - Saurfang"] = {
+		},
+		["Senjítsu - Frostmourne"] = {
+		},
+		["Sèn - Frostmourne"] = {
+		},
+		["Tailukyeh - Caelestrasz"] = {
+		},
+		["Senjichan - Caelestrasz"] = {
+		},
+		["Senjitsu - Bloodhoof"] = {
+		},
+		["Senzx - Frostmourne"] = {
+		},
+		["Senjitsu - Saurfang"] = {
+		},
+		["Hailat - Caelestrasz"] = {
+		},
+		["Senshigeru - Caelestrasz"] = {
+		},
+		["Senjutsu - Gundrak"] = {
+		},
+		["Senjitsu - Frostmourne"] = {
+		},
+		["Senzuke - Gundrak"] = {
+		},
+		["Senviction - Frostmourne"] = {
+		},
+	},
+}

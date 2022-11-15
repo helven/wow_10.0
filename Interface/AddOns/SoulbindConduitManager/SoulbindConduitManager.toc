@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: Soulbind Conduit Manager
+## Author: Calista
+## Version: 0.6
+## Notes: Manages combinations of Soulbind conduit selections/paths
+## SavedVariablesPerCharacter: SCMdb
+
+SoulbindConduitManager.lua

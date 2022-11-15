@@ -1,0 +1,16 @@
+tag 98cdc7a47adf7ce47d17078ee476a87de2a9ed6a 10.0.0.0
+Author:	semlar <teslagraafs@gmail.com>
+Date:	Sat Oct 29 15:35:45 2022 -0400
+
+commit e1653de5d8c6c3bb821155738dce107cc622d2ae
+Author: semlar <teslagraafs@gmail.com>
+Date:   Sat Oct 29 14:10:45 2022 -0400
+
+    Fix `Texture.SetGradientAlpha` being removed in 10.0
+
+commit c7ba47b1eca07df546aec5551a05973bf9df74db
+Author: semlar <teslagraafs@gmail.com>
+Date:   Sat Oct 29 14:09:46 2022 -0400
+
+    Bump toc for 10.0
+

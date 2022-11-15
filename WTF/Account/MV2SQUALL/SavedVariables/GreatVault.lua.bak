@@ -1,0 +1,10 @@
+
+GreatVaultDB = {
+	["profileKeys"] = {
+		["Senjítsu - Frostmourne"] = "Senjítsu - Frostmourne",
+	},
+	["profiles"] = {
+		["Senjítsu - Frostmourne"] = {
+		},
+	},
+}

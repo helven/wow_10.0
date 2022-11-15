@@ -1,0 +1,452 @@
+
+iStableMasterDB = {
+	["ActiveSorts"] = {
+		["Sort"] = {
+			["ActiveSlots"] = 1,
+			["Expansion"] = {
+				["WOTLK"] = 3,
+				["CATA"] = 4,
+				["Classic"] = 1,
+				["SL"] = 9,
+				["WOD"] = 6,
+				["Direction"] = 1,
+				["TBC"] = 2,
+				["BFA"] = 8,
+				["LEGION"] = 7,
+				["MOP"] = 5,
+			},
+			["Rarity"] = 1,
+			["Exotic"] = 1,
+			["Specialization"] = {
+				["Cunning"] = 1,
+				["Direction"] = 1,
+				["Ferocity"] = 3,
+				["Tenacity"] = 2,
+			},
+			["Renamed"] = 1,
+			["Name"] = 0,
+			["Diets"] = 1,
+			["AnySort"] = false,
+			["Family"] = {
+				["Mechanical"] = 32,
+				["Worm"] = 59,
+				["Stag"] = 49,
+				["Feathermane"] = 23,
+				["Warp Stalker"] = 54,
+				["Basilisk"] = 2,
+				["Camel"] = 9,
+				["Wasp"] = 55,
+				["Water Strider"] = 56,
+				["Ravager"] = 38,
+				["Scorpid"] = 43,
+				["Scalehide"] = 42,
+				["Oxen"] = 35,
+				["Stone Hound"] = 50,
+				["Hydra"] = 28,
+				["Bear"] = 4,
+				["Beetle"] = 5,
+				["Chimaera"] = 13,
+				["Clefthoof"] = 14,
+				["Spirit Beast"] = 47,
+				["Crab"] = 17,
+				["Crocolisk"] = 19,
+				["Courser"] = 16,
+				["Devilsaur"] = 20,
+				["Gruffhorn"] = 26,
+				["Pterrordax"] = 36,
+				["Gorilla"] = 25,
+				["Hyena"] = 29,
+				["Turtle"] = 53,
+				["Direction"] = 0,
+				["Ray"] = 39,
+				["Fox"] = 24,
+				["Monkey"] = 33,
+				["Carapid"] = 10,
+				["Crane"] = 18,
+				["Dragonhaw"] = 22,
+				["Rodent"] = 41,
+				["Serpent"] = 44,
+				["Cat"] = 12,
+				["Bat"] = 3,
+				["Shale Beast"] = 45,
+				["Wolf"] = 58,
+				["Moth"] = 34,
+				["Carrion Bird"] = 11,
+				["Tallstrider"] = 51,
+				["Riverbeast"] = 40,
+				["Spider"] = 46,
+				["Bird of Prey"] = 6,
+				["Lizzard"] = 30,
+				["Direhorn"] = 21,
+				["Toad"] = 52,
+				["Aquiri"] = 1,
+				["Boar"] = 8,
+				["Core Hound"] = 15,
+				["Wind Serpent"] = 57,
+				["Hound"] = 27,
+				["Sporebat"] = 48,
+				["Raptor"] = 37,
+				["Blood Beast"] = 7,
+				["Mammoth"] = 31,
+			},
+			["Favourites"] = 1,
+			["AnimalCompanion"] = 1,
+		},
+		["CurrentSort"] = {
+			["primary"] = 0,
+			["tertiary"] = 0,
+			["secondary"] = 0,
+		},
+		["ReverseLookUpIndex"] = {
+			"Name", -- [1]
+			"Specialization", -- [2]
+			"Family", -- [3]
+			"Expansion", -- [4]
+			"Diets", -- [5]
+			"Favourites", -- [6]
+			"Exotic", -- [7]
+			"Renamed", -- [8]
+			"Rarity", -- [9]
+			"ActiveSlots", -- [10]
+			"AnimalCompanion", -- [11]
+		},
+	},
+	["ActiveFilters"] = {
+		["Type"] = {
+			["API_Databased"] = {
+				["FilterName"] = {
+					["Families"] = {
+						["Mechanical"] = false,
+						["Worm"] = false,
+						["Stag"] = false,
+						["Feathermane"] = false,
+						["Warp Stalker"] = false,
+						["Basilisk"] = false,
+						["Camel"] = false,
+						["Water Strider"] = false,
+						["Ravager"] = false,
+						["Scorpid"] = false,
+						["Scalehide"] = false,
+						["Oxen"] = false,
+						["Stone Hound"] = false,
+						["Hydra"] = false,
+						["Bear"] = false,
+						["Beetle"] = false,
+						["Chimaera"] = false,
+						["Clefthoof"] = false,
+						["Wasp"] = false,
+						["Crab"] = false,
+						["Spirit Beast"] = false,
+						["Courser"] = false,
+						["Crocolisk"] = false,
+						["Sporebat"] = false,
+						["Pterrordax"] = false,
+						["Gruffhorn"] = false,
+						["Hyena"] = false,
+						["Gorilla"] = false,
+						["Devilsaur"] = false,
+						["Moth"] = false,
+						["Fox"] = false,
+						["Monkey"] = false,
+						["Carapid"] = false,
+						["Ray"] = false,
+						["Dragonhaw"] = false,
+						["Crane"] = false,
+						["Rodent"] = false,
+						["Cat"] = false,
+						["Bat"] = false,
+						["Serpent"] = false,
+						["Wolf"] = false,
+						["Shale Beast"] = false,
+						["Carrion Bird"] = false,
+						["Spider"] = false,
+						["Riverbeast"] = false,
+						["Tallstrider"] = false,
+						["Bird of Prey"] = false,
+						["Lizzard"] = false,
+						["Direhorn"] = false,
+						["Toad"] = false,
+						["Aquiri"] = false,
+						["Boar"] = false,
+						["Core Hound"] = false,
+						["Wind Serpent"] = false,
+						["Hound"] = false,
+						["Turtle"] = false,
+						["Raptor"] = false,
+						["Blood Beast"] = false,
+						["Mammoth"] = false,
+					},
+					["Specializations"] = {
+						["Cunning"] = false,
+						["Ferocity"] = false,
+						["Tenacity"] = false,
+					},
+					["Diets"] = {
+						["Raw Fish"] = false,
+						["Fish"] = false,
+						["Mechanical Bits"] = false,
+						["Cheese"] = false,
+						["Fruit"] = false,
+						["Fungus"] = false,
+						["Bread"] = false,
+						["Raw Meat"] = false,
+						["Meat"] = false,
+					},
+				},
+			},
+			["Custom"] = {
+				["FilterName"] = {
+					["Named"] = false,
+					["Exotic"] = false,
+					["Rarity"] = false,
+					["Favourite"] = false,
+				},
+			},
+			["AnyFilter"] = false,
+		},
+	},
+	["SpecializationAbilities"] = {
+		["Tenacity"] = {
+			264662, -- [1]
+			264735, -- [2]
+		},
+		["Ferocity"] = {
+			264663, -- [1]
+			264667, -- [2]
+		},
+		["Cunning"] = {
+			264656, -- [1]
+			53271, -- [2]
+		},
+	},
+	["Dynamics"] = {
+		["D_STABLES_COLLECTION"] = {
+			["TabId"] = 6,
+			["ActiveSlotLoopValue"] = 5,
+		},
+	},
+	["FamilyAbilities"] = {
+		["Mechanical"] = {
+			263868, -- [1]
+		},
+		["Worm"] = {
+			263446, -- [1]
+			93433, -- [2]
+		},
+		["Stag"] = {
+			344352, -- [1]
+		},
+		["Feathermane"] = {
+			263916, -- [1]
+			160007, -- [2]
+		},
+		["Basilisk"] = {
+			263841, -- [1]
+		},
+		["Camel"] = {
+			341115, -- [1]
+		},
+		["Lizard"] = {
+			279362, -- [1]
+		},
+		["Core�Hound"] = {
+			263867, -- [1]
+			159788, -- [2]
+		},
+		["Ravager"] = {
+			263857, -- [1]
+		},
+		["Scorpid"] = {
+			160060, -- [1]
+		},
+		["Scalehide"] = {
+			263865, -- [1]
+		},
+		["Oxen"] = {
+			264023, -- [1]
+		},
+		["Stone Hound"] = {
+			17253, -- [1]
+			160049, -- [2]
+			267922, -- [3]
+		},
+		["Aqiri"] = {
+			160065, -- [1]
+			280151, -- [2]
+		},
+		["Bear"] = {
+			263934, -- [1]
+			94019, -- [2]
+		},
+		["Beetle"] = {
+			90339, -- [1]
+		},
+		["Chimaera"] = {
+			54644, -- [1]
+			92380, -- [2]
+		},
+		["Clefthoof"] = {
+			160057, -- [1]
+			280069, -- [2]
+		},
+		["Wasp"] = {
+			263858, -- [1]
+		},
+		["Crab"] = {
+			50245, -- [1]
+		},
+		["Warp�Stalker"] = {
+			35346, -- [1]
+		},
+		["Courser"] = {
+			341117, -- [1]
+		},
+		["Turtle"] = {
+			26064, -- [1]
+		},
+		["Gorilla"] = {
+			263939, -- [1]
+		},
+		["Pterrordax"] = {
+			279399, -- [1]
+			160007, -- [2]
+		},
+		["Dragonhawk"] = {
+			263887, -- [1]
+		},
+		["Hyena"] = {
+			263853, -- [1]
+		},
+		["Sporebat"] = {
+			344347, -- [1]
+		},
+		["Devilsaur"] = {
+			54680, -- [1]
+			159953, -- [2]
+		},
+		["Ray"] = {
+			344349, -- [1]
+		},
+		["Fox"] = {
+			160011, -- [1]
+			90347, -- [2]
+		},
+		["Monkey"] = {
+			160044, -- [1]
+		},
+		["Carapid"] = {
+			279410, -- [1]
+			279254, -- [2]
+		},
+		["Moth"] = {
+			344353, -- [1]
+		},
+		["Toad"] = {
+			279336, -- [1]
+		},
+		["Shale Beast"] = {
+			160063, -- [1]
+			279259, -- [2]
+		},
+		["Serpent"] = {
+			263904, -- [1]
+		},
+		["Cat"] = {
+			263892, -- [1]
+			24450, -- [2]
+		},
+		["Bat"] = {
+			344348, -- [1]
+		},
+		["Water�Strider"] = {
+			344346, -- [1]
+			126311, -- [2]
+		},
+		["Wolf"] = {
+			263840, -- [1]
+		},
+		["Tallstrider"] = {
+			50285, -- [1]
+		},
+		["Carrion Bird"] = {
+			24423, -- [1]
+		},
+		["Bird of Prey"] = {
+			263852, -- [1]
+			94022, -- [2]
+		},
+		["Riverbeast"] = {
+			160018, -- [1]
+		},
+		["Spider"] = {
+			160067, -- [1]
+		},
+		["Mammoth"] = {
+			49966, -- [1]
+			341118, -- [2]
+		},
+		["Hydra"] = {
+			263863, -- [1]
+		},
+		["Direhorn"] = {
+			263861, -- [1]
+		},
+		["Rodent"] = {
+			263856, -- [1]
+			94019, -- [2]
+		},
+		["Crane"] = {
+			344350, -- [1]
+			94022, -- [2]
+		},
+		["Boar"] = {
+			263869, -- [1]
+		},
+		["Gruffhorn"] = {
+			263921, -- [1]
+		},
+		["Wind Serpent"] = {
+			264360, -- [1]
+		},
+		["Hound"] = {
+			17253, -- [1]
+			263423, -- [2]
+		},
+		["Crocolisk"] = {
+			50433, -- [1]
+		},
+		["Raptor"] = {
+			263854, -- [1]
+		},
+		["Spirit Beast"] = {
+			344351, -- [1]
+			90361, -- [2]
+			90328, -- [3]
+		},
+		["Blood�Beast"] = {
+			288962, -- [1]
+		},
+	},
+	["Constants"] = {
+		["ColourScheme"] = {
+			["Default"] = {
+				["Blue"] = "2A3F66FF",
+				["Green"] = "4A5C33FF",
+				["DarkGreen"] = "344943FF",
+				["BlackTintedBlue"] = "0C1019FF",
+				["LightGreen"] = "8FB261FF",
+			},
+		},
+		["C_STABLES_COLLECTION"] = {
+			["Title"] = "Stables",
+			["Tab"] = "Stable Master",
+		},
+		["CALL_PET_SPELL_IDS"] = {
+			883, -- [1]
+			83242, -- [2]
+			83243, -- [3]
+			83244, -- [4]
+			83245, -- [5]
+		},
+	},
+}

@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: QuestPlates
+## Notes: Adds quest progress to nameplates
+## Version: 10.0.0.0
+## Author: Semlar
+## SavedVariables: QuestPlateSettings
+semlib\semlib.xml
+QuestPlates.lua

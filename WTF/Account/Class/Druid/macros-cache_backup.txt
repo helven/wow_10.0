@@ -1,0 +1,115 @@
+VER 3 0100000000000043 "1" "INV_Misc_QuestionMark"
+#showtooltips Shred
+/use [nomod,noform:1] !Cat Form
+/startattack;
+/use [nomod] Shred
+/use [mod:shift] Wrath
+END
+VER 3 0100000000000042 "E" "INV_Misc_QuestionMark"
+#showtooltip
+/use [nomod]Skull Bash
+/use [mod:shift]Soothe
+END
+VER 3 0100000000000030 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip Displacer Beast
+/cast [mod:shift] Displacer Beast;
+/cast Moonfire;
+END
+VER 3 010000000000003F "Friendly WC" "INV_Misc_QuestionMark"
+#showtooltip Wild Charge
+/cancelform
+/cast [@mouseover, @target, help]Wild Charge
+END
+VER 3 0100000000000041 "M1" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] Dash
+/cast [nomod, stance:1] !Bear Form
+/cast [nomod, stance:0] !Cat Form
+/cast [nomod, stance:3] !Travel Form
+/cast [nomod, stance:4] !Moonkin Form
+END
+VER 3 0100000000000034 "Maim Hibernate" "INV_MISC_QUESTIONMARK"
+#showtooltip Maim
+/cast [nomod] Maim;
+/cast [mod:shift] Hibernate;
+END
+VER 3 010000000000003C "Mushroom!" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Mushroom
+/cast [nomod, form:2/3/4/noform] !Moonkin Form;
+/cast [nomod] Wild Mushroom;
+/cast [mod:shift] Wild Mushroom: detonate;
+/cast [mod:shift] Wild Mushroom: bloom
+END
+VER 3 0100000000000031 "R" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomod] Cyclone;
+/cast [mod:shift] Entangling Roots
+END
+VER 3 010000000000002F "Rake" "INV_MISC_QUESTIONMARK"
+#showtooltips Rake
+/cast [noform:2] !Cat Form
+/cast [nostealth] Prowl
+/cast [harm,nomod] Wild Charge
+/startattack;
+/cast [nomod] Rake;
+/cast [mod:shift] Thrash 
+END
+VER 3 010000000000002C "Regrowth" "INV_MISC_QUESTIONMARK"
+#showtooltip Regrowth
+/startattack;
+/cast [harm,nomod] Wrath;
+/cast [harm,mod:shift] Moonfire;
+/cast [help,nodead,mod:shift][@target;mod:shift][@player;mod:shift] Nourish;
+/cast [@mouseover,help,nodead,nomod][@target,help][@focus,help][@player] Regrowth;
+END
+VER 3 010000000000003D "Rejuvenation" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod]Rejuvenation
+/use [mod:shift]Healing Touch
+END
+VER 3 010000000000003B "Starfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Starfire
+/cast [nomod, form:2/3/4/noform] !Moonkin Form;
+/cast [nomod] Starfire;
+/cast [mod:shift] Moonfire;
+END
+VER 3 0100000000000039 "Starsurge" "INV_MISC_QUESTIONMARK"
+#showtooltip Starsurge
+/cast [nomod, form:2/3/4/noform] !Moonkin Form;
+/cast [nomod] Starsurge;
+/cast [mod:shift] Starfall
+END
+VER 3 0100000000000040 "Stealth" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [combat, nostealth] Shadowmeld
+/cast !Prowl
+END
+VER 3 0100000000000033 "Swipe" "INV_MISC_QUESTIONMARK"
+#showtooltips Swipe
+/cast [nomod, form:2/4/5/noform] !Cat Form;
+/startattack;
+/cast [nomod] Swipe
+/cast [mod:shift] Thrash
+END
+VER 3 010000000000003E "Tiger's Roar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod]Savage Roar
+/use [mod:shift]Tiger's Fury
+/use [mod:shift]Shred
+END
+VER 3 010000000000003A "Wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip Wrath
+/cast [nomod, form:2/3/4/noform] !Moonkin Form;
+/cast [nomod] Wrath;
+/cast [mod:shift] Sunfire;
+END
+VER 3 0100000000000032 "X" "INV_MISC_QUESTIONMARK"
+#showtooltip Berserk
+/cancelaura Hand of Protection
+/use Tiger's Fury
+/use Berserk
+/use Incarnation: King of the Jungle(Talent, Shapeshift)
+/use Nature's Vigil
+/use Celestial Alignment
+/use 14
+END

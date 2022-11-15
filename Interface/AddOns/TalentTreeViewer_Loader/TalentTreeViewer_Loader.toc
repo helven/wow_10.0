@@ -1,0 +1,11 @@
+## Interface: 100000
+## Title: TalentTree Viewer (Loader)
+## Notes: View any spec's talent trees from any character
+## Author: Numy
+## Version: v2.1.4
+## SavedVariables: TalentTreeViewerDB
+## X-Curse-Project-ID: 678279
+## OptionalDeps: BlizzMove
+
+libs\load_libs.xml
+TalentTreeViewer_Loader.lua

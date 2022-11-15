@@ -1,0 +1,28 @@
+VER 3 0100000000000007 "Destro Combo E" "INV_Misc_QuestionMark"
+#showtooltip Mesmerize
+/cast [mod:ctrl,target=focus,exists] Mesmerize;[mod:shift] Seed of Corruption;
+/petattack [nomod] ;
+/stopattack [mod:shirt] ;
+/cast [nomod] Mesmerize;
+/cast [mod:shift] Seduction
+END
+VER 3 010000000000000E "Q" "INV_Misc_QuestionMark"
+#showtooltip
+/stopcasting
+/startattack
+/cast [mod:ctrl,target=mouseover,exists] Banish;
+/cast [mod:ctrl] Banish;Drain Life;
+/cast [mod:shift] Drain Soul;
+END
+VER 3 010000000000001B "R" "INV_Misc_QuestionMark"
+#showtooltip
+/stopattack
+/cast [nomod] Fear
+/cast [mod:shift] Howl of Terror;Fear
+END
+VER 3 0100000000000027 "Fel Tap" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] Life Tap;
+/cast [target=mouseover,exists] Fel Flame;Fel Flame
+/stopcasting
+END

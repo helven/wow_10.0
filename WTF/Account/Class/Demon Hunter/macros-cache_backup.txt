@@ -1,0 +1,40 @@
+VER 3 0100000000000002 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Demon's Bite
+END
+VER 3 0100000000000007 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Felblade
+END
+VER 3 0100000000000001 "3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Chaos Strike
+END
+VER 3 0100000000000003 "4" "INV_MISC_QUESTIONMARK"
+#showtooltip Glide
+/startattack
+/use [nomod] Throw Glaive
+/dismount [mod:shift,mounted]
+/use [mod:shift] !Glide
+END
+VER 3 0100000000000005 "E" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Disrupt
+/use [mod:shift] Imprison
+END
+VER 3 0100000000000004 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Blade Dance
+/use [mod:shift] Throw Glaive
+END
+VER 3 0100000000000006 "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/use [nomod] Eye Beam
+/use [mod:shift] Consume Magic
+END

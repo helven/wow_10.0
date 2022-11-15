@@ -1,0 +1,7 @@
+
+DRF_Global = {
+	["AutoUndress"] = false,
+	["OpenToTarget"] = false,
+	["UndressTarget"] = false,
+	["Conservative"] = false,
+}

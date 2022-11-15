@@ -1,0 +1,143 @@
+
+BigDebuffsDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Senjichan - Frostmourne"] = "Default",
+		["Senvorath - Gundrak"] = "Default",
+		["Senjìtsu - Barthilas"] = "Default",
+		["Senjitsu - Caelestrasz"] = "Default",
+		["Senshikari - Frostmourne"] = "Default",
+		["Senreithis - Frostmourne"] = "Default",
+		["Senviction - Frostmourne"] = "Default",
+		["Sèn - Frostmourne"] = "Default",
+		["Senruz - Barthilas"] = "Default",
+		["Rahruken - Suramar"] = "Default",
+		["Senorlax - Frostmourne"] = "Default",
+		["Lothran - Gundrak"] = "Default",
+		["Feihai - Jubei'Thos"] = "Default",
+		["Senjitsu - Saurfang"] = "Default",
+		["Senjitsu - Bloodhoof"] = "Default",
+		["Vandrill - Gundrak"] = "Default",
+		["Rathang - Frostmourne"] = "Default",
+		["Sendørei - Frostmourne"] = "Default",
+		["Senjítsu - Frostmourne"] = "Default",
+		["Brewjitsu - Frostmourne"] = "Default",
+		["Dalthrath - Frostmourne"] = "Default",
+		["Senrogate - Frostmourne"] = "Default",
+		["Senjitsu - Frostmourne"] = "Default",
+		["Senmu - Gundrak"] = "Default",
+		["Senjitsu - Jubei'Thos"] = "Default",
+		["Senobibi - Frostmourne"] = "Default",
+		["Senjitsu - Gundrak"] = "Default",
+		["Senshigeru - Caelestrasz"] = "Default",
+		["Najib - Jubei'Thos"] = "Default",
+		["Senshinzo - Caelestrasz"] = "Default",
+		["Tailukyeh - Caelestrasz"] = "Default",
+		["Hailatmog - Saurfang"] = "Default",
+		["Senjutsu - Gundrak"] = "Default",
+		["Senzx - Frostmourne"] = "Default",
+		["Senshizo - Frostmourne"] = "Default",
+		["Sensujin - Frostmourne"] = "Default",
+		["Senvo - Frostmourne"] = "Default",
+		["Senshinzo - Frostmourne"] = "Default",
+		["Ngonghai - Jubei'Thos"] = "Default",
+		["Sensitiv - Frostmourne"] = "Default",
+		["Pepsikilla - Suramar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["raidFrames"] = {
+				["cooldownFont"] = "Enigma__2",
+				["redirectBliz"] = true,
+				["enabled"] = false,
+				["hideBliz"] = false,
+				["interrupts"] = 55.00000000000001,
+			},
+			["nameplates"] = {
+				["cooldownFont"] = "PT Sans Narrow Bold",
+				["enemyAnchor"] = {
+					["anchor"] = "TOP",
+					["y"] = 32,
+					["size"] = 33,
+				},
+				["size"] = 30,
+				["friendly"] = false,
+				["buffs_other"] = false,
+			},
+			["priority"] = {
+				["interrupts"] = 34,
+			},
+			["spells"] = {
+				[48707] = {
+					["customPriority"] = true,
+					["priority"] = 59,
+				},
+				[212295] = {
+					["customPriority"] = true,
+					["priority"] = 59,
+				},
+			},
+			["unitFrames"] = {
+				["cooldownFont"] = "Enigma__2",
+				["party3"] = {
+					["position"] = {
+						"CENTER", -- [1]
+						nil, -- [2]
+						"CENTER", -- [3]
+						-620.05517578125, -- [4]
+						6.166887283325195, -- [5]
+					},
+				},
+				["party"] = {
+					["anchor"] = "manual",
+					["size"] = 28,
+				},
+				["focus"] = {
+					["enabled"] = false,
+				},
+				["target"] = {
+					["enabled"] = false,
+				},
+				["party4"] = {
+					["position"] = {
+						"CENTER", -- [1]
+						nil, -- [2]
+						"CENTER", -- [3]
+						-619.722412109375, -- [4]
+						-53.49975204467773, -- [5]
+					},
+				},
+				["arena1"] = {
+				},
+				["enabled"] = false,
+				["pet"] = {
+					["enabled"] = false,
+				},
+				["player"] = {
+					["enabled"] = false,
+				},
+				["party1"] = {
+					["position"] = {
+						"CENTER", -- [1]
+						nil, -- [2]
+						"CENTER", -- [3]
+						-619.8888549804688, -- [4]
+						121.0558166503906, -- [5]
+					},
+				},
+				["party2"] = {
+					["position"] = {
+						"CENTER", -- [1]
+						nil, -- [2]
+						"CENTER", -- [3]
+						-620.3889770507812, -- [4]
+						62.50001525878906, -- [5]
+					},
+				},
+			},
+		},
+	},
+}

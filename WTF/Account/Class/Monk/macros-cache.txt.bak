@@ -1,0 +1,126 @@
+VER 3 0100000000000027 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/cancelaura Zen Flight
+/cancelaura Spinning Crane Kick
+/startattack
+/petattack
+/use [nomod] Tiger Palm
+/use [mod:shift] Spinning Crane Kick
+END
+VER 3 0100000000000039 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount
+/cancelaura Zen Flight
+/cancelaura Spinning Crane Kick
+/startattack
+/petattack
+/use [nomod] Heart Essence
+END
+VER 3 010000000000002A "3" "INV_MISC_QUESTIONMARK"
+#showtooltip Blackout Kick
+/startattack
+/petattack
+/cast [nomod] Blackout Kick
+END
+VER 3 0100000000000037 "AoE" "INV_MISC_QUESTIONMARK"
+#showtooltip Spinning Crane Kick
+/use [nomod] Rushing Jade Wind
+/use [mod:shift] Spinning Crane Kick
+END
+VER 3 0100000000000036 "B" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] !Ring of Peace
+END
+VER 3 0100000000000035 "C" "INV_MISC_QUESTIONMARK"
+/cancelaura Spinning Crane Kick
+/startattack
+/petattack
+/use [nomod] Whirling Dragon Punch
+/use [mod:shift] Invoke Xuen, the White Tiger
+END
+VER 3 010000000000001B "E" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Spinning Crane Kick
+/stopattack
+/cast [nomod] Spear Hand Strike
+/cast [mod:shift] Paralysis
+/cast [mod:ctrl, target:focus] Paralysis
+END
+VER 3 0100000000000021 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/leavevehicle
+/cancelaura Zen Flight
+/cancelaura Spinning Crane Kick
+/startattack
+/petattack
+/use [nomod] Rising Sun Kick
+/use [nomod] Keg Smash
+/use [mod:shift] Crackling Jade Lightning
+END
+VER 3 010000000000003A "F1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Fortifying Brew
+/use Healthstone
+END
+VER 3 0100000000000033 "Focus Incap" "INV_Misc_QuestionMark"
+#showtooltip
+/use [@focus]Paralysis
+END
+VER 3 010000000000002D "Fortifying Brew" "607512"
+#showtooltip Fortifying Brew
+/cancelaura Spinning Crane Kick
+/cast Fortifying Brew
+/use Healthstone
+END
+VER 3 010000000000001E "G" "606552"
+#showtooltip
+/leavevehicle
+/cancelaura Zen Flight
+/cancelaura Rushing Jade Wind
+/cancelaura Spining Crane Kick
+/startattack
+/petattack
+/use [nomod, @target,exists] Touch of Death
+/use [mod:shift] Fortifying Brew
+END
+VER 3 010000000000002F "R" "627606"
+#showtooltip
+/cancelaura Zen Flight
+/cancelaura Spinning Crane Kick
+/startattack
+/petattack
+/use [nomod] Fists of Fury
+/use [mod:shift] Touch of Karma
+/use [mod:ctrl] Energizing Elixir
+END
+VER 3 0100000000000038 "Reverse Harm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Zen Flight
+/cast [nomod,@player] Reverse Harm
+/cast [mod:shift,@player] Tiger's Lust
+/cast [mod:ctrl,@target] Tiger's Lust
+END
+VER 3 0100000000000024 "Tiger's Lust" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Zen Flight
+/use [nomod,@player] Expel harm
+/use [mod:shift,@player] Tiger's Lust
+/use [mod:ctrl,@target] Tiger's Lust
+END
+VER 3 010000000000002E "Transcendence" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Zen Flight
+/cast [nomod] Transcendence; 
+/cast [mod:shift] Transcendence: Transfer
+END
+VER 3 0100000000000030 "X" "INV_MISC_QUESTIONMARK"
+#showtooltip Storm, Earth, and Fire
+/cancelaura Zen Flight
+/startattack
+/petattack
+/cast Storm, Earth, and Fire
+/use [nomod] 14;
+/use [nomod] Rising Sun Kick
+/use [mod:shift] Invoke Xuen, the White Tiger
+END
